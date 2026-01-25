@@ -14,7 +14,7 @@ const openSans = Open_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Monster Expedition Map",
+  title: "A Monster's Expedition Map",
   description: "Interactive map and tracker for A Monster's Expedition",
 };
 
