@@ -6,23 +6,24 @@ import { MapContainer, ImageOverlay, Marker, Popup, Tooltip, ZoomControl, useMap
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { initialMarkers } from '@/data/markers';
+import { getAssetPath } from '@/utils/paths';
 
 const artifactIcon = new L.Icon({
-  iconUrl: '/artifact.png',
+  iconUrl: getAssetPath('/artifact.png'),
   iconSize: [32, 32],
   iconAnchor: [16, 16],
   popupAnchor: [0, -16],
 });
 
 const friendIcon = new L.Icon({
-  iconUrl: '/snowman.png',
+  iconUrl: getAssetPath('/snowman.png'),
   iconSize: [32, 32],
   iconAnchor: [16, 16],
   popupAnchor: [0, -16],
 });
 
 const solutionIcon = new L.Icon({
-  iconUrl: '/idea.png',
+  iconUrl: getAssetPath('/idea.png'),
   iconSize: [24, 24],
   iconAnchor: [12, 12],
   popupAnchor: [0, -12],
@@ -149,7 +150,7 @@ export default function GameMap() {
       >
         <ZoomControl position="bottomright" />
         <ImageOverlay
-          url="/map-v2.webp"
+          url={getAssetPath('/map-v2.webp')}
           bounds={[[-36, 0], [268, 440]]}
           attribution='&copy; <a href="https://monsterexpedition.tgratzer.com">Taylor Gratzer</a> | &copy; Solutions by <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2239781361">Innocentive</a>'
         />
@@ -196,10 +197,10 @@ export default function GameMap() {
                         {marker.images.map((img, idx) => (
                           <img 
                             key={idx}
-                            src={`/guide/images/${img}`}
+                            src={getAssetPath(`/guide/images/${img}`)}
                             alt={`Solution ${idx + 1}`}
                             className="w-80 object-cover rounded cursor-pointer hover:opacity-80"
-                            onClick={() => setLightboxImage(`/guide/images/${img}`)}
+                            onClick={() => setLightboxImage(getAssetPath(`/guide/images/${img}`))}
                           />
                         ))}
                       </div>

@@ -2,6 +2,7 @@
   "name": "monster-expedition-map",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mrinflated.github.io/Monster-Expedition-Map",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

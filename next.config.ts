@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  basePath: '/monster-expedition-map',
+  basePath: '/Monster-Expedition-Map',
   output: 'export',
 };
 
