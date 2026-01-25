@@ -3,11 +3,17 @@
   <h1>🗺️ Monster Expedition Map</h1>
   <p><strong>An interactive map and progress tracker for A Monster's Expedition</strong></p>
   
+  <p>
+    <a href="https://mrinflated.github.io/Monster-Expedition-Map/"><strong>🚀 View Live Map</strong></a>
+  </p>
+  
   [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)](https://nextjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
   [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 </div>
+
+![Monster Expedition Map Screenshot](public/screenshot.png)
 
 ---
 
