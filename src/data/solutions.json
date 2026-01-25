@@ -1,0 +1,8266 @@
+[
+  {
+    "coordinates": {
+      "x": 79,
+      "z": 141
+    },
+    "solution_text": "M : B | E | 86 - 141\n- DD\n- DDDL LLLU LUUR\n- RDDD RRRR UU\n- UULL D\n- RRDD DDUD LLLL ULUU RDRR RR",
+    "images": [
+      "79_141_1.jpg",
+      "79_141_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 81,
+      "z": 182
+    },
+    "solution_text": "M : R-E | NS | 92 - 182\n&\n87 - 179\n- LLLL UUUR ULUL LDDL DRUR DDUL LDDR RRDR\nU\n- LLUU UURR D\n- DDDL RRDR U",
+    "images": [
+      "81_182_1.jpg",
+      "81_182_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 82,
+      "z": 147
+    },
+    "solution_text": "M : B | S | 79 - 141\n- DDLL LDRD RRUR UULL\n- DDLL U\n- UUUR DDLD RURD D",
+    "images": [
+      "82_147_1.jpg",
+      "82_147_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 86,
+      "z": 141
+    },
+    "solution_text": "M : B | E | 94 - 144",
+    "images": [
+      "86_141_1.jpg",
+      "86_141_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 86,
+      "z": 168
+    },
+    "solution_text": "M : R-N | E | 87 - 179\n- DLL\n- LLDR RRDU RULL\n- DLUU LURR",
+    "images": [
+      "86_168_1.jpg",
+      "86_168_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 87,
+      "z": 152
+    },
+    "solution_text": "M : B | W | 82 - 147\n- LLLL LDRR DRUL URRU LRUU LLDD DRDL\nR-N | E | 90 - 158\nRaft 96 - 151: SP- RESET\n- L (87 - 152)\n- LLLD DLDR RDRU LUUR RRDR U",
+    "images": [
+      "87_152_1.jpg",
+      "87_152_2.jpg",
+      "87_152_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 87,
+      "z": 179
+    },
+    "solution_text": "M : B | W | 81 - 182",
+    "images": [
+      "87_179_1.jpg",
+      "87_179_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 90,
+      "z": 158
+    },
+    "solution_text": "B | E | 99 - 158",
+    "images": [
+      "90_158_1.jpg",
+      "90_158_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 92,
+      "z": 182
+    },
+    "solution_text": "M : B | E | 99 - 179\n&\n99 - 185\n- RR\n- RURR UULD RDDL ULDD DDU\n- RU\n- L\n- UURD\n- LDLL RR\n- DRU\n- RR\n- LLLU RURD LDRR R",
+    "images": [
+      "92_182_1.jpg",
+      "92_182_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 93,
+      "z": 21
+    },
+    "solution_text": "DE : B | N | 94 - 26\n- UULD RDDL\n- ULLL LLLD DRUL UUR\n- RRDD DLU\n- RRRR UULD LLUU\n- DDDL UULU RR",
+    "images": [
+      "93_21_1.jpg",
+      "93_21_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 94,
+      "z": 26
+    },
+    "solution_text": "DE : B | E | 99 - 30",
+    "images": [
+      "94_26_1.jpg",
+      "94_26_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 94,
+      "z": 144
+    },
+    "solution_text": "M : B | N | 96 - 151 (South Entry)\n- RRRD RU\n- LLUR RUUR U",
+    "images": [
+      "94_144_1.jpg",
+      "94_144_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 95,
+      "z": 53
+    },
+    "solution_text": "SC : B | E | 98 - 46\n- LLUU RRUR D\n- DDLL LLDD LDR",
+    "images": [
+      "95_53_1.jpg",
+      "95_53_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 95,
+      "z": 171
+    },
+    "solution_text": "M : R-W | SW | 86 - 168\n- UULL L\n- UULD\n- RRDD DLL\n- RUUL LDRD L",
+    "images": [
+      "95_171_1.jpg",
+      "95_171_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 96,
+      "z": 88
+    },
+    "solution_text": "B | E | 104 - 86\n- DDLL LLLU URDL DDRD RRRR UUU\n- RUR\n- LU\n- LLUU RDLD RR\n- DRRU RR\n- DRRU R",
+    "images": [
+      "96_88_1.jpg",
+      "96_88_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 96,
+      "z": 151
+    },
+    "solution_text": "M : B | W | 87 - 152\n- LLLL\n- LLUL",
+    "images": [
+      "96_151(EastEntry)_1.jpg",
+      "96_151(EastEntry)_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 96,
+      "z": 151
+    },
+    "solution_text": "M : B | N | 99 - 158\n- UUUU\n- UURU\nR-W | N | 87 - 152\n108 - 144 → 101 - 144\n101 - 144 → 94 - 144- RESET\n- UUU\nS: 94 - 144\nE: 101 - 144\nE: 108 - 144\nN: 104 - 151\nW: 96 - 151\n- LLLL\n- DLUU U",
+    "images": [
+      "96_151(SouthEntry)_1.jpg",
+      "96_151(SouthEntry)_2.jpg",
+      "96_151(SouthEntry)_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 98,
+      "z": 40
+    },
+    "solution_text": "SC : B | E | 106 - 37\n- RDDD D\n- DLLL LURR URDL DRRR URD\n- LDDU UUUD RDLL LRRU RD",
+    "images": [
+      "98_40_1.jpg",
+      "98_40_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 98,
+      "z": 46
+    },
+    "solution_text": "SC : B | S | 98 - 40\n- DLDD LLLD R\n- URRR UURR DLUL LDRD LULD DD",
+    "images": [
+      "98_46_1.jpg",
+      "98_46_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 98,
+      "z": 64
+    },
+    "solution_text": "M : R-E | N | 121 - 67\n- DLLL DLDR RRDU LUUR RLDD RRUU\n- UULL LLDD LDDR DRRU LURR LDDR RUUU U",
+    "images": [
+      "98_64_1.jpg",
+      "98_64_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 99,
+      "z": 30
+    },
+    "solution_text": "DE : B | S | 104 - 25\n- UURR RULL LUD\n- RDD\n- DDLL UURR URD\n- LDDL R",
+    "images": [
+      "99_30_1.jpg",
+      "99_30_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 99,
+      "z": 105
+    },
+    "solution_text": "M : B | N | 100 - 112\n- RUUR RRRR LL\n- LUUL LDLD DR\n- URRD\n- RDLL UUUU",
+    "images": [
+      "99_105_1.jpg",
+      "99_105_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 99,
+      "z": 158
+    },
+    "solution_text": "M : B | E | 106 - 159\n- URRR RRUL LLDL URRU LLUR ULUL DLDD DRRR RR",
+    "images": [
+      "99_158_1.jpg",
+      "99_158_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 99,
+      "z": 179
+    },
+    "solution_text": "M : B | E | 106 - 180\nN: 99 - 185\n- RESET\n- UURR RUUL DDLD RURD DD\nS: 99 - 179\n- DDRR RU\n- LUUR R",
+    "images": [
+      "99_179_1.jpg",
+      "99_179_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 99,
+      "z": 185
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "99_185_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 100,
+      "z": 112
+    },
+    "solution_text": "M : B | N | 102 - 120\nM+ : B | E | 107 - 112\n- RUUR RRRR LL\n- UULL LDLD DR\n- URRD\n- RDLL ULUR RURD DLLD RRRR",
+    "images": [
+      "100_112_1.jpg",
+      "100_112_2.jpg",
+      "100_112_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 100,
+      "z": 139
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "100_139_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 101,
+      "z": 17
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "101_17_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 101,
+      "z": 20
+    },
+    "solution_text": "DE : B | W | 93 - 21",
+    "images": [
+      "101_20_1.jpg",
+      "101_20_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 101,
+      "z": 144
+    },
+    "solution_text": "M+ : B | W | 94 - 144",
+    "images": [
+      "101_144_1.jpg",
+      "101_144_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 101,
+      "z": 167
+    },
+    "solution_text": "M : B | W | 95 - 171\n- UULL LLLL UR\n- DRRR URRU RDRD DLLU UULL DLDD RDRU\n- RULL LDLU",
+    "images": [
+      "101_167_1.jpg",
+      "101_167_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 102,
+      "z": 75
+    },
+    "solution_text": "M : R-E | S | 115 - 75\n- UUUL LDRU RRD\n- DDLL LLDR DRRU LURR URD",
+    "images": [
+      "102_75_1.jpg",
+      "102_75_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 102,
+      "z": 94
+    },
+    "solution_text": "R-S | S | 96 - 88\n- LDL\n- UUUR ULLL LUDR RDLL L\n- RUUL LULD D\n- LDDD L\n- RRDD LURU L\n- UULL LLDD L\n- RR\n- UURR RDDD RULU UURR DLLL LLUL D",
+    "images": [
+      "102_94_1.jpg",
+      "102_94_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 102,
+      "z": 120
+    },
+    "solution_text": "M : B | N | 104 - 126\n- LU\n- ULUU LUUR RRUD LDR\n- LDR\n- DDRU UUUU",
+    "images": [
+      "102_120_1.jpg",
+      "102_120_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 102,
+      "z": 209
+    },
+    "solution_text": "M : R-E | E | 114 - 211\n- LLLL RR",
+    "images": [
+      "102_209_1.jpg",
+      "102_209_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 103,
+      "z": 52
+    },
+    "solution_text": "SC : B | W | 95 - 53\n- LDDL LUUU URL\n- LUUL DRDD L",
+    "images": [
+      "103_52_1.jpg",
+      "103_52_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 103,
+      "z": 193
+    },
+    "solution_text": "M : B | N | 107 - 199\n- LLLU LDDL DRRD RULU RRRR R (111 - 192)\n- RRRU RDLD DRRU LDLU RULL LLLL (103 - 193)\n- LLDL UULU RRLD DRRU UU",
+    "images": [
+      "103_193_1.jpg",
+      "103_193_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 104,
+      "z": 25
+    },
+    "solution_text": "DE : B | S | 101 - 17\n& 101 - 20 & 108 - 20\n- RDDD\n- RRRD URUL\n- DDLU LLD\n- UUUR DDRD LULD",
+    "images": [
+      "104_25_1.jpg",
+      "104_25_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 104,
+      "z": 86
+    },
+    "solution_text": "B | E | 109 - 90",
+    "images": [
+      "104_86_1.jpg",
+      "104_86_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 104,
+      "z": 126
+    },
+    "solution_text": "M : B | E | 112 - 123",
+    "images": [
+      "104_126_1.jpg",
+      "104_126_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 104,
+      "z": 151
+    },
+    "solution_text": "M : B | W | 96 - 151 (East Entry)\n- ULLL LLUL UURR RRRL ULDD RDLL L",
+    "images": [
+      "104_151_1.jpg",
+      "104_151_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 106,
+      "z": 37
+    },
+    "solution_text": "SC : B | N | 107 - 44\n- DRDR RUUU\n- URDR RU\n- RURD DDDU U\n- LLLL LURD RRRU",
+    "images": [
+      "106_37_1.jpg",
+      "106_37_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 106,
+      "z": 159
+    },
+    "solution_text": "M : B | N | 101 - 167\nM+ : B | E | 112 - 161\n- URRR\n- LUUR URRD RDDL RUUL LLDD DRUU LURR R",
+    "images": [
+      "106_159_1.jpg",
+      "106_159_2.jpg",
+      "106_159_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 106,
+      "z": 180
+    },
+    "solution_text": "M : R-N | E | 107 - 188\n- R\n- RRRU RRRD L\n- LLLD UU\n- DRUR RDDL URUL",
+    "images": [
+      "106_180_1.jpg",
+      "106_180_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 106,
+      "z": 238
+    },
+    "solution_text": "M+ : R-E | N | 142 - 237\n- UUL\n- LLLL UULU RURD LDRR\n- D\n- RU\n- DDDL UURU LLUL LDRR RDRU",
+    "images": [
+      "106_238_1.jpg",
+      "106_238_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 107,
+      "z": 44
+    },
+    "solution_text": "SC : B | E | 117 - 41\n- ULLL LLUU UUUR DLDD RURD DDLD RRRR RRRR",
+    "images": [
+      "107_44_1.jpg",
+      "107_44_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 107,
+      "z": 65
+    },
+    "solution_text": "M : R-W | N | 98 - 64\n- DLLD LURU L\n- DLLL DRRD RUUR RULD LU",
+    "images": [
+      "107_65_1.jpg",
+      "107_65_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 107,
+      "z": 112
+    },
+    "solution_text": "M+ : B | N | 110 - 118",
+    "images": [
+      "107_112_1.jpg",
+      "107_112_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 107,
+      "z": 188
+    },
+    "solution_text": "M : B | N | 103 - 193\n&\n111 - 192\n- ULUR\n- RURU\n- LDR\n- DRRU UULL DLU\n- DLDD RRUL LURR URUL DLU",
+    "images": [
+      "107_188_1.jpg",
+      "107_188_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 107,
+      "z": 199
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "107_199_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 108,
+      "z": 20
+    },
+    "solution_text": "DE : B | W | 101 - 20\n- LDLL\n- DDLU RUUL\n- DDRR DRRU RULL LDLU RUL",
+    "images": [
+      "108_20_1.jpg",
+      "108_20_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 108,
+      "z": 144
+    },
+    "solution_text": "M : B | N | 104 - 151\nM+ : B | W | 101 - 144\n- ULLL ULLD LDRD RRUL UUUR RDRR RUUL LDUR RDDL LULL LDDR RURU L\n- LU\n- ULDD LDDR URUL L\nDE : R-W | S | 100 - 139\n- ULLL ULLD LDRD RRUL UUUR RDRR RUUL LDLD RRR\nE: 116 - 142\n- RESET\n- UUL\n- LULL LLUR RURD\n- LLLD DR\n- RRRR ULLL DLUR UL\nW: 108 - 144\n- LLUL LLDD RRUR ULL\n- U\n- ULDD LDRD RULU UURR DRRR UULL DURR DDLL ULLL DDRR URUL LULD DDRD LULD\n- RESET\n- LLLU LLDL DRDR RULU UURR DRRR UULL DURR DDLL ULLL DDRR URUL\n- LU\n- ULDD DRDL ULD",
+    "images": [
+      "108_144_1.jpg",
+      "108_144_2.jpg",
+      "108_144_3.jpg",
+      "108_144_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 109,
+      "z": 90
+    },
+    "solution_text": "R-E | S | 119 - 104\nB | W | 102 - 94",
+    "images": [
+      "109_90_1.jpg",
+      "109_90_2.jpg",
+      "109_90_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 109,
+      "z": 167
+    },
+    "solution_text": "M+ : B | W | 101 - 167",
+    "images": [
+      "109_167_1.jpg",
+      "109_167_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 110,
+      "z": 54
+    },
+    "solution_text": "SC : B | W | 103 - 52\n- ULLD L\n- UUUL ULLD LDDR URDL DRDR ULUU RRDL LLUL D",
+    "images": [
+      "110_54_1.jpg",
+      "110_54_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 110,
+      "z": 118
+    },
+    "solution_text": "M+ : B | N | 112 - 123\n- UURD LDDR URD\n- URRD DRDL\n- UULU URRD LULL DRDD DLLU URLD DRRU UUU",
+    "images": [
+      "110_118_1.jpg",
+      "110_118_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 111,
+      "z": 192
+    },
+    "solution_text": "M : R-N | E | 114 - 211\nW: 103 - 193\nN: 107 - 199\n- RESET\n- RRDR RU\n- LUUU UURD\n- DRDL LULD RDLL ULDD DD (103 - 193)\n- DLLD DRRR RR (111 - 192)\n- RRRD RULU R",
+    "images": [
+      "111_192_1.jpg",
+      "111_192_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 112,
+      "z": 105
+    },
+    "solution_text": "M : R-W | S | 99 - 105\n- LLLU D\n- DLUU ULRU RDDD",
+    "images": [
+      "112_105_1.jpg",
+      "112_105_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 112,
+      "z": 123
+    },
+    "solution_text": "M : B | N | 113 - 129\n- RR\n- RDRR RRDL LDLU\n- RUUL LDLU",
+    "images": [
+      "112_123_1.jpg",
+      "112_123_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 112,
+      "z": 161
+    },
+    "solution_text": "M+ : B | N | 109 - 167\n- RRDR ULUR\n- LLUR RR\n- RDRR DDLL DLUR ULLD LUU",
+    "images": [
+      "112_161_1.jpg",
+      "112_161_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 112,
+      "z": 231
+    },
+    "solution_text": "M+ : B | N | 106 - 238\n- LDLL ULU\n- LU\n- UUR\n- DRUU RU\n- URRU RDDD RLDL URUL LLDL U\n- RRRU ULL\n- DDLD DDRU UURR UULL DURR DDLL",
+    "images": [
+      "112_231_1.jpg",
+      "112_231_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 113,
+      "z": 23
+    },
+    "solution_text": "DE : B | W | 108 - 20",
+    "images": [
+      "113_23_1.jpg",
+      "113_23_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 113,
+      "z": 129
+    },
+    "solution_text": "M : B | E | 119 - 126\n- RUUL LDRR DRUL URDR RRUU LD\n- LLDD RRR",
+    "images": [
+      "113_129_1.jpg",
+      "113_129_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 114,
+      "z": 65
+    },
+    "solution_text": "M : B | W | 107 - 65\nB | E | 121 - 67",
+    "images": [
+      "114_65_1.jpg",
+      "114_65_2.jpg",
+      "114_65_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 114,
+      "z": 211
+    },
+    "solution_text": "M : L | E | 119 - 213\nM : R-W | W | 102 - 209\nRaft 111 - 192",
+    "images": [
+      "114_211_1.jpg",
+      "114_211_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 114,
+      "z": 219
+    },
+    "solution_text": "M : L | W | EXIT FERRY\nL | E | 120 - 219",
+    "images": [
+      "114_219_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 115,
+      "z": 75
+    },
+    "solution_text": "M : R-W | S | 102 - 75\n- LLLU LD\n- LD\n- RRDL ULD\nM : R-S | W | 114 - 65\nRaft 102 - 75",
+    "images": [
+      "115_75_1.jpg",
+      "115_75_2.jpg",
+      "115_75_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 116,
+      "z": 142
+    },
+    "solution_text": "M : B | W | 108 - 144\n- URUL\n- LULL LLUR RURD\n- LLLD DR\n- RRRR ULLL L",
+    "images": [
+      "116_142_1.jpg",
+      "116_142_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 117,
+      "z": 29
+    },
+    "solution_text": "M+ : B | N | 121 - 33\n- LLUU LLLL DRRD RULU RRR\n- LLLU URRD DDLR\nDE : B | S | 113 - 23\n- LLUU LLLL DRRD RULU R\n- LUUR RD\n- DDDR L\n- U\n- DDLU LUR\n- LUUR RD\n- DULL DDDR RRUL ULDL DR\n- RDLD RRR\n- LLUU URDL DRRR\nE: 122 - 26\n- RESET\n- URD\n- DDDR DRDL LDLU RULL DLU\n- RRRU L\nW: 117 - 29",
+    "images": [
+      "117_29_1.jpg",
+      "117_29_2.jpg",
+      "117_29_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 117,
+      "z": 41
+    },
+    "solution_text": "SC : R-E | N | 123 - 43\n- URUR RD\n- DDDR RDDL LDLU LURR DRU\n- ULLU ULDR DDDL LURD RRRU U",
+    "images": [
+      "117_41_1.jpg",
+      "117_41_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 118,
+      "z": 4
+    },
+    "solution_text": "M : B | N | 120 - 9\n- ULLL LDRR DRU\n- LLUU ULUR",
+    "images": [
+      "118_4_1.jpg",
+      "118_4_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 119,
+      "z": 104
+    },
+    "solution_text": "M : B | E | 127 - 101\nM : B | W | 112 - 105",
+    "images": [
+      "119_104_1.jpg",
+      "119_104_2.jpg",
+      "119_104_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 119,
+      "z": 126
+    },
+    "solution_text": "M : B | S | 122 - 121\nM : R-N | E | 124 - 133\nS:   122 - 121\nR-S: 119 - 104\nE:   127 - 101\nC:   127 - 126\n- LUUU LLLL\nW: 119 - 126",
+    "images": [
+      "119_126_1.jpg",
+      "119_126_2.jpg",
+      "119_126_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 119,
+      "z": 213
+    },
+    "solution_text": "M : L | E | 125 - 213\nL | W | 114 - 211",
+    "images": [
+      "119_213(Land)_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 119,
+      "z": 213
+    },
+    "solution_text": "M : R-E | S | 125 - 213",
+    "images": [
+      "119_213(Shore)_1.jpg",
+      "119_213(Shore)_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 120,
+      "z": 9
+    },
+    "solution_text": "M : B | E | 126 - 12",
+    "images": [
+      "120_9_1.jpg",
+      "120_9_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 120,
+      "z": 219
+    },
+    "solution_text": "M : L | W | 114 - 219\nB | S | 119 - 213\n- LLLL DRDD LULL D",
+    "images": [
+      "120_219_1.jpg",
+      "120_219_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 120,
+      "z": 228
+    },
+    "solution_text": "M : T | E | 127 - 230\n- URRU LDLL LLUR DRUL UURR URD\nM+ : B | W | 112 - 231",
+    "images": [
+      "120_228_1.jpg",
+      "120_228_2.jpg",
+      "120_228_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 120,
+      "z": 233
+    },
+    "solution_text": "DE : B | E | 126 - 235",
+    "images": [
+      "120_233_1.jpg",
+      "120_233_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 121,
+      "z": 33
+    },
+    "solution_text": "M+ : B | E | 128 - 37",
+    "images": [
+      "121_33_1.jpg",
+      "121_33_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 121,
+      "z": 67
+    },
+    "solution_text": "M : R-N | E | 119 - 104\nRaft 98 - 64\nR-N | E | 123 - 75\nRaft 98 - 64\n123 - 75 → 121 - 67N: 123 - 75\n- RESET\n- DDDD RDLL LLDU RRUU LL\nS: 121 - 67\n- RESET\n- RDDL\n- U\n- R",
+    "images": [
+      "121_67_1.jpg",
+      "121_67_2.jpg",
+      "121_67_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 122,
+      "z": 26
+    },
+    "solution_text": "M : B | E | 130 - 26\nM+ : B | W | 117 - 29\n- RRUU UULU URD\n- DDDR DRDL LDLU\n- RUUL\n- RDLL DLU",
+    "images": [
+      "122_26_1.jpg",
+      "122_26_2.jpg",
+      "122_26_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 122,
+      "z": 121
+    },
+    "solution_text": "M : R-S | EW | 119 - 104\n- LLDR DDL\n- UULL DLDD R",
+    "images": [
+      "122_121_1.jpg",
+      "122_121_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 122,
+      "z": 224
+    },
+    "solution_text": "M : L | N | 120 - 228",
+    "images": [
+      "122_224_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 123,
+      "z": 18
+    },
+    "solution_text": "M : B | N | 122 - 26\nR-S | E | 126 - 12\nRaft 132 - 17",
+    "images": [
+      "123_18_1.jpg",
+      "123_18_2.jpg",
+      "123_18_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 123,
+      "z": 43
+    },
+    "solution_text": "SC : B | S | 128 - 37",
+    "images": [
+      "123_43_1.jpg",
+      "123_43_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 123,
+      "z": 75
+    },
+    "solution_text": "M : R-N | W | 115 - 75\n- DDDD RDLL LLDU RRUU LLL\n- URRR RUDD LLDD RRRU LDLU RULL L\nB | S | 121 - 67\nR-W | S | 109 - 90\nRaft 121 - 67: SP- RESET\n- RRRR DLLL LDU\n- LUUU R\n- RRRD LLUL D\n- URRR UDDL LDDR RRUL LLUL D",
+    "images": [
+      "123_75_1.jpg",
+      "123_75_2.jpg",
+      "123_75_3.jpg",
+      "123_75_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 124,
+      "z": 109
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "124_109_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 124,
+      "z": 133
+    },
+    "solution_text": "M : R-N | W | 119 - 213 (Shore)\n- RURU ULLL UDLD RURR DDLU RUL\n- LUUL LDRD DL",
+    "images": [
+      "124_133_1.jpg",
+      "124_133_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 125,
+      "z": 114
+    },
+    "solution_text": "DE : B | S | 124 - 109\n110 - 118:\n- UURD LDDR URD\n- URRD DRDL\n- UULU URRD LULL DRDD DLLU URUR DDRD LLRU ULLD D\nS: 107 - 112\n- DDRR ULUR\n125 - 114:\n- LLUL DD",
+    "images": [
+      "125_114_1.jpg",
+      "125_114_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 125,
+      "z": 182
+    },
+    "solution_text": "M : B | S | 127 - 176\nR-E | S | 132 - 180\n132 - 180 → 139 - 182\n139 - 182 → 141 - 176\n141 - 176 → 142 - 170S: 127 - 176\n- RESET\n- DDLD R\n- DRRR RRL\n- U\n- R\n- RUL\n- DDDL ULUR\n- DRRU RRLL\n- DLUR UL\n- DDLU U\nN: 125 - 182\n- RR\nM: 142 - 170\nN: 141 - 176\nW: 139 - 182\nW: 132 - 180\n- DLLL LLL\nE: 139 - 182\nS: 141 - 176\nS: 142 - 170\nM: 125 - 182",
+    "images": [
+      "125_182_1.jpg",
+      "125_182_2.jpg",
+      "125_182_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 125,
+      "z": 213
+    },
+    "solution_text": "M : R-S | W | 125 - 182\nRaft 119 - 213 (Shore)\nM : T | N | 125 - 219\nRaft 111 - 192 → 114 - 211W  : 119 - 213\nW  : 114 - 211\nR-W: 102 - 209\n- RESET\n- LLLL LRR\n- DDDD RRU\n- UUUU L\n- DR (114 - 211)\n- RDDR UUUR ULLU ULLD RRRD DRUL URR (119 - 213)\n- RDRU LUR\n- RR (125 - 213)\n- DDRR RRRR RLDL U\nL | W | 119 - 213\nDE : R-S | E | 133 - 207\nRaft 145 - 216",
+    "images": [
+      "125_213_1.jpg",
+      "125_213_2.jpg",
+      "125_213_3.jpg",
+      "125_213_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 125,
+      "z": 219
+    },
+    "solution_text": "M : L | N | 126 - 226",
+    "images": [
+      "125_219_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 126,
+      "z": 0
+    },
+    "solution_text": "M : B | W | 118 - 4\nM+ : B | E | 128 - 5\n- ULLL LLR\n- LLUU RDLD DRDD RUU\n- RRRL LLDU",
+    "images": [
+      "126_0_1.jpg",
+      "126_0_2.jpg",
+      "126_0_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 126,
+      "z": 12
+    },
+    "solution_text": "M : B | N | 123 - 18\n- URDL DDRD RUUU LUR\n- RRRD DLUR UULD LLLU",
+    "images": [
+      "126_12_1.jpg",
+      "126_12_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 126,
+      "z": 226
+    },
+    "solution_text": "M : T | S | 122 - 224\n- RUUU LLUL LD\n- RRRD DLL\nL | S | 125 - 219",
+    "images": [
+      "126_226_1.jpg",
+      "126_226_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 126,
+      "z": 235
+    },
+    "solution_text": "DE : L | S | 127 - 230\nDE : T | W | 120 - 233\n- UULL LULD\n- RDRD DLLL LUUR\n- RRRD LLUL D\n- URRU DURD DLUU RDRD DLLL ULUR DRUU RUUL DDDU RDDL ULD",
+    "images": [
+      "126_235_1.jpg",
+      "126_235_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 127,
+      "z": 101
+    },
+    "solution_text": "M : R-E | NS | 140 - 104\n- DRRU ULDD LDR\n- LDRR RRL\n- UU\n- LLDD RRDU LUUR RL\n- RUUL D\n- LDLD R\n- URRU RD\n- LLDL DRRD RU",
+    "images": [
+      "127_101_1.jpg",
+      "127_101_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 127,
+      "z": 126
+    },
+    "solution_text": "M : B | S | 122 - 121\nM : R-N | W | 124 - 133\nS:   122 - 121\nR-S: 119 - 104\nW:   112 - 105\nC:   119 - 126\n- RRRR\nE: 127 - 126",
+    "images": [
+      "127_126_1.jpg",
+      "127_126_2.jpg",
+      "127_126_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 127,
+      "z": 176
+    },
+    "solution_text": "M : B | S | 130 - 169\nM+ : B | N | 132 - 180\n- DDLD R\n- DRRR RRL\n- UU\n- DRRR RLL\n- LLLD RDRU U",
+    "images": [
+      "127_176_1.jpg",
+      "127_176_2.jpg",
+      "127_176_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 127,
+      "z": 230
+    },
+    "solution_text": "M : T | S | 131 - 225\n- RUUR RRUR RDLD DR\n- UURD\nDE : L | N | 126 - 235",
+    "images": [
+      "127_230_1.jpg",
+      "127_230_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 128,
+      "z": 5
+    },
+    "solution_text": "M+ : B | N | 126 - 12\nDE : R-E | N | 133 - 8\n- RUUR\n- LLLU R\n- RRU\n- UDLD RRDR U\n- RRLD LU\nR-N | N | 132 - 17\n- RUUL UU\nW: 126 - 0\n- RESET\n- DDLD DRDD RUU\nW: 118 - 4\nN: 120 - 9\nE: 126 - 12\nS: 128 - 5\n- DDRR\n- LLLU RRUR DLDR R\n- DRRU\n- LLLU LDD\n- DDDD (126 - 0)\n- RRRR LLLD U\nW: 118 - 4\nN: 120 - 9\nE: 126 - 12\nS: 128 - 5\n- RESET\n- RRUU\n- LULU L\n- LLDR RR\n- LLUU R\n- RRRD D\n- RESET\n- RUUR RRDU\n- LLLL LUR\n- RRU\n- UDLD RRRD RU\n- DDLU LUR",
+    "images": [
+      "128_5_1.jpg",
+      "128_5_2.jpg",
+      "128_5_3.jpg",
+      "128_5_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 128,
+      "z": 37
+    },
+    "solution_text": "M : R-N | EW | 128 - 80\n- LLUU UULD DLDR RDRU LUR\n- RRRR DDLU RUUL LLLD LLUU RDLD RDRU LUR",
+    "images": [
+      "128_37_1.jpg",
+      "128_37_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 128,
+      "z": 80
+    },
+    "solution_text": "M : B | W | 123 - 75\n- UUUR DDRD LULD RDLL LL",
+    "images": [
+      "128_80_1.jpg",
+      "128_80_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 129,
+      "z": 31
+    },
+    "solution_text": "M : B | N | 128 - 37",
+    "images": [
+      "129_31_1.jpg",
+      "129_31_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 129,
+      "z": 219
+    },
+    "solution_text": "M : T | W | 120 - 219\n& 125 - 219\n- DDLL LLL",
+    "images": [
+      "129_219_1.jpg",
+      "129_219_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 130,
+      "z": 26
+    },
+    "solution_text": "M : B | N | 129 - 31\n- URRD RURR D\n- URDD RDLL LDLU UUU",
+    "images": [
+      "130_26_1.jpg",
+      "130_26_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 130,
+      "z": 169
+    },
+    "solution_text": "M : B | E | 136 - 164\n- DDRU RRD\n- LLLD DLDR\n- RRUU RRRD LDDR",
+    "images": [
+      "130_169_1.jpg",
+      "130_169_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 130,
+      "z": 187
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "130_187_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 131,
+      "z": 225
+    },
+    "solution_text": "M : B | S | 129 - 219",
+    "images": [
+      "131_225_1.jpg",
+      "131_225_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 132,
+      "z": 17
+    },
+    "solution_text": "R-W | S | 123 - 18",
+    "images": [
+      "132_17_1.jpg",
+      "132_17_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 132,
+      "z": 113
+    },
+    "solution_text": "M+ : B | N | 132 - 118\n- ULLL LDLL UR\n- RRRR DDRU URUL DLU\n- RUUL LDD\n- URUR DRDL DLUR ULDL UU\nDE: B | W | 125 - 114",
+    "images": [
+      "132_113_1.jpg",
+      "132_113_2.jpg",
+      "132_113_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 132,
+      "z": 118
+    },
+    "solution_text": "M+ : B | N | 133 - 125",
+    "images": [
+      "132_118_1.jpg",
+      "132_118_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 132,
+      "z": 180
+    },
+    "solution_text": "M+ : B | E | 139 - 182\n- URRR URR\n- LDDD LUUL URDR ULUR RR\n- LLUL LDDD LRDR RULU RRRD RULU R\nDE : R-N | W | 130 - 187\nRaft 125 - 182: SP- RESET\n- DRRU ULDD DDUL UR\n- L\n- RURD RDLL",
+    "images": [
+      "132_180_1.jpg",
+      "132_180_2.jpg",
+      "132_180_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 132,
+      "z": 200
+    },
+    "solution_text": "DE : B | E | 138 - 201\nN: 133 - 207\n- RESET\n- URRU RRUL LL\n- DDLL LLUU ULDD LDRU RDLD RR\n- LUUU RRD\n- LLDD DRRD\n- URRU LDLL LUUR D\nS: 132 - 200\n- LDLD DRR",
+    "images": [
+      "132_200_1.jpg",
+      "132_200_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 133,
+      "z": 8
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "133_8_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 133,
+      "z": 125
+    },
+    "solution_text": "M : B | W | 127 - 126\n- L\n- LUUL UURR URDD RDLL RUUL LDDR DL",
+    "images": [
+      "133_125_1.jpg",
+      "133_125_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 133,
+      "z": 207
+    },
+    "solution_text": "DE : B | S | 132 - 200\n- RDDD LDR\n- DRRR RRUR RULL L\n- DDLL LLLU URDL DRR\n- LUUU RRD\n- LLDD DRRD",
+    "images": [
+      "133_207_1.jpg",
+      "133_207_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 136,
+      "z": 164
+    },
+    "solution_text": "M : B | E | 142 - 163\n- DRRR RURD LDRR\n- DDLU UULR",
+    "images": [
+      "136_164_1.jpg",
+      "136_164_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 136,
+      "z": 232
+    },
+    "solution_text": "M+ : B | E | 140 - 227\n- DDLU LLLD LDRU URRR DDDL UULL URRU RD",
+    "images": [
+      "136_232_1.jpg",
+      "136_232_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 138,
+      "z": 110
+    },
+    "solution_text": "M+ : B | W | 132 - 113",
+    "images": [
+      "138_110_1.jpg",
+      "138_110_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 138,
+      "z": 121
+    },
+    "solution_text": "M : B | W | 133 - 125\nDE : B | E | 144 - 122\nS: 140 - 116\n- RESET\n- DDRR\n- LLUU LDDL DR\n- RRDR RURR LL\n- LLDL URUL\n- ULLD DR\n- LURR L\n- RRDD LURU LDLU RUL\n- DDLU\n- UUU (138 - 121)\n- RUUU LL\n- LDDR RR",
+    "images": [
+      "138_121_1.jpg",
+      "138_121_2.jpg",
+      "138_121_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 138,
+      "z": 201
+    },
+    "solution_text": "DE : B | E | 143 - 206\n- RDRR UURU L\n- DLUU LLLD RRRD DRRU U",
+    "images": [
+      "138_201_1.jpg",
+      "138_201_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 138,
+      "z": 218
+    },
+    "solution_text": "M+ : B | W | 129 - 219\nB | E | 145 - 216\n- LDRD DL\n- ULLD DDDD LLLL URRR DRUL LURU ULUR RRRR URD",
+    "images": [
+      "138_218_1.jpg",
+      "138_218_2.jpg",
+      "138_218_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 139,
+      "z": 182
+    },
+    "solution_text": "M+ : B | S | 141 - 176\n- URRR URDD RDLU LD\n- RDD\n- DLLU RDRU RULU LDDL DRUR D",
+    "images": [
+      "139_182_1.jpg",
+      "139_182_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 140,
+      "z": 47
+    },
+    "solution_text": "M+ : B | E | 146 - 46\n- DLDD DRDR RULU RR\nSC : R-N | E | 142 - 54\nRaft 168 - 50- DLDD DRDR RULU UURR DDLD LUUL UR",
+    "images": [
+      "140_47_1.jpg",
+      "140_47_2.jpg",
+      "140_47_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 140,
+      "z": 84
+    },
+    "solution_text": "M : R-E | SN | 165 - 88\n&\n172 - 83\n- ULLL LURU RRDL DRRD RU\n- LLUU URUU LLDR URRD LDRU RD",
+    "images": [
+      "140_84_1.jpg",
+      "140_84_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 140,
+      "z": 104
+    },
+    "solution_text": "M : B | N | 144 - 110\n- RUUL LLUL D\n- LLLL UURD LDDR RDRR UUU",
+    "images": [
+      "140_104_1.jpg",
+      "140_104_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 140,
+      "z": 116
+    },
+    "solution_text": "M : B | N | 138 - 121\n- LULU RRRR LL\n- LLUU LLDD LDR\n- URRR D\n- DLUU U",
+    "images": [
+      "140_116_1.jpg",
+      "140_116_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 140,
+      "z": 227
+    },
+    "solution_text": "M+ : B | S | 138 - 218\nB | E | 148 - 227\n- DLDD RRUR RUL\n- DLLD DLDL LURD RRUL URDR U\n- LLUU RURD LDLD DDRR R",
+    "images": [
+      "140_227_1.jpg",
+      "140_227_2.jpg",
+      "140_227_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 141,
+      "z": 176
+    },
+    "solution_text": "M+ : B | S | 142 - 170\n- DDDL LLDU\n- LLUU URDL DDRU URRR DDD",
+    "images": [
+      "141_176_1.jpg",
+      "141_176_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 141,
+      "z": 193
+    },
+    "solution_text": "DE : B | N | 147 - 199\n- LDLL ULLL LUUR RRDD DLRD RU\n- LLLL URRR\n- RRRR U",
+    "images": [
+      "141_193_1.jpg",
+      "141_193_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 142,
+      "z": 54
+    },
+    "solution_text": "SC : R-W | S | 110 - 54",
+    "images": [
+      "142_54_1.jpg",
+      "142_54_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 142,
+      "z": 163
+    },
+    "solution_text": "M : B | N | 142 - 170\n- RRRD LLDL URUL DLUU U",
+    "images": [
+      "142_163_1.jpg",
+      "142_163_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 142,
+      "z": 170
+    },
+    "solution_text": "M : B | E | 150 - 168\nDE : B | E | 149 - 174\nM: 125 - 182\nS: 127 - 176\nN: 132 - 180\nE: 139 - 182\nS: 141 - 176\nS: 142 - 170\n- DRR",
+    "images": [
+      "142_170_1.jpg",
+      "142_170_2.jpg",
+      "142_170_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 142,
+      "z": 237
+    },
+    "solution_text": "M+ : B | S | 136 - 232\n- RRDD DR\n- UUUR RRRR DRDD L",
+    "images": [
+      "142_237_1.jpg",
+      "142_237_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 143,
+      "z": 206
+    },
+    "solution_text": "DE : R-N | E | 161 - 202\n- UULU UURD LDDR\n- URRR RDRU\n- DLLL ULUR RRDR U\n- DLLL UURR RUD\n- L\n- U\n- R",
+    "images": [
+      "143_206_1.jpg",
+      "143_206_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 144,
+      "z": 39
+    },
+    "solution_text": "M+ : B | N | 146 - 46",
+    "images": [
+      "144_39_1.jpg",
+      "144_39_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 144,
+      "z": 77
+    },
+    "solution_text": "M : B | NW | 140 - 84\n- LLDD LU\n- UUUL U\n- RDDR UUUR UL",
+    "images": [
+      "144_77_1.jpg",
+      "144_77_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 144,
+      "z": 110
+    },
+    "solution_text": "M : B | N | 140 - 116\nM+ : B | W | 138 - 110\n- URDR RU\n- LUUU R\n- DRRR DRUR ULUL DRDL LDLL UURD DRDL LL",
+    "images": [
+      "144_110_1.jpg",
+      "144_110_2.jpg",
+      "144_110_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 144,
+      "z": 122
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "144_122_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 145,
+      "z": 216
+    },
+    "solution_text": "R-S | EW | 125 - 213\n- RRRD DDDL URUR DDRD L\n- UUUL LLLD LDDR URDL DR",
+    "images": [
+      "145_216_1.jpg",
+      "145_216_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 146,
+      "z": 46
+    },
+    "solution_text": "M : R-N | E | 144 - 77\n- DLLL LUR\n- RUR\n- RDLD DDRR UULR DDLL UULU RDRU LUR",
+    "images": [
+      "146_46_1.jpg",
+      "146_46_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 146,
+      "z": 221
+    },
+    "solution_text": "B | W | 138 - 218",
+    "images": [
+      "146_221_1.jpg",
+      "146_221_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 147,
+      "z": 199
+    },
+    "solution_text": "DE : B | E | 154 - 201\n- URUU RRRR D\n- DDDD LU\n- URRU LL\n- UULL LLDD RUUR RRRD DDLU\n- UDRD L\n- LLUU URRR",
+    "images": [
+      "147_199_1.jpg",
+      "147_199_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 148,
+      "z": 227
+    },
+    "solution_text": "B | N | 152 - 234\n- UURR RURD \n- RDRD DLLU\n- URUL LULL DRRR R\n- LLUU URDL DR\n- DDRU UUU\nDE : B | S | 151 - 221\nN: 152 - 234\n- RESET\n- UURR RURD\n- RRRD LLLL ULD\nS: 148 - 227\n- RESET\n- UURR RURD RDLU LD\n- DRUR DDRU\n- LUUU UURR DRU\n- LDDL DRR\nN: 152 - 234\n- RESET\nE: 160 - 232\nS: 157 - 226\n- RESET\n- DLLL ULDR DDDL LL\n- DDRU URUL\nN: 160 - 232\nW: 152 - 234\n- RESET\n- ULLL\n- ULLL LLRR URD\n- RRDL LULD\nS: 148 - 227\n- RESET\n- UURR RURD LDR\n- D\n- DRUL UR\n- LUUR\n- RDRD DDD",
+    "images": [
+      "148_227_1.jpg",
+      "148_227_2.jpg",
+      "148_227_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 149,
+      "z": 174
+    },
+    "solution_text": "DE : B | N | 150 - 180\nW: 142 - 170\nE: 150 - 168\nS: 150 - 162\n- RESET\n- LLDD DRRR DULU R\n- LLUU RDLD DRRD RU\n- DRRU LDLL LUUU RRDD RDLD LULU RDRU\nN: 150 - 168\n- RESET\n- DDLD R\n- RRUR URRU LDLL U\n- DDRD\n- DDLU UUUU U\nW: 142 - 170\nE: 149 - 174\n- RRUU URRR RDLL LDLU RUUL LDRR DRUU U",
+    "images": [
+      "149_174_1.jpg",
+      "149_174_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 150,
+      "z": 162
+    },
+    "solution_text": "M : R-E | NE | 167 - 163\n- LLDD DRRR DULU RR\n- LLLU URDL DDRD RRU\n- DRRU LDLU",
+    "images": [
+      "150_162_1.jpg",
+      "150_162_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 150,
+      "z": 168
+    },
+    "solution_text": "M : B | S | 150 - 162\n- DDLD RRRU RDD\n- RRUL\n- LUUR ULLU LDDD",
+    "images": [
+      "150_168_1.jpg",
+      "150_168_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 150,
+      "z": 180
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "150_180_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 150,
+      "z": 191
+    },
+    "solution_text": "DE : B | W | 141 - 193\n- DDLL LLUU ULDD LDRR DRRU\n- ULDL ULLD LU",
+    "images": [
+      "150_191_1.jpg",
+      "150_191_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 151,
+      "z": 35
+    },
+    "solution_text": "M+ : B | W | 144 - 39\n- DDRD LLLD URUU LLL\n- RRDD DL\n- LLLL UUU\n- DDRR RRDU URUU LLDL U",
+    "images": [
+      "151_35_1.jpg",
+      "151_35_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 151,
+      "z": 47
+    },
+    "solution_text": "M : B | W | 146 - 46",
+    "images": [
+      "151_47_1.jpg",
+      "151_47_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 151,
+      "z": 221
+    },
+    "solution_text": "DE : B | S | 156 - 216",
+    "images": [
+      "151_221_1.jpg",
+      "151_221_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 152,
+      "z": 234
+    },
+    "solution_text": "B | E | 160 - 232\n- UURR RURD\n- RRRD LULL LLDR RURD LDRR",
+    "images": [
+      "152_234_1.jpg",
+      "152_234_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 154,
+      "z": 126
+    },
+    "solution_text": "M : R-E | S | 170 - 121\nRaft 156 - 118\nM : B | N | 155 - 132\nRaft 160 - 128R-E: 160 - 128\n- RESET\n- UURU RRDL DRUR RDDL URUL ULDR DLLU LD\n- RDL\n- D (154 - 126)\n- LUUU",
+    "images": [
+      "154_126_1.jpg",
+      "154_126_2.jpg",
+      "154_126_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 154,
+      "z": 139
+    },
+    "solution_text": "M : R-W | NS | 116 - 142\n- LUUU RUUU LLD\n- DDDD DLDR DRUL UUUU RRDD DLDL U",
+    "images": [
+      "154_139_1.jpg",
+      "154_139_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 154,
+      "z": 201
+    },
+    "solution_text": "DE : T | E | 161 - 202 (Wall)\n- RRRR",
+    "images": [
+      "154_201_1.jpg",
+      "154_201_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 155,
+      "z": 132
+    },
+    "solution_text": "M : B | N | 154 - 139",
+    "images": [
+      "155_132_1.jpg",
+      "155_132_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 156,
+      "z": 19
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "156_19_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 156,
+      "z": 118
+    },
+    "solution_text": "M : R-N | NE | 154 - 126\nE: 165 - 118\n- RESET\n- RRRD RR\n- RDDL LLDL URUL DLUU DRRU ULL\nW: 156 - 118\n- LLUU RULD LLUU RDLD R",
+    "images": [
+      "156_118_1.jpg",
+      "156_118_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 156,
+      "z": 185
+    },
+    "solution_text": "DE : B | N | 158 - 194",
+    "images": [
+      "156_185_1.jpg",
+      "156_185_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 156,
+      "z": 216
+    },
+    "solution_text": "DE : B | S | 165 - 211\n- RDDD RRRR DRRU UUUR LDLU RULU LLDR\n- ULUL DLDD RURR RD\n- RDRR ULLU LLDR URDD\n- RDDD LLUU\n- DDRR UULL RUUU LLLD DRDL DRDR ULUR\n- DDRR UUUU LULD ULLD DRRU RRDD LLDD RR",
+    "images": [
+      "156_216_1.jpg",
+      "156_216_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 157,
+      "z": 40
+    },
+    "solution_text": "M : B | N | 157 - 46\nM+ : B | W | 151 - 35\n- DDLL DLLU LURD RRUU LDDR DLLL",
+    "images": [
+      "157_40_1.jpg",
+      "157_40_2.jpg",
+      "157_40_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 157,
+      "z": 46
+    },
+    "solution_text": "M : B | W | 151 - 47\n- LUUR RRUL\n- ULL\n- LDRD LLDL U",
+    "images": [
+      "157_46_1.jpg",
+      "157_46_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 157,
+      "z": 208
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "157_208_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 157,
+      "z": 226
+    },
+    "solution_text": "R-S | E | 161 - 221\n- DLDD LLLL DRUR RRRD LULL LDDR U\n- RRRU UULL ULD\n- RDLD DDLU\n- RRUR DLDR URDL DR",
+    "images": [
+      "157_226_1.jpg",
+      "157_226_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 158,
+      "z": 26
+    },
+    "solution_text": "DE : B | S | 156 - 19\n- DLLU URDD RDLD LURU LL\n- LLUL DDDD LRUU RDDD\n- UUUR RRDD LURU ULDL LLUU URDD DDD",
+    "images": [
+      "158_26_1.jpg",
+      "158_26_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 158,
+      "z": 175
+    },
+    "solution_text": "M+ : B | E | 165 - 177",
+    "images": [
+      "158_175_1.jpg",
+      "158_175_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 158,
+      "z": 194
+    },
+    "solution_text": "DE : B | W | 150 - 191\n- DDDR DLLL LRRD RULU UURR DDLR UULL DDRD L\n- LDLL LUR\n- RURD\n- R\n- DLLL\nDE : B | E | 167 - 191\n- DDDR DLLL LRRD RULU UURR DDLR UULL DDRD L\n- LDLL LUR\n- RURD\n- RRDR ULUR LUUR RDD",
+    "images": [
+      "158_194_1.jpg",
+      "158_194_2.jpg",
+      "158_194_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 160,
+      "z": 128
+    },
+    "solution_text": "M : R-W | S | 154 - 126",
+    "images": [
+      "160_128_1.jpg",
+      "160_128_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 160,
+      "z": 232
+    },
+    "solution_text": "B | S | 157 - 226\n- URRR DRDD\n- LUUL LDRU RRDL DDRR RULU LD\n- RRDD L",
+    "images": [
+      "160_232_1.jpg",
+      "160_232_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 161,
+      "z": 202
+    },
+    "solution_text": "DE : B | S | 158 - 194",
+    "images": [
+      "161_202_1.jpg",
+      "161_202_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 161,
+      "z": 202
+    },
+    "solution_text": "DE : B | E | 168 - 202\n- RURR RRRR",
+    "images": [
+      "161_202(Wall)_1.jpg",
+      "161_202(Wall)_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 161,
+      "z": 221
+    },
+    "solution_text": "R-W | N | 146 - 221",
+    "images": [
+      "161_221_1.jpg",
+      "161_221_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 162,
+      "z": 42
+    },
+    "solution_text": "M : B | W | 157 - 40\n- LULL DDDD DURU LULD",
+    "images": [
+      "162_42_1.jpg",
+      "162_42_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 162,
+      "z": 171
+    },
+    "solution_text": "M+ : B | W | 158 - 175\n- DLLL LLLD U\n- ULLL DU\n- RRRU URRD LULL DRDD LLUR DRUL UURR DL\n- RRDR DDLL DLUU LUUR RDL",
+    "images": [
+      "162_171_1.jpg",
+      "162_171_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 162,
+      "z": 185
+    },
+    "solution_text": "DE : B | W | 156 - 185\n- DLLL\n- RDDR DLLL DULU RDRU UULU URDR DL\n- LLUL D",
+    "images": [
+      "162_185_1.jpg",
+      "162_185_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 163,
+      "z": 70
+    },
+    "solution_text": "B | E | 170 - 70",
+    "images": [
+      "163_70_1.jpg",
+      "163_70_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 164,
+      "z": 30
+    },
+    "solution_text": "DE : B | W | 158 - 26\n- UULL UURD DDRL ULLD D\n- ULD\n- RRRD DLUL LD",
+    "images": [
+      "164_30_1.jpg",
+      "164_30_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 164,
+      "z": 77
+    },
+    "solution_text": "B | S | 163 - 70\n- LLLL LLD\n- RRRR DRDD LULL LD\n- ULDD URUU LLDR URDL DRUR D\n- DLUL LD",
+    "images": [
+      "164_77_1.jpg",
+      "164_77_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 164,
+      "z": 145
+    },
+    "solution_text": "M : R-S | WE | 165 - 118\n- LLDD LULL DLDR URD\n- LLDR\n- RR\n- UUUR RRRD DRRD L\n- LDLU\n- L",
+    "images": [
+      "164_145_1.jpg",
+      "164_145_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 165,
+      "z": 88
+    },
+    "solution_text": "M : R-E | N | 177 - 88\n- UUUL\n- LUU\n- LDLD RURR DDLU UUU",
+    "images": [
+      "165_88_1.jpg",
+      "165_88_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 165,
+      "z": 118
+    },
+    "solution_text": "M : B | W | 156 - 118\nB | E | 170 - 121",
+    "images": [
+      "165_118_1.jpg",
+      "165_118_2.jpg",
+      "165_118_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 165,
+      "z": 177
+    },
+    "solution_text": "M+ : B | N | 170 - 181\n- RRRR U\n- LLLD RRRD ULUR DRUU\n- LLLU DRDL DLUL URUR DLDR RDRU UU",
+    "images": [
+      "165_177_1.jpg",
+      "165_177_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 165,
+      "z": 211
+    },
+    "solution_text": "DE: B | W | 157 - 208\n- RRDR RRUR D\n- URRR RDLL LULL D\n- LLDD DRRR ULDL LLUU UUDL DRUR DLDD DRRD RU\n- LLLU URDR RRUL LL\n- LLLD L",
+    "images": [
+      "165_211_1.jpg",
+      "165_211_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 167,
+      "z": 127
+    },
+    "solution_text": "M : R-W | SW | 160 - 128\n- ULLU R\n- RRRR DD",
+    "images": [
+      "167_127_1.jpg",
+      "167_127_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 167,
+      "z": 163
+    },
+    "solution_text": "M : B | E | 173 - 164",
+    "images": [
+      "167_163_1.jpg",
+      "167_163_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 167,
+      "z": 191
+    },
+    "solution_text": "DE : B | S | 162 - 185\n- RRDD R\n- RRRR UURD DDRL DLUR UL\n- UULD RDDL\n- ULDD\n- DLLL UULD DD",
+    "images": [
+      "167_191_1.jpg",
+      "167_191_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 168,
+      "z": 42
+    },
+    "solution_text": "M : B | W | 162 - 42\nM+ : B | N | 168 - 50\n- UULL LL\n- LURR URDR DL\nE: 174 - 41\nS: 176 - 35\nW: 170 - 37\nN: 168 - 42\n- LULU UUU",
+    "images": [
+      "168_42_1.jpg",
+      "168_42_2.jpg",
+      "168_42_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 168,
+      "z": 50
+    },
+    "solution_text": "M+ : R-W | NS | 140 - 47\n- UURU ULLL LRR\n- RDDR RURU ULUL DRDL\n- ULLU LD\n- RRDR DLLD LU",
+    "images": [
+      "168_50_1.jpg",
+      "168_50_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 168,
+      "z": 202
+    },
+    "solution_text": "DE : B | E | 175 - 198\n- UURR RRDD RDDL\n- UULU LLD\n- LLDD RD\n- RRRU RD",
+    "images": [
+      "168_202_1.jpg",
+      "168_202_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 169,
+      "z": 150
+    },
+    "solution_text": "M : B | W | 164 - 145\n- LLLL URRU RDLD RRRR R (175 - 150)\n- RUUR RDDU RRDD LLDD LLUU DDRR UUUL LLLL (169 - 150)\n- LLLU LD",
+    "images": [
+      "169_150_1.jpg",
+      "169_150_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 169,
+      "z": 235
+    },
+    "solution_text": "DE: L | E | 175 - 236\nDE: L | S | 170 - 228\nDE : T | E | 175 - 236 (Wall)\n- LUUU UU\n- LLDR DRRU\n- RUUL UUDD\n- DDRD LULL DDRU LURD RRUL UR\n- DDLL DDRU LURD RU",
+    "images": [
+      "169_235_1.jpg",
+      "169_235_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 170,
+      "z": 37
+    },
+    "solution_text": "M+ : B | N | 168 - 42\n- LLUU UURL\n- RDDR DLDL LU",
+    "images": [
+      "170_37_1.jpg",
+      "170_37_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 170,
+      "z": 70
+    },
+    "solution_text": "B | E | 178 - 71\n- DRRR RDUL LUUR R\n- LLUR RRUD DLDD R\n- DRRR\n- LLLU URDL DRRR",
+    "images": [
+      "170_70_1.jpg",
+      "170_70_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 170,
+      "z": 121
+    },
+    "solution_text": "M : R-N | W | 167 - 127\nRaft 154 - 126",
+    "images": [
+      "170_121_1.jpg",
+      "170_121_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 170,
+      "z": 169
+    },
+    "solution_text": "M+ : B | W | 162 - 171",
+    "images": [
+      "170_169_1.jpg",
+      "170_169_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 170,
+      "z": 181
+    },
+    "solution_text": "M+ : B | E | 179 - 184",
+    "images": [
+      "170_181_1.jpg",
+      "170_181_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 170,
+      "z": 228
+    },
+    "solution_text": "DE : L | N | 169 - 235\nDE : L | S | 172 - 220",
+    "images": [
+      "170_228_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 170,
+      "z": 228
+    },
+    "solution_text": "DE : T | E | 176 - 228",
+    "images": [
+      "170_228(Wall)_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 172,
+      "z": 30
+    },
+    "solution_text": "B | N | 170 - 37\nDE : B | W | 164 - 30",
+    "images": [
+      "172_30_1.jpg",
+      "172_30_2.jpg",
+      "172_30_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 172,
+      "z": 83
+    },
+    "solution_text": "M+ : R-S | WNE | 175 - 77\n- DDDR RDRU LUR\n- UURR RRRU DRDD LL",
+    "images": [
+      "172_83_1.jpg",
+      "172_83_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 172,
+      "z": 220
+    },
+    "solution_text": "DE : L | N | 170 - 228\nDE : L | NE | 177 - 222\nDE : L | E | 181 - 220",
+    "images": [
+      "172_220_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 172,
+      "z": 220
+    },
+    "solution_text": "DE : T | N | 170 - 228 (Wall)\nN: 170 - 228\n- RUUU ULDD LDRU RDD\nN: 169 - 235\n- RUR (175 - 236)\nE: 182 - 234\nS: 182 - 226\nS: 177 - 222\nS: 181 - 220\nW: 172 - 220\n- ULLL LLLL RURD\n- ULLL UUUR ULUU LDDD DLDR\n- UURR RRRD RDDL LDDU\n- LUUU\n- DDRR RLLD LU\n- RRRU ULUL L\n- RRUR (177 - 222)\n- RESET\n- RRDD RRUU ULLL ULDR DLUL D\nS: 181 - 220\nW: 172 - 220\nN: 170 - 228\n- R\nN: 169 - 235\nE: 175 - 236 (Wall)\nC: 172 - 220 (Wall)",
+    "images": [
+      "172_220(Wall)_1.jpg",
+      "172_220(Wall)_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 173,
+      "z": 95
+    },
+    "solution_text": "M : R-E | S | 183 - 92\n- UULL LDRR RRDU LLUR RR\n- LLUR RURD DLDR URD",
+    "images": [
+      "173_95_1.jpg",
+      "173_95_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 173,
+      "z": 164
+    },
+    "solution_text": "M : B | N | 178 - 170\nM+ : B | W | 170 - 169\n- RDDD DRUL UURD RRU\n- RU\n- LURU L",
+    "images": [
+      "173_164_1.jpg",
+      "173_164_2.jpg",
+      "173_164_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 174,
+      "z": 41
+    },
+    "solution_text": "M : B | W | 168 - 42\n- ULLU ULUR URDL DDRR ULLL",
+    "images": [
+      "174_41_1.jpg",
+      "174_41_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 175,
+      "z": 77
+    },
+    "solution_text": "M+ : B | E | 182 - 77\n- DRRU RRRD LDLL ULUR DRRU ULDD LDRR R\nR-W | N | 164 - 77\nR-N: 172 - 83\n- RESET\n- UURR RRRU DRDD LL\n- LLLD DLUU LURD RURR RUUL ULLD DLDR UURR RDDD\n- DDD (175 - 77)\n- RDDR URUU LDLL U",
+    "images": [
+      "175_77_1.jpg",
+      "175_77_2.jpg",
+      "175_77_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 175,
+      "z": 150
+    },
+    "solution_text": "M : B | W | 169 - 150\nE: 181 - 151\n- RESET\n- UULL ULD\n- DL\n- RDL\n- RDL\n- LLUR UUL\nW: 175 - 150\n- DDLL UURU LLUL DDUR RDDL LL",
+    "images": [
+      "175_150_1.jpg",
+      "175_150_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 175,
+      "z": 198
+    },
+    "solution_text": "DE : R-E | N | 184 - 202\n- DDLD RRDR RRUU\n- RRDL\n- LLDD LLLL DRRD RULU URDR U\nDE : R-N | E | 183 - 213\nRaft 185 - 197",
+    "images": [
+      "175_198_1.jpg",
+      "175_198_2.jpg",
+      "175_198_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 175,
+      "z": 236
+    },
+    "solution_text": "DE : L | E | 182 - 234\nDE : L | SE | 177 - 222\nDE : L | W | 169 - 235",
+    "images": [
+      "175_236_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 175,
+      "z": 236
+    },
+    "solution_text": "DE : T | E | 182 - 234 (Wall)\n- RRDD DDLD RDRU LURR RDRU\n- LLLL UUUR RRRD\n- DD\n- LLLL DDRR RRRD LULL LDDR RURU LLLD LUUU LURR URDR DLLU LD\nW: 169 - 235\nE: 175 - 236 (Wall)",
+    "images": [
+      "175_236(Wall)_1.jpg",
+      "175_236(Wall)_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 176,
+      "z": 35
+    },
+    "solution_text": "M : B | N | 174 - 41\nM+ : B | W | 170 - 37\n- LLUU LURU RDLD DRRU LDLU RUUL L",
+    "images": [
+      "176_35_1.jpg",
+      "176_35_2.jpg",
+      "176_35_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 176,
+      "z": 176
+    },
+    "solution_text": "M : B | N | 179 - 184",
+    "images": [
+      "176_176_1.jpg",
+      "176_176_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 176,
+      "z": 212
+    },
+    "solution_text": "DE : B | N | 181 - 220\n- LDUD LLUU RRDR UUU",
+    "images": [
+      "176_212_1.jpg",
+      "176_212_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 176,
+      "z": 228
+    },
+    "solution_text": "DE : T | W | 170 - 228\nDE : T | S | 177 - 222",
+    "images": [
+      "176_228_1.jpg",
+      "176_228_2.jpg",
+      "176_228_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 177,
+      "z": 88
+    },
+    "solution_text": "M : R-N | W | 173 - 95\nRaft 165 - 88\nM+ : B | S | 172 - 83\nM+: R-E | S | 183 - 92\nRaft 182 - 77",
+    "images": [
+      "177_88_1.jpg",
+      "177_88_2.jpg",
+      "177_88_3.jpg",
+      "177_88_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 177,
+      "z": 205
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "177_205_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 177,
+      "z": 222
+    },
+    "solution_text": "DE : L | SE | 181 - 220\nDE : L | SW | 172 - 220\nDE : L | N | 175 - 236",
+    "images": [
+      "177_222_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 178,
+      "z": 1
+    },
+    "solution_text": "M : R-S | W | 126 - 0\n- LDDD RL\n- UULL LLUD RRRD DLLL",
+    "images": [
+      "178_1_1.jpg",
+      "178_1_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 178,
+      "z": 28
+    },
+    "solution_text": "M : B | N | 176 - 35\n- DLLD DRUU URLD LUUD RRUU LLDL UU\nB | W | 172 - 30\nN: 176 - 35\n- RESET\n- LLUU LUR\n- UU\n- RDLD DRRU LDLU RUUU LDLD RURD DLDR URD\nS: 178 - 28\n- DRDL L",
+    "images": [
+      "178_28_1.jpg",
+      "178_28_2.jpg",
+      "178_28_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 178,
+      "z": 71
+    },
+    "solution_text": "B | N | 182 - 77\n& 175 - 77 M\n- UURR RRU\n- DDDR LDLU UULU RDRU\n- DRRD LLLD LUUL URDR U",
+    "images": [
+      "178_71_1.jpg",
+      "178_71_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 178,
+      "z": 104
+    },
+    "solution_text": "R-S | SE | 177 - 88",
+    "images": [
+      "178_104_1.jpg",
+      "178_104_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 178,
+      "z": 170
+    },
+    "solution_text": "M : B | N | 176 - 176\n- RRRU UUUU RUL\n- RDDD DDRL LDLL UULU RDRU",
+    "images": [
+      "178_170_1.jpg",
+      "178_170_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 179,
+      "z": 184
+    },
+    "solution_text": "M : B | S | 185 - 178\n- RUUU ULRU RRRD D\n- LLUU URRU RD\n- DDDR DRRU LLLL UD\nR-E | E | 196 - 184\nS: 185 - 178\n- RESET\n- DRR\n- RRRD DDRR ULDL LUU\n- DLLL LUUU UDDL DRRR RURR DDLU UUUU\nW: 179 - 184\n- RESET\n- RU\n- UURR RRR",
+    "images": [
+      "179_184_1.jpg",
+      "179_184_2.jpg",
+      "179_184_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 180,
+      "z": 7
+    },
+    "solution_text": "M+ : B | S | 178 - 1",
+    "images": [
+      "180_7_1.jpg",
+      "180_7_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 181,
+      "z": 151
+    },
+    "solution_text": "M : B | W | 175 - 150",
+    "images": [
+      "181_151_1.jpg",
+      "181_151_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 181,
+      "z": 220
+    },
+    "solution_text": "DE : L | NE | 182 - 226\nDE : L : W | 172 - 220\nDE : L : NW | 177 - 222",
+    "images": [
+      "181_220_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 181,
+      "z": 220
+    },
+    "solution_text": "DE : T | W | 172 - 220 (Wall)\n- DRDD DLDL LLL",
+    "images": [
+      "181_220(Wall)_1.jpg",
+      "181_220(Wall)_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 182,
+      "z": 77
+    },
+    "solution_text": "M+ : R-N | W | 177 - 88\n- RR\n- URRR DLLD LURU ULL\n- RDDL LRRD RURU ULLL",
+    "images": [
+      "182_77_1.jpg",
+      "182_77_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 182,
+      "z": 114
+    },
+    "solution_text": "SC : R-E | N | 191 - 91",
+    "images": [
+      "182_114_1.jpg",
+      "182_114_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 182,
+      "z": 226
+    },
+    "solution_text": "DE : L | N | 182 - 234\nDE : L | S | 181 - 220",
+    "images": [
+      "182_226_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 182,
+      "z": 226
+    },
+    "solution_text": "DE : T | S | 181 - 220 (Wall)\n- DRDD RDDR DL\n169 - 235:\nW: 175 - 236 (Wall)\nC: 182 - 226 (Wall)",
+    "images": [
+      "182_226(Wall)_1.jpg",
+      "182_226(Wall)_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 182,
+      "z": 234
+    },
+    "solution_text": "DE : L | S | 182 - 226\nDE : L | W | 175 - 236",
+    "images": [
+      "182_234_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 182,
+      "z": 234
+    },
+    "solution_text": "DE : T | S | 176 - 228 (Wall)\n- RRRU URRD DRDD LULD RDL\n169 - 235:\nE: 175 - 236 (Wall)\nE: 182 - 234 (Wall)",
+    "images": [
+      "182_234(Wall)_1.jpg",
+      "182_234(Wall)_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 183,
+      "z": 92
+    },
+    "solution_text": "M : B | E | 191 - 91\n- DRRR RULL ULDL LDDR URRR RDDL DLLU ULUR RRR\nM+ : B | W | 177 - 88\nR-N | W | 178 - 104\nRaft 173 - 95: SP- RRRD RRRU LLUL DLLD DRUR RRRD DLDL LUUL UURR RDLL L",
+    "images": [
+      "183_92_1.jpg",
+      "183_92_2.jpg",
+      "183_92_3.jpg",
+      "183_92_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 183,
+      "z": 132
+    },
+    "solution_text": "SC : R-S | E | 182 - 114\nS: 188 - 130\n- RESET\n- DDDD LULU URDR UURU L\nN: 183 - 132\n- LLLL DDRR UDLL UURR",
+    "images": [
+      "183_132_1.jpg",
+      "183_132_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 183,
+      "z": 213
+    },
+    "solution_text": "DE : R-W | S | 177 - 205\n- DRUU UUDD\nDE : B | W | 176 - 212\n- DRUU UUDD\n- LDR\n- LU\n- RESET\n- D (177 - 205)\n- LLLD RRDR ULUR\n- LUR\n- RRD\n- L\n- RL\n- LL",
+    "images": [
+      "183_213_1.jpg",
+      "183_213_2.jpg",
+      "183_213_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 184,
+      "z": 143
+    },
+    "solution_text": "M : B | N | 185 - 149",
+    "images": [
+      "184_143_1.jpg",
+      "184_143_2.jpg",
+      "184_143_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 184,
+      "z": 202
+    },
+    "solution_text": "DE : B | S | 185 - 197\nDE : R-S | S | 185 - 197",
+    "images": [
+      "184_202_1.jpg",
+      "184_202_2.jpg",
+      "184_202_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 185,
+      "z": 0
+    },
+    "solution_text": "M : B | W | 178 - 1",
+    "images": [
+      "185_0_1.jpg",
+      "185_0_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 185,
+      "z": 149
+    },
+    "solution_text": "M : B | W | 181 - 151\nS: 184 - 143\n- RESET\n- LLU\n- LLUR DRRU\nN: 185 - 149\n- LURD RUUR ULL",
+    "images": [
+      "185_149_1.jpg",
+      "185_149_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 185,
+      "z": 178
+    },
+    "solution_text": "M : R-E | S | 206 - 184\nDE : B | S | 187 - 171\n- DRR\n- LDDL DRRR RURD D\n- RRUL\n- LUUU LDD",
+    "images": [
+      "185_178_1.jpg",
+      "185_178_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 185,
+      "z": 197
+    },
+    "solution_text": "DE : R-W | N | 175 - 198\nN: 184 - 200\n- RESET\n- U (184 - 202)\n- URRR DDL\n- LLU\n- LR",
+    "images": [
+      "185_197_1.jpg",
+      "185_197_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 186,
+      "z": 8
+    },
+    "solution_text": "M : B | S | 191 - 1\nM+ : B | W | 180 - 7\n- LDD\n- DDDD LLDL U\n- UURR URRD LLDD LLUU\n- ULL",
+    "images": [
+      "186_8_1.jpg",
+      "186_8_2.jpg",
+      "186_8_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 187,
+      "z": 47
+    },
+    "solution_text": "M+ : B | E | 192 - 43",
+    "images": [
+      "187_47_1.jpg",
+      "187_47_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 187,
+      "z": 171
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "187_171_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 188,
+      "z": 130
+    },
+    "solution_text": "SC : B | N | 183 - 132",
+    "images": [
+      "188_130_1.jpg",
+      "188_130_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 188,
+      "z": 161
+    },
+    "solution_text": "SC : R-S | WE | 188 - 130\n- DDLL L\n- LLLL UULU RDDR RRUU DRRU ULLU LDLD RURD DRDL",
+    "images": [
+      "188_161_1.jpg",
+      "188_161_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 190,
+      "z": 53
+    },
+    "solution_text": "M+ : B | S | 187 - 47\n- UUUL DRDD LULD D\n- UULL DDLD DRUR DD\nDE : B | N | 190 - 60\n- UUUL DRDD L\n- ULLL DD\n- DRRU RUUL LDRR RR\n- LDDR RR (198 - 53)\n- RESET\n- RURR RRUU LDRD DL\n- LLDD DDRU UUUR LDDL UUU\n- DDLU URUL\nW: 190 - 53\n- DLUU",
+    "images": [
+      "190_53_1.jpg",
+      "190_53_2.jpg",
+      "190_53_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 190,
+      "z": 60
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "190_60_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 191,
+      "z": 1
+    },
+    "solution_text": "M : B | WNS | 185 - 0\n- RRDD DDDL U\n- RUUU RRUL LLUD RDL\n- DL\n- RUUL DRDL",
+    "images": [
+      "191_1_1.jpg",
+      "191_1_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 191,
+      "z": 91
+    },
+    "solution_text": "M : R-E | S | 215 - 90\n- DDRR R\n- RRUU LDDD D\n- URRL LULD LDRU RD",
+    "images": [
+      "191_91_1.jpg",
+      "191_91_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 191,
+      "z": 208
+    },
+    "solution_text": "M+ : B | E | 197 - 210\n- RUUL URRR UD\n- RDDL\n- LLUR DRU\n- DLLD URUU LLDR DRUL URR",
+    "images": [
+      "191_208_1.jpg",
+      "191_208_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 192,
+      "z": 11
+    },
+    "solution_text": "M : B | W | 186 - 8",
+    "images": [
+      "192_11_1.jpg",
+      "192_11_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 192,
+      "z": 37
+    },
+    "solution_text": "M : B | S | 195 - 31\n- DRRR UULD DLDR\n- DDLU UULR URRD DD",
+    "images": [
+      "192_37_1.jpg",
+      "192_37_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 192,
+      "z": 43
+    },
+    "solution_text": "M : B | S | 192 - 37",
+    "images": [
+      "192_43_1.jpg",
+      "192_43_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 192,
+      "z": 140
+    },
+    "solution_text": "M : R-N | W | 192 - 146\n- LDRD DL\n- ULL\n- DDLU RUL\nM : R-N | E | 201 - 145\n- LDRD DL\n- ULL\n- DDLU RUL\n- LD\n- R (192 - 146)\n- RURU ULLD RURR DLDR URD\nR-S: 192 - 140\nDE : R-N | E | 192 - 146",
+    "images": [
+      "192_140_1.jpg",
+      "192_140_2.jpg",
+      "192_140_3.jpg",
+      "192_140_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 192,
+      "z": 146
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "192_146_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 192,
+      "z": 202
+    },
+    "solution_text": "M+ : B | N | 191 - 208",
+    "images": [
+      "192_202_1.jpg",
+      "192_202_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 194,
+      "z": 194
+    },
+    "solution_text": "M+ : R-N | E | 192 - 202\n- DDLL LLUU RR\n- LDDR RU\n- LLUU RUR\n- DDDD UUUL UR",
+    "images": [
+      "194_194_1.jpg",
+      "194_194_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 195,
+      "z": 31
+    },
+    "solution_text": "M : R-W | S | 178 - 28\n- DRUR RDDR DL\n- RRRU ULDR DDLL LULD\n- UULL DDRL UURR DD",
+    "images": [
+      "195_31_1.jpg",
+      "195_31_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 195,
+      "z": 96
+    },
+    "solution_text": "R-N | E | 195 - 103",
+    "images": [
+      "195_96_1.jpg",
+      "195_96_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 195,
+      "z": 103
+    },
+    "solution_text": "M : R-E | N | 200 - 61\nRaft 197 - 154\nR-E | S | 206 - 101\nRaft 195 - 96",
+    "images": [
+      "195_103_1.jpg",
+      "195_103_2.jpg",
+      "195_103_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 196,
+      "z": 160
+    },
+    "solution_text": "SC : B | W | 188 - 161",
+    "images": [
+      "196_160_1.jpg",
+      "196_160_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 196,
+      "z": 184
+    },
+    "solution_text": "R-S | W | 208 - 174\n- DRUL UURR DLL",
+    "images": [
+      "196_184_1.jpg",
+      "196_184_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 197,
+      "z": 154
+    },
+    "solution_text": "M : R-S | ENW | 195 - 103\n- DDRD L\n- LLLL LLDR RDRU LUR",
+    "images": [
+      "197_154_1.jpg",
+      "197_154_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 197,
+      "z": 210
+    },
+    "solution_text": "M+ : B | E | 204 - 211\n- UURR RUL\n- DDLL DLUL URRR R",
+    "images": [
+      "197_210_1.jpg",
+      "197_210_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 197,
+      "z": 223
+    },
+    "solution_text": "M+ : R-E | S | 241 - 221\n- ULDL LULU UURR URD\n- LLLL DDDL DRUR RRDD LUUL URDR U\n- RURD\n- LLLU RURD LDRU RD",
+    "images": [
+      "197_223_1.jpg",
+      "197_223_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 198,
+      "z": 7
+    },
+    "solution_text": "M : B | W | 192 - 11\n- LDDL LLLL U\n- LUU\n- URDD RRUU DDRR RUUU LLLL LL",
+    "images": [
+      "198_7_1.jpg",
+      "198_7_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 198,
+      "z": 53
+    },
+    "solution_text": "M : B | E | 205 - 52\nM+ : B | W | 190 - 53\n- LDRD DLLL DDLU\n- RDDD RRUL DLLU RUUL LL",
+    "images": [
+      "198_53_1.jpg",
+      "198_53_2.jpg",
+      "198_53_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 199,
+      "z": 44
+    },
+    "solution_text": "M : B | W | 192 - 43\nSC : B | S | 200 - 38\n198 - 53 → 190 - 53\n190 - 53 → 187 - 47\n187 - 47 → 192 - 43\nE: 205 - 45\n- RESET\n- RRUR RRDL LLDU RUL\n- DLLL DRRR DURU LLL\nW: 199 - 44\nW: 192 - 43\nW: 187 - 47\nN: 190 - 53\nE: 198 - 53\nE: 205 - 52\nS: 205 - 45\n- LDDR DL\nW: 199 - 44\n- LULL DLDR RURD DD",
+    "images": [
+      "199_44_1.jpg",
+      "199_44_2.jpg",
+      "199_44_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 199,
+      "z": 197
+    },
+    "solution_text": "M : B | N | 199 - 204\nM+ : B | W | 194 - 194\n- LUUU LDRD DL\n- RDRU URUL DLLU URDR DLLL",
+    "images": [
+      "199_197_1.jpg",
+      "199_197_2.jpg",
+      "199_197_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 199,
+      "z": 204
+    },
+    "solution_text": "M : B | E | 207 - 205\n- RUUR RRDL\n- UULL LLUR RURD LDDR RR",
+    "images": [
+      "199_204_1.jpg",
+      "199_204_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 200,
+      "z": 0
+    },
+    "solution_text": "B | N | 198 - 7",
+    "images": [
+      "200_0_1.jpg",
+      "200_0_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 200,
+      "z": 38
+    },
+    "solution_text": "SC : R-E | N | 202 - 32\n- RDRD DDDU U\n- RU\n- ULDL LLUU RRDU LLDD RRUR RDDL ULUR DRU",
+    "images": [
+      "200_38_1.jpg",
+      "200_38_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 200,
+      "z": 61
+    },
+    "solution_text": "M : B | S | 198 - 53",
+    "images": [
+      "200_61_1.jpg",
+      "200_61_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 200,
+      "z": 217
+    },
+    "solution_text": "M+ : B | N | 197 - 223\n- LLUU UURR DL\n- LDLL LDRR DRUL URDR UUUR UL",
+    "images": [
+      "200_217_1.jpg",
+      "200_217_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 201,
+      "z": 145
+    },
+    "solution_text": "M : R-W | N | 184 - 143",
+    "images": [
+      "201_145_1.jpg",
+      "201_145_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 202,
+      "z": 32
+    },
+    "solution_text": "SC : R-E | N | 246 - 33\nR-E | N | 227 - 39\n225 - 30:\n- RESET\n- RRUU URDR DDLD LUUU\n- DDDL LURD RRUR UULD LU\nW  : 218 - 30\nM  : 192 - 43\nE  : 199 - 44\nS  : 200 - 38\nR-E: 202 - 32",
+    "images": [
+      "202_32_1.jpg",
+      "202_32_2.jpg",
+      "202_32_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 202,
+      "z": 159
+    },
+    "solution_text": "M : B | W | 197 - 154\n- LLUL LD\nSC : B | W | 196 - 160\n& 197 - 154\n- ULLL UULD RDDL\n- RRRD DLUR UULD LLUU URDR DL",
+    "images": [
+      "202_159_1.jpg",
+      "202_159_2.jpg",
+      "202_159_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 203,
+      "z": 191
+    },
+    "solution_text": "M : B | N | 199 - 197",
+    "images": [
+      "203_191_1.jpg",
+      "203_191_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 204,
+      "z": 211
+    },
+    "solution_text": "M : B | N | 208 - 217\nM+ : B | N | 200 - 217\nS: 207 - 205\nW: 199 - 204\nS: 199 - 197\nW: 194 - 194\nC: 204 - 211\n- RRRD URUL DLUU",
+    "images": [
+      "204_211_1.jpg",
+      "204_211_2.jpg",
+      "204_211_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 205,
+      "z": 5
+    },
+    "solution_text": "M : B | W | 198 - 7\n- RULD LLU\n- LUUU UURL\n- RRDD LDLU UDRR UULL",
+    "images": [
+      "205_5_1.jpg",
+      "205_5_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 205,
+      "z": 45
+    },
+    "solution_text": "M : B | W | 199 - 44\n- LDDR RRDL LLDU RUL\n- DLLL DRRR DURU LLL",
+    "images": [
+      "205_45_1.jpg",
+      "205_45_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 205,
+      "z": 52
+    },
+    "solution_text": "M : B | S | 205 - 45\n- RRRU D\n- RRDD RDLU LDDD",
+    "images": [
+      "205_52_1.jpg",
+      "205_52_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 206,
+      "z": 101
+    },
+    "solution_text": "M+ : R-E | S | 213 - 101\n& 210 - 95\n- UULL LURR RUDL DRRU RDLD RURD\n- ULLL UUUR RURD LDDD DRUR D\nR-W | S | 195 - 96\nRaft 210 - 95- UULL LURR RUDL DRUR RDDL URUL ULDL DRUR RDDL U\n- RUUU ULD\n- DDDR DLLL DLLU URD\n- RRRR DDLU RULU LDLD RURR DDLU RULU LD\n- LLLD R\n- URRD RURD RDLU LD",
+    "images": [
+      "206_101_1.jpg",
+      "206_101_2.jpg",
+      "206_101_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 206,
+      "z": 124
+    },
+    "solution_text": "M : R-E | S | 212 - 122\n- RDD\n- LLLD LDDR DRUL URRU RD",
+    "images": [
+      "206_124_1.jpg",
+      "206_124_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 206,
+      "z": 184
+    },
+    "solution_text": "M : R-S | EW | 207 - 131\n- LDD\n- DDRR DDLU RUUL L\n- LLLL ULLL DRRR DULU R\nM : B | N | 203 - 191\nRaft 185 - 178: SP- LL (206 - 184)\n- UURU U",
+    "images": [
+      "206_184_1.jpg",
+      "206_184_2.jpg",
+      "206_184_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 207,
+      "z": 131
+    },
+    "solution_text": "M : R-S | WE | 206 - 124\n- DDDR\n- RRRR RUUL LULD RDDL",
+    "images": [
+      "207_131_1.jpg",
+      "207_131_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 207,
+      "z": 205
+    },
+    "solution_text": "M : B | N | 204 - 211\n- RRR\n- URRR RULL ULDR DLDL UUU",
+    "images": [
+      "207_205_1.jpg",
+      "207_205_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 208,
+      "z": 174
+    },
+    "solution_text": "R-N | W | 206 - 184\n- RRDL",
+    "images": [
+      "208_174_1.jpg",
+      "208_174_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 208,
+      "z": 217
+    },
+    "solution_text": "M : B | E | 215 - 216\n- UU\n- URRR RRDD LU\n- UULL LLLU RRRU RDLD RRRR",
+    "images": [
+      "208_217_1.jpg",
+      "208_217_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 209,
+      "z": 139
+    },
+    "solution_text": "M : R-W | N | 192 - 140\n- UULL L\n- LDDL URUU LLUR\n- LDRD RURR UULL\n- RRDD LLU\n- LU\n- DDRR RUUL LDLU",
+    "images": [
+      "209_139_1.jpg",
+      "209_139_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 209,
+      "z": 157
+    },
+    "solution_text": "M : B | W | 202 - 159",
+    "images": [
+      "209_157_1.jpg",
+      "209_157_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 210,
+      "z": 95
+    },
+    "solution_text": "M+ : R-W | N | 206 - 101\n- LDDL LUUR\n- RU\n- RDUR ULDL U",
+    "images": [
+      "210_95_1.jpg",
+      "210_95_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 211,
+      "z": 152
+    },
+    "solution_text": "M+ : B | N | 209 - 157",
+    "images": [
+      "211_152_1.jpg",
+      "211_152_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 211,
+      "z": 191
+    },
+    "solution_text": "M : B | S | 206 - 184",
+    "images": [
+      "211_191_1.jpg",
+      "211_191_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 212,
+      "z": 116
+    },
+    "solution_text": "M+ : R-E | N | 220 - 116\n- LDDD RRU\n- LLLU ULUR URDL DRRD RU\nR-E | N | 227 - 109\nN  : 212 - 122\nE  : 219 - 122\nR-S: 220 - 116\n- RESET\n- RRDD LLLD RRDR ULUR RUUR RDDL LLLD LU\nR-N: 219 - 122\nW  : 212 - 122\nS  : 212 - 116\n- LDDD RRU\n- LLLU ULUR URDL DRRD RU",
+    "images": [
+      "212_116_1.jpg",
+      "212_116_2.jpg",
+      "212_116_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 212,
+      "z": 122
+    },
+    "solution_text": "M : B | E | 219 - 122\nM+ : B | S | 212 - 116",
+    "images": [
+      "212_122_1.jpg",
+      "212_122_2.jpg",
+      "212_122_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 213,
+      "z": 45
+    },
+    "solution_text": "B | E | 219 - 42",
+    "images": [
+      "213_45_1.jpg",
+      "213_45_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 213,
+      "z": 58
+    },
+    "solution_text": "B | S | 217 - 51",
+    "images": [
+      "213_58_1.jpg",
+      "213_58_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 213,
+      "z": 101
+    },
+    "solution_text": "M : B | N | 213 - 107",
+    "images": [
+      "213_101_1.jpg",
+      "213_101_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 213,
+      "z": 107
+    },
+    "solution_text": "M : R-E | S | 236 - 102\n& 234 - 108\n- UUUL LDDD DLRU URRD D",
+    "images": [
+      "213_107_1.jpg",
+      "213_107_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 214,
+      "z": 71
+    },
+    "solution_text": "B | S | 215 - 65\n- RRRU RDDR DLUL LDD\n- LDLL LUUR DLDD RURR DD",
+    "images": [
+      "214_71_1.jpg",
+      "214_71_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 214,
+      "z": 147
+    },
+    "solution_text": "M+ : B | W | 211 - 152\n- UURU LLUL DRDL RDDD LLUL UU",
+    "images": [
+      "214_147_1.jpg",
+      "214_147_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 214,
+      "z": 173
+    },
+    "solution_text": "SC : B | N | 215 - 180\nE: 219 - 173\n- RESET\n- DLLD\n- DDDR\n- RRUL\n- RDLD LU\n- LU\n- DRRU L\n- UULD RDL\n- LL (214 - 173)\n- RESET\n- ULLD DRUU U",
+    "images": [
+      "214_173_1.jpg",
+      "214_173_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 215,
+      "z": 65
+    },
+    "solution_text": "B | E | 222 - 65\nB | S | 213 - 58\n- DDRR RR\n- LLLU ULDD DLR\n- RRDD LU\n- RRUR RULD LLLU URDD D\nR-S | E | 216 - 60\nE: 222 - 65\nS: 225 - 59\nS: 226 - 52\n- RESET\n- DRRR DDDR L\n- LLDD DRUU URLD LUUU RUL\nN: 225 - 59\n- RESET\n- RRDD DL\nN: 222 - 65\n- RESET\n- UULL L\nW: 215 - 65\nS: 213 - 58\nS: 217 - 51\n- RESET\n- DRRR DDRU\n- LLLU ULUR DRRU U\nN: 213 - 58\n- RESET\n- LLDD DDDR\nN: 215 - 65\nN: 214 - 71\n- RESET\n- RUUU RRRU LLUL DRDD LULD\n- LDLL LUUR DLDD RURR DD\n- RUUR UULD RDL\nS: 215 - 65\n- RESET\n- DDRR RR\n- LLLU ULDD DLR\n- RRDD LU\n- URRR RULD LLLU URDR DLDL U\nN: 214 - 71\n- RUUL\n- D\nS: 215 - 65\n- LDDR RRRR",
+    "images": [
+      "215_65_1.jpg",
+      "215_65_2.jpg",
+      "215_65_3.jpg",
+      "215_65_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 215,
+      "z": 90
+    },
+    "solution_text": "M : B | E | 222 - 93\nM+ : R-N | E | 210 - 95\n- DRRU UUUU LRDD RUUL UR\n- DDDR RRUU LDRD DLUL LLDD DRUU UULU R",
+    "images": [
+      "215_90_1.jpg",
+      "215_90_2.jpg",
+      "215_90_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 215,
+      "z": 160
+    },
+    "solution_text": "M : B | W | 209 - 157\n- DLLL LLUR RRRU DRDL LULD",
+    "images": [
+      "215_160_1.jpg",
+      "215_160_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 215,
+      "z": 180
+    },
+    "solution_text": "SC : B | W | 206 - 184",
+    "images": [
+      "215_180_1.jpg",
+      "215_180_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 215,
+      "z": 209
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "215_209_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 215,
+      "z": 216
+    },
+    "solution_text": "M : B | E | 222 - 218\nDE : B | S | 215 - 209\nW: 208 - 217\n- RESET\n- LULL LLLL DR\n- RRRR RRDD LURU ULUU LLDL LDDR R\n- LURR L\n- URRR DL\n- ULLL LDR\n- R\n- URRD RRR\n- ULLL LLDD DRUL URRU URRR DLDR \nE: 215 - 216\n- RURD DDD",
+    "images": [
+      "215_216_1.jpg",
+      "215_216_2.jpg",
+      "215_216_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 216,
+      "z": 60
+    },
+    "solution_text": "R-W | S | 213 - 58",
+    "images": [
+      "216_60_1.jpg",
+      "216_60_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 216,
+      "z": 132
+    },
+    "solution_text": "M : R-N | E | 216 - 138\n- LLDD DRRD RULU RDRU",
+    "images": [
+      "216_132_1.jpg",
+      "216_132_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 216,
+      "z": 138
+    },
+    "solution_text": "M : B | S | 216 - 132\nM : B | W | 209 - 139\n- D\n- RU\n- L (216 - 132)\n- LLDD RRRU U\nN: 216 - 138\n- UUUR RDDL LLL",
+    "images": [
+      "216_138_1.jpg",
+      "216_138_2.jpg",
+      "216_138_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 217,
+      "z": 51
+    },
+    "solution_text": "B | E | 226 - 52\nB | S | 213 - 45\n- DRRR RRR\n- LLDD RU\n- LLLU ULUR DRRR UUUL D\n- RRRD LLUL DDRD L\n- LLUR DRRU UULD RDLU LDDR DL",
+    "images": [
+      "217_51_1.jpg",
+      "217_51_2.jpg",
+      "217_51_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 217,
+      "z": 193
+    },
+    "solution_text": "M : B | W | 211 - 191\n- LUUL LLDD LDR\n- DL\n- UURD URRD DLLL L\nR-S | E | 222 - 186\n- LUUL LLDD LDRU RDLD RRRR\n- RR (225 - 194)\n- RESET\n- RUUL DRDD L\n- LL (217 - 193)\n- RESET\n- LUUU LLLD DLDR URD\n- LLD\n- DR\n- URRD RR\n- LLUL LDRR UURR DDDL DR\n- RESET\n- LUUU LLLD DLDR URDL DRRL UURR DDDL DR",
+    "images": [
+      "217_193_1.jpg",
+      "217_193_2.jpg",
+      "217_193_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 218,
+      "z": 30
+    },
+    "solution_text": "B | E | 225 - 30",
+    "images": [
+      "218_30_1.jpg",
+      "218_30_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 219,
+      "z": 42
+    },
+    "solution_text": "R-S | W | 218 - 30\n- LDL\n- UULD\n- RDDD L\n- RUUL DRDL",
+    "images": [
+      "219_42_1.jpg",
+      "219_42_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 219,
+      "z": 100
+    },
+    "solution_text": "M : B | E | 226 - 99",
+    "images": [
+      "219_100_1.jpg",
+      "219_100_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 219,
+      "z": 122
+    },
+    "solution_text": "M : R-S | W | 220 - 116\n- URRD\n- RDRD DLL",
+    "images": [
+      "219_122_1.jpg",
+      "219_122_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 219,
+      "z": 173
+    },
+    "solution_text": "SC : B | W | 214 - 173",
+    "images": [
+      "219_173_1.jpg",
+      "219_173_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 220,
+      "z": 80
+    },
+    "solution_text": "B | S | 222 - 74\n- DLLL LDRR DRUR UL\n- DLLU UULD DLDR DRUL URDR U\n- DRLL UURR RDDD D\nR-W | S | 214 - 71\n& 222 - 74\n- DLLL LDRR DRUR UL\n- DLLU UULD DLDR URDL DRR\n- DRRU ULLU LLDR URDL DRRU RDLD R\n- UURD D\nS: 222 - 74\n- DDRU\nN: 220 - 80",
+    "images": [
+      "220_80_1.jpg",
+      "220_80_2.jpg",
+      "220_80_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 220,
+      "z": 116
+    },
+    "solution_text": "M : B | E | 227 - 116\n- RDDL LLDR RDRU LURR RRR",
+    "images": [
+      "220_116_1.jpg",
+      "220_116_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 220,
+      "z": 146
+    },
+    "solution_text": "M : B | N | 220 - 152\nM+ : B | W | 214 - 147\n- LLLD LUUL LURR\n- U\n- URDR RDLL LLL",
+    "images": [
+      "220_146_1.jpg",
+      "220_146_2.jpg",
+      "220_146_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 220,
+      "z": 152
+    },
+    "solution_text": "M : B | E | 226 - 155\n- UUUL LDRR DRUL URRR",
+    "images": [
+      "220_152_1.jpg",
+      "220_152_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 220,
+      "z": 165
+    },
+    "solution_text": "M : B | S | 215 - 160\n- ULLD DRUU RULL UULD DDRD L",
+    "images": [
+      "220_165_1.jpg",
+      "220_165_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 222,
+      "z": 65
+    },
+    "solution_text": "B | S | 225 - 59\n- RRUU LDDL DRUR DDLD R",
+    "images": [
+      "222_65_1.jpg",
+      "222_65_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 222,
+      "z": 74
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "222_74_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 222,
+      "z": 93
+    },
+    "solution_text": "M : R-W | N | 219 - 100\n- RRUR UL\n- LU\n- LLRL DDRR UUU",
+    "images": [
+      "222_93_1.jpg",
+      "222_93_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 222,
+      "z": 178
+    },
+    "solution_text": "SC : B | S | 219 - 173\n- RESET\n- LLL\n- LLUU RDDD RDL\n- ULLR URDR DL",
+    "images": [
+      "222_178_1.jpg",
+      "222_178_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 222,
+      "z": 186
+    },
+    "solution_text": "R-W | N | 206 - 184",
+    "images": [
+      "222_186_1.jpg",
+      "222_186_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 222,
+      "z": 206
+    },
+    "solution_text": "DE : B | N | 223 - 211\nE: 228 - 207\n- RESET\n- RRU\n- LLUR RR\n- UUD\n- RDD\n- LLUR URDL DRDR RULL LLL\n- RRRR DDDL UURU L\nW: 222 - 206\n- DLUU",
+    "images": [
+      "222_206_1.jpg",
+      "222_206_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 222,
+      "z": 218
+    },
+    "solution_text": "M : R-E | S | 244 - 215\n- RULU UR\n- URRR RULL ULDL DRRU RD\n- LLLD DRUL URRU RD",
+    "images": [
+      "222_218_1.jpg",
+      "222_218_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 223,
+      "z": 46
+    },
+    "solution_text": "B | S | 219 - 42",
+    "images": [
+      "223_46_1.jpg",
+      "223_46_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 223,
+      "z": 211
+    },
+    "solution_text": "DE : B | N | 223 - 215",
+    "images": [
+      "223_211_1.jpg",
+      "223_211_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 223,
+      "z": 215
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "223_215_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 225,
+      "z": 30
+    },
+    "solution_text": "R-E | N | 246 - 33\n- RRUU URDR DDL\n- DLLL UR\n- RRRD RULU R\n- DDRU U\nR-E | N | 246 - 33\nRaft 227 - 39",
+    "images": [
+      "225_30_1.jpg",
+      "225_30_2.jpg",
+      "225_30_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 225,
+      "z": 59
+    },
+    "solution_text": "B | S | 226 - 52",
+    "images": [
+      "225_59_1.jpg",
+      "225_59_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 225,
+      "z": 83
+    },
+    "solution_text": "M+ : B | S | 230 - 78\nB | S | 220 - 80",
+    "images": [
+      "225_83_1.jpg",
+      "225_83_2.jpg",
+      "225_83_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 225,
+      "z": 131
+    },
+    "solution_text": "M : R-W | N | 216 - 132\n- DDLD DDDR U\n- UUUR RDL\n- LLLD LUUU\n- DLLD RDRU UU",
+    "images": [
+      "225_131_1.jpg",
+      "225_131_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 225,
+      "z": 194
+    },
+    "solution_text": "M : B | W | 217 - 193",
+    "images": [
+      "225_194_1.jpg",
+      "225_194_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 226,
+      "z": 52
+    },
+    "solution_text": "B | W | 223 - 46\n- DRDD DDDR U\n- UUUU URDD DRLL LDDL U\n- RUUU LLLD DRRL UURR DDDR DL\n- URRU LUUL DDDR DL",
+    "images": [
+      "226_52_1.jpg",
+      "226_52_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 226,
+      "z": 99
+    },
+    "solution_text": "M : R-W | S | 213 - 101\n- URUR RDDD RLUL DD\n- RRRD DLUR UUUL LULD D",
+    "images": [
+      "226_99_1.jpg",
+      "226_99_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 226,
+      "z": 122
+    },
+    "solution_text": "B | W | 219 - 122\nB | S | 227 - 116",
+    "images": [
+      "226_122_1.jpg",
+      "226_122_2.jpg",
+      "226_122_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 226,
+      "z": 138
+    },
+    "solution_text": "M : B | S | 225 - 131",
+    "images": [
+      "226_138_1.jpg",
+      "226_138_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 226,
+      "z": 155
+    },
+    "solution_text": "M : B | N | 227 - 162\n- URUR RDDL URUU LDLU DLLU URRD RUU",
+    "images": [
+      "226_155_1.jpg",
+      "226_155_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 226,
+      "z": 168
+    },
+    "solution_text": "DE : B | E | 231 - 169\n- UR\n- RRRU L\n- DLUL LDDR ULUU R\n- LDRD RULU URR",
+    "images": [
+      "226_168_1.jpg",
+      "226_168_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 227,
+      "z": 39
+    },
+    "solution_text": "R-S | W | 225 - 30",
+    "images": [
+      "227_39_1.jpg",
+      "227_39_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 227,
+      "z": 109
+    },
+    "solution_text": "M : R-E | SN | 234 - 108\n- DLLD DRRR DRU\n- LLLD LLUU LURD DRRU ULUR RRUR D\nR-N | W | 226 - 122\nRaft 212 - 116",
+    "images": [
+      "227_109_1.jpg",
+      "227_109_2.jpg",
+      "227_109_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 227,
+      "z": 116
+    },
+    "solution_text": "M : B | S | 227 - 109",
+    "images": [
+      "227_116_1.jpg",
+      "227_116_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 227,
+      "z": 162
+    },
+    "solution_text": "M : B | W | 220 - 165\n- RUUL LLDL U\nDE : B | N | 226 - 168\nW: 220 - 165\n- RESET\n- ULLD R\n- RRRR R (227 - 162)\n- RESET\n- DLDD RUUR ULDL U",
+    "images": [
+      "227_162_1.jpg",
+      "227_162_2.jpg",
+      "227_162_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 227,
+      "z": 200
+    },
+    "solution_text": "M : B | S | 225 - 194\n- LL\n- ULLU LDD",
+    "images": [
+      "227_200_1.jpg",
+      "227_200_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 228,
+      "z": 207
+    },
+    "solution_text": "M+ : B | S | 227 - 200\nDE : B | W | 222 - 206\n- DLLU ULDR DDL\n- LLUR RRUR DDRD DLUR UL",
+    "images": [
+      "228_207_1.jpg",
+      "228_207_2.jpg",
+      "228_207_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 229,
+      "z": 89
+    },
+    "solution_text": "M+ : R-S | W | 225 - 83\n- LULL LULD RDDD LL\n- RRRD RRUL DLLU RULL ULDR DLL",
+    "images": [
+      "229_89_1.jpg",
+      "229_89_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 229,
+      "z": 145
+    },
+    "solution_text": "M : B | W | 220 - 146\nM : B | S | 226 - 138\n236 - 142 → 229 - 145",
+    "images": [
+      "229_145_1.jpg",
+      "229_145_2.jpg",
+      "229_145_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 229,
+      "z": 177
+    },
+    "solution_text": "SC : B | W | 222 - 178\n- DDLL DLUR ULDL U\n- RRUL\n- LL",
+    "images": [
+      "229_177_1.jpg",
+      "229_177_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 230,
+      "z": 78
+    },
+    "solution_text": "M+ : B | E | 237 - 79\n- DRRR RRLD LUUU DD\n- RRDD RDLL DLLU LURR RDRU",
+    "images": [
+      "230_78_1.jpg",
+      "230_78_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 231,
+      "z": 169
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "231_169_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 233,
+      "z": 190
+    },
+    "solution_text": "B | W | 225 - 194\nB | S | 234 - 182",
+    "images": [
+      "233_190_1.jpg",
+      "233_190_2.jpg",
+      "233_190_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 233,
+      "z": 198
+    },
+    "solution_text": "M : B | W | 227 - 200\n- LDDD LLLD URUL LLL\n- RRUR RRUD RDLL LLL\nR-S | E | 233 - 190\n- LDDD LLLD URUL LLL\n- RRUR RRUD LDR\nN: 237 - 203\nN: 237 - 210\nW: 228 - 207\nS: 227 - 200\n- RESET\n- LDLD DR\n- UURD DDLD R\n- URRL ULDL DRRR R (233 - 198)\n- RRUR RDD\n- RESET\n- RRUR RRUD RDLU LDDU LLDD RR",
+    "images": [
+      "233_198_1.jpg",
+      "233_198_2.jpg",
+      "233_198_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 234,
+      "z": 108
+    },
+    "solution_text": "M : R-N | W | 229 - 145\nRaft 227 - 109",
+    "images": [
+      "234_108_1.jpg",
+      "234_108_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 234,
+      "z": 182
+    },
+    "solution_text": "SC : B | S | 229 - 177",
+    "images": [
+      "234_182_1.jpg",
+      "234_182_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 236,
+      "z": 73
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "236_73_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 236,
+      "z": 89
+    },
+    "solution_text": "M+ : B | E | 244 - 88\nM+ : B | W | 229 - 89\n- DL\n- LDLD DDLD RRDR U\n- R\n- RULL DLU\n- UURU ULDR DLL",
+    "images": [
+      "236_89_1.jpg",
+      "236_89_2.jpg",
+      "236_89_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 236,
+      "z": 96
+    },
+    "solution_text": "M : B | E | 245 - 95\nM+ : B | S | 236 - 89\n- LDDR R\n- LLLU LLDR\n- RRRD DRRU URUL\n- DLLU\n- LLUU RRRD DDD",
+    "images": [
+      "236_96_1.jpg",
+      "236_96_2.jpg",
+      "236_96_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 236,
+      "z": 102
+    },
+    "solution_text": "M : B | S | 236 - 96",
+    "images": [
+      "236_102_1.jpg",
+      "236_102_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 236,
+      "z": 142
+    },
+    "solution_text": "M : B | W | 229 - 145\n- ULLD DLU\n- RUUR UL\n- LL",
+    "images": [
+      "236_142_1.jpg",
+      "236_142_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 237,
+      "z": 79
+    },
+    "solution_text": "M+ : B | E | 243 - 81\nDE : B | S | 236 - 73\nW: 230 - 78\n- RESET\n- DRRR RRLD LU\n- DDRR RDLL DLU\n- RUUU LLUU DD\n- D\n- RRDD LLLD R\n- URRU ULDR DDDL LULU RRRD RU\n- LDDL UULU R\nE: 237 - 79\n- RRDR RU\n- R\n- RULL RUUL LDDD D",
+    "images": [
+      "237_79_1.jpg",
+      "237_79_2.jpg",
+      "237_79_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 237,
+      "z": 203
+    },
+    "solution_text": "M : B | S | 233 - 198\nM+ : B | N | 237 - 210\n- LURU UL\n- LURR D\n- DDRU RUL\n- DLLD R\n- D\n- DRU\n- LUU\n- RRDL DLU",
+    "images": [
+      "237_203_1.jpg",
+      "237_203_2.jpg",
+      "237_203_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 237,
+      "z": 210
+    },
+    "solution_text": "M+ : B | W | 228 - 207\n- URRU\n- LLLL LURU RRD\n- UUUU LRUR DLDR R\n- RRUU URDD RDLU LLD\n- DDDD LLLL L",
+    "images": [
+      "237_210_1.jpg",
+      "237_210_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 238,
+      "z": 22
+    },
+    "solution_text": "M+ : B | W | 239 - 15\n- LDDD RDLU LDRD L\n- UULL LUUR DLDD RURR DDRD L",
+    "images": [
+      "238_22_1.jpg",
+      "238_22_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 238,
+      "z": 130
+    },
+    "solution_text": "M+ : B | N | 238 - 137\n- ULLL LDUR UULD LUUL URR\n- LDDD DLUU LURU URDL DR\n- DDRR UUUU",
+    "images": [
+      "238_130_1.jpg",
+      "238_130_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 238,
+      "z": 137
+    },
+    "solution_text": "M+ : B | N | 236 - 142",
+    "images": [
+      "238_137_1.jpg",
+      "238_137_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 239,
+      "z": 15
+    },
+    "solution_text": "M+ : B | S | 245 - 8",
+    "images": [
+      "239_15_1.jpg",
+      "239_15_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 240,
+      "z": 124
+    },
+    "solution_text": "M+ : B | N | 238 - 130\n- LLLL LURD RDDD LLUU RLDD RRUU UU",
+    "images": [
+      "240_124_1.jpg",
+      "240_124_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 241,
+      "z": 164
+    },
+    "solution_text": "M : B | E | 250 - 165",
+    "images": [
+      "241_164_1.jpg",
+      "241_164_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 241,
+      "z": 221
+    },
+    "solution_text": "M+ : B | E | 248 - 223\nM+ : B | S | 244 - 215",
+    "images": [
+      "241_221_1.jpg",
+      "241_221_2.jpg",
+      "241_221_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 243,
+      "z": 81
+    },
+    "solution_text": "M : B | S | 245 - 74",
+    "images": [
+      "243_81_1.jpg",
+      "243_81_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 243,
+      "z": 142
+    },
+    "solution_text": "M : B | W | 236 - 142",
+    "images": [
+      "243_142_1.jpg",
+      "243_142_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 243,
+      "z": 177
+    },
+    "solution_text": "SC : B | W | 234 - 182",
+    "images": [
+      "243_177_1.jpg",
+      "243_177_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 244,
+      "z": 88
+    },
+    "solution_text": "M : B | S | 243 - 81\n- DD\n- LLDD LLLD R\n- URRR URRR DLLU LDD\nDE : R-E | S | 256 - 87\n- DDRD DL\nN: 245 - 95\nW: 236 - 96\nS: 236 - 89\nE: 244 - 88\n- R\n- RRR\nW: 236 - 89\nN: 236 - 96\nE: 245 - 95\nS: 244 - 88\n- LLDD DD\n- URRD LULD",
+    "images": [
+      "244_88_1.jpg",
+      "244_88_2.jpg",
+      "244_88_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 244,
+      "z": 200
+    },
+    "solution_text": "M : B | W | 237 - 203",
+    "images": [
+      "244_200_1.jpg",
+      "244_200_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 244,
+      "z": 215
+    },
+    "solution_text": "M : B | E | 253 - 213",
+    "images": [
+      "244_215_1.jpg",
+      "244_215_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 245,
+      "z": 8
+    },
+    "solution_text": "M : B | S | 246 - 1",
+    "images": [
+      "245_8_1.jpg",
+      "245_8_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 245,
+      "z": 26
+    },
+    "solution_text": "M+ : B | WS | 238 - 22\n- LDDL LLLU LD\n- URRR RRUD DRDL LLL",
+    "images": [
+      "245_26_1.jpg",
+      "245_26_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 245,
+      "z": 74
+    },
+    "solution_text": "M : R-S | WE | 246 - 33\n- D\n- DDRR RDDR DL\n- URRU L\n- LLLL ULLD RURD DLDR",
+    "images": [
+      "245_74_1.jpg",
+      "245_74_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 245,
+      "z": 95
+    },
+    "solution_text": "M : B | S | 244 - 88\n- DR\n- RRRR UURD DRDL ULDD D",
+    "images": [
+      "245_95_1.jpg",
+      "245_95_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 245,
+      "z": 131
+    },
+    "solution_text": "M : B | N | 248 - 137\n- ULLU UURR DLLL DULU RRRL DDRR UU",
+    "images": [
+      "245_131_1.jpg",
+      "245_131_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 246,
+      "z": 1
+    },
+    "solution_text": "M : B | S | 247 - -3\n- RRDD LURU ULDL U\n- ULLD DDLR UURR DD",
+    "images": [
+      "246_1_1.jpg",
+      "246_1_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 246,
+      "z": 33
+    },
+    "solution_text": "M : B | E | 252 - 34\nM+ : B | S | 245 - 26",
+    "images": [
+      "246_33_1.jpg",
+      "246_33_2.jpg",
+      "246_33_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 247,
+      "z": 125
+    },
+    "solution_text": "M : B | N | 245 - 131\n- LUUU URL\n- DLUU LU\nM+ : B | W | 240 - 124\n- LUUU URL\n- DLUU LDL",
+    "images": [
+      "247_125_1.jpg",
+      "247_125_2.jpg",
+      "247_125_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 247,
+      "z": 183
+    },
+    "solution_text": "M : B | N | 248 - 189\n- DLLL DLUU ULRD RRUU",
+    "images": [
+      "247_183_1.jpg",
+      "247_183_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 247,
+      "z": 194
+    },
+    "solution_text": "M : B | N | 244 - 200",
+    "images": [
+      "247_194_1.jpg",
+      "247_194_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 247,
+      "z": 230
+    },
+    "solution_text": "B | E | 253 - 228",
+    "images": [
+      "247_230_1.jpg",
+      "247_230_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 248,
+      "z": 137
+    },
+    "solution_text": "M : B | W | 243 - 142\n- UUUU LRDR RUDR RUUL LULD RDLL DLU",
+    "images": [
+      "248_137_1.jpg",
+      "248_137_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 248,
+      "z": 171
+    },
+    "solution_text": "M : B | E | 257 - 173\n- UULL LDRR DRUL UUUR RRR\nSC : R-N | W | 243 - 177\nE: 257 - 173\n- RESET\n- RRDR RULU URRR RDRU RULL LULD DRDL LULD RDL\nW: 248 - 171\n- RESET\n- LLLL DDLD RRDR URUU ULL",
+    "images": [
+      "248_171_1.jpg",
+      "248_171_2.jpg",
+      "248_171_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 248,
+      "z": 189
+    },
+    "solution_text": "M : B | N | 247 - 194\n- LUUR RRUL LULD RDLU LLDD RULU RDRU U",
+    "images": [
+      "248_189_1.jpg",
+      "248_189_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 248,
+      "z": 223
+    },
+    "solution_text": "M+ : B | E | 253 - 228\n- ULLL LLLD RRDR ULUR RR\n- LUUR URRD LDRD RU\nB | N | 247 - 230\n241 - 221 → 248 - 223- ULLL LLLD RRDR ULUR RRR\n- UUUL DLDD R\nW: 241 - 221\nS: 244 - 215\nE: 253 - 213\nN: 254 - 220\nW: 248 - 223\n- LUUU U",
+    "images": [
+      "248_223_1.jpg",
+      "248_223_2.jpg",
+      "248_223_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 250,
+      "z": 165
+    },
+    "solution_text": "M : B | N | 248 - 171\n- RRUU URUL\nDE : B | E | 256 - 163\n252 - 158 → 250 - 156S: 252 - 158\n- RESET\n- UL\n- LLUU L\n- DLLD LU\n- RDDR RUUR UL\n- DDDL ULUR DRUU UU\n- LDLL DRDR ULUR DRU\n- LLLU\nN: 250 - 165\n- LURU URRD D",
+    "images": [
+      "250_165_1.jpg",
+      "250_165_2.jpg",
+      "250_165_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 251,
+      "z": 11
+    },
+    "solution_text": "M : B | W | 245 - 8",
+    "images": [
+      "251_11_1.jpg",
+      "251_11_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 251,
+      "z": 199
+    },
+    "solution_text": "M+ : B | W | 244 - 200",
+    "images": [
+      "251_199_1.jpg",
+      "251_199_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 252,
+      "z": 34
+    },
+    "solution_text": "M : B | SE | 257 - 29\n- RURD LDDR URD\n- RD\n- LDLD R",
+    "images": [
+      "252_34_1.jpg",
+      "252_34_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 252,
+      "z": 133
+    },
+    "solution_text": "M+ : B | S | 255 - 128",
+    "images": [
+      "252_133_1.jpg",
+      "252_133_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 252,
+      "z": 158
+    },
+    "solution_text": "B | N | 250 - 165\n- UL\n- LLUU L\n- DLLD LU\n- UU",
+    "images": [
+      "252_158_1.jpg",
+      "252_158_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 253,
+      "z": 121
+    },
+    "solution_text": "M : B | W | 247 - 125\n- LLLU UURR DDDR LDLL URRU LLL",
+    "images": [
+      "253_121_1.jpg",
+      "253_121_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 253,
+      "z": 184
+    },
+    "solution_text": "M : B | W | 247 - 183\n- LLLL LULD",
+    "images": [
+      "253_184_1.jpg",
+      "253_184_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 253,
+      "z": 192
+    },
+    "solution_text": "B | S | 253 - 184",
+    "images": [
+      "253_192_1.jpg",
+      "253_192_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 253,
+      "z": 213
+    },
+    "solution_text": "M : B | E | 260 - 214\n- R\n- RUUU URRD LDDR URDL DRRR\nM+ : B | N | 254 - 220\n- DRU\n- URUU UURD\n- LLDL DRDD RUUU LUR",
+    "images": [
+      "253_213_1.jpg",
+      "253_213_2.jpg",
+      "253_213_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 253,
+      "z": 228
+    },
+    "solution_text": "M+ : B | N | 258 - 233",
+    "images": [
+      "253_228_1.jpg",
+      "253_228_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 254,
+      "z": 23
+    },
+    "solution_text": "M : B | S | 255 - 17",
+    "images": [
+      "254_23_1.jpg",
+      "254_23_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 254,
+      "z": 220
+    },
+    "solution_text": "M+ : B | W | 248 - 223\nM+ : B | E | 259 - 223",
+    "images": [
+      "254_220_1.jpg",
+      "254_220_2.jpg",
+      "254_220_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 255,
+      "z": 17
+    },
+    "solution_text": "M : B | W | 251 - 11\n- RDDD RLUL D\n- LD\n- RDRD LL",
+    "images": [
+      "255_17_1.jpg",
+      "255_17_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 255,
+      "z": 128
+    },
+    "solution_text": "M+ : B | S | 253 - 121\nM+ : B | N | 257 - 135\n- LLLL R\n- LUUR D\n- DDDR U\n- L\n- UULL LDDD\n- DRRU UULU RRDD DRUU U\nR-E | N | 265 - 131\nN: 257 - 135\n- RESET\n- RUUU UUUL DDLD RDRU LUR\n- RDLD RDRD LRUU LLDD DD\n- LDD (255 - 128)\n- RESET\n- LLLL R\n- LUUR D\n- DRRD LULD DLUU ULUR\n- RDDD RL\n- UULL LDDD\n- DRRU UULU RR",
+    "images": [
+      "255_128_1.jpg",
+      "255_128_2.jpg",
+      "255_128_3.jpg",
+      "255_128_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 256,
+      "z": 87
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "256_87_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 256,
+      "z": 163
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "256_163_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 257,
+      "z": 29
+    },
+    "solution_text": "M : B | S | 254 - 23\n- DDRD RDDL\nB | S | 261 - 24\n- DRRD DDLU ULUR\nW: 252 - 34\n- RESET\n- UR\n- LLUU RRRR UDLL DRRU RD\nS: 257 - 29\n- RDDD LDR",
+    "images": [
+      "257_29_1.jpg",
+      "257_29_2.jpg",
+      "257_29_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 257,
+      "z": 94
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "257_94_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 257,
+      "z": 135
+    },
+    "solution_text": "M+ : B | W | 252 - 133\n- RUUR RUUL LLUD\n- UULD\n- RDDR DDDL U\n- RRUU LDLL LL",
+    "images": [
+      "257_135_1.jpg",
+      "257_135_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 257,
+      "z": 173
+    },
+    "solution_text": "M : B | N | 262 - 179\n- RRDR RULU URRR DRUU U",
+    "images": [
+      "257_173_1.jpg",
+      "257_173_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 258,
+      "z": 49
+    },
+    "solution_text": "B | E | 264 - 52",
+    "images": [
+      "258_49_1.jpg",
+      "258_49_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 258,
+      "z": 88
+    },
+    "solution_text": "M : R-S | S | 260 - 82\nRaft 273 - 85\nM : R-N | E | 257 - 94\n& 264 - 91\nRaft 264 - 91",
+    "images": [
+      "258_88_1.jpg",
+      "258_88_2.jpg",
+      "258_88_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 258,
+      "z": 196
+    },
+    "solution_text": "M+ : B | W | 251 - 199\n- LULL UULU RDRR RUDR RUUL LLLU LDRD LL",
+    "images": [
+      "258_196_1.jpg",
+      "258_196_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 258,
+      "z": 233
+    },
+    "solution_text": "M+ : B | E | 264 - 237\n- RRRR RRUU RD\n- DLLL LULL DDLD RRDR RRRU RUL\n- DLLL DDRR RDUL UURD RUUL URRR",
+    "images": [
+      "258_233_1.jpg",
+      "258_233_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 259,
+      "z": 118
+    },
+    "solution_text": "M : B | W | 253 - 121\nM+ : B | E | 266 - 117\n- UULU UURL ULLD RRDL L\n- UL\n- LDLD RUUR RRDL DDLU ULUR RURD DLDR R",
+    "images": [
+      "259_118_1.jpg",
+      "259_118_2.jpg",
+      "259_118_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 259,
+      "z": 151
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "259_151_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 259,
+      "z": 190
+    },
+    "solution_text": "M+: B | N | 258 - 196\nB | W | 253 - 192\nS: 260 - 184\n- RESET\n- DDDR RURU ULDL LURU L\n- DDLU\n- UUUU (259 - 190)\n- RUUU LLDD RDRU URUL LL\nDE : B | E | 266 - 187\nW: 253 - 192\n- UULL ULLD RURR DLDD RRRR R (259 - 190)\n- RR\n- U\n- URDL DRUR D",
+    "images": [
+      "259_190_1.jpg",
+      "259_190_2.jpg",
+      "259_190_3.jpg",
+      "259_190_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 259,
+      "z": 223
+    },
+    "solution_text": "M+ : B | N | 263 - 227\n- RUUU ULLD R\n- RDRR RDLL LDUR ULDL UUUL UR",
+    "images": [
+      "259_223_1.jpg",
+      "259_223_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 260,
+      "z": 6
+    },
+    "solution_text": "R-W | N | 245 - 8\n- LLLU LLUR\n- DDRR RDUU",
+    "images": [
+      "260_6_1.jpg",
+      "260_6_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 260,
+      "z": 61
+    },
+    "solution_text": "M : R-N | E | 263 - 68\n- ULUL LDRR RRDU LLUU RR\n- LLUR RURD LDR\nR-E | E | 269 - 57\nR-N: 263 - 68\n- RESET\n- RURR UULL LLUD LDRU RDD\n- ULLD DRU\n- D\n- LUUU LDDL DRDR ULUR RURD D\n- ULLD DRU\n- L (260 - 61)",
+    "images": [
+      "260_61_1.jpg",
+      "260_61_2.jpg",
+      "260_61_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 260,
+      "z": 82
+    },
+    "solution_text": "M : R-N | W | 264 - 91\n- RDRR URDR DDLL DLLU UULU L\n- RDRR UULD RDL",
+    "images": [
+      "260_82_1.jpg",
+      "260_82_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 260,
+      "z": 158
+    },
+    "solution_text": "B | W | 252 - 158\n- LUUU LDDL DR\n- DDLL UR\n- DRRR U\n- LULD RDLL",
+    "images": [
+      "260_158_1.jpg",
+      "260_158_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 260,
+      "z": 184
+    },
+    "solution_text": "M : B | W | 253 - 184\nM+ : B | N | 259 - 190\n- URUU LDLL UU",
+    "images": [
+      "260_184_1.jpg",
+      "260_184_2.jpg",
+      "260_184_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 260,
+      "z": 214
+    },
+    "solution_text": "M : B | E | 265 - 216\n- RRUU ULDD DLRD RUUU\n- DDDD RRUL DLLU LUUU RR",
+    "images": [
+      "260_214_1.jpg",
+      "260_214_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 261,
+      "z": 24
+    },
+    "solution_text": "B | W | 254 - 23\nR-S | E | 266 - 6\n- RDDD RRU\n- LUUU RDLD DR\n- DDUL UR",
+    "images": [
+      "261_24_1.jpg",
+      "261_24_2.jpg",
+      "261_24_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 262,
+      "z": 125
+    },
+    "solution_text": "M+ : B | W | 255 - 128",
+    "images": [
+      "262_125_1.jpg",
+      "262_125_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 262,
+      "z": 146
+    },
+    "solution_text": "B | S | 269 - 140\n- LLDD DLRU RDDD\n- ULLD RURR D\n- UURR RRLL LUD",
+    "images": [
+      "262_146_1.jpg",
+      "262_146_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 262,
+      "z": 179
+    },
+    "solution_text": "M : B | N | 260 - 184\n- UURR RRDD DRUU RULD LURU LLLD LLUR DRUU",
+    "images": [
+      "262_179_1.jpg",
+      "262_179_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 263,
+      "z": 68
+    },
+    "solution_text": "M : R-N | E | 264 - 91\n- RRUU LLLL UDLD RURR RDDL LULU RDDR RUUL UR\n- DLLL LLDD LDRD RULU RRUR RRDD LLUL URDD RRUU LUR",
+    "images": [
+      "263_68_1.jpg",
+      "263_68_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 263,
+      "z": 227
+    },
+    "solution_text": "M+ : B | E | 268 - 222\n- RRDR URRD",
+    "images": [
+      "263_227_1.jpg",
+      "263_227_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 264,
+      "z": 52
+    },
+    "solution_text": "M : R-N | W | 260 - 61\n- ULLU U\n- ULLU UR\n- DDRR RRRR ULLU LDRD LLLD LUUL UR",
+    "images": [
+      "264_52_1.jpg",
+      "264_52_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 264,
+      "z": 91
+    },
+    "solution_text": "M : B | E | 272 - 93\nM : R-W | S | 258 - 88\nRaft 260 - 82\nM : B | N | 264 - 100\n264 - 91 → 257 - 94- LLLU UULL LLLL (257 - 94)\n- RESET\n- LLUU URDL DDR\nE: 264 - 91\n- RRRD RUU",
+    "images": [
+      "264_91_1.jpg",
+      "264_91_2.jpg",
+      "264_91_3.jpg",
+      "264_91_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 264,
+      "z": 100
+    },
+    "solution_text": "M : R-N | W | 259 - 118\n- UURU L\n- ULLU\n- RDDL UURU L\n- UUDR DL",
+    "images": [
+      "264_100_1.jpg",
+      "264_100_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 264,
+      "z": 237
+    },
+    "solution_text": "M+ : B | E | 272 - 234\n- RU\n- LUUU UULL DRUR RDLD RR\n- DLDR\n- UUUR DLDR URD",
+    "images": [
+      "264_237_1.jpg",
+      "264_237_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 265,
+      "z": 33
+    },
+    "solution_text": "M : B | N | 266 - 39\n- LUUU UULR\n- URRR DDL\n- UULL D\n- DDDL UUUU U",
+    "images": [
+      "265_33_1.jpg",
+      "265_33_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 265,
+      "z": 131
+    },
+    "solution_text": "R-S | W | 262 - 125",
+    "images": [
+      "265_131_1.jpg",
+      "265_131_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 265,
+      "z": 156
+    },
+    "solution_text": "B | S | 266 - 151\nB | W | 260 - 158",
+    "images": [
+      "265_156_1.jpg",
+      "265_156_2.jpg",
+      "265_156_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 265,
+      "z": 192
+    },
+    "solution_text": "DE : B | E | 272 - 195",
+    "images": [
+      "265_192_1.jpg",
+      "265_192_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 265,
+      "z": 216
+    },
+    "solution_text": "M : B | N | 268 - 222\nM+ : B | E | 273 - 214\n- UR\n- DRRR DDRR ULDL LULL URDR ULUR R",
+    "images": [
+      "265_216_1.jpg",
+      "265_216_2.jpg",
+      "265_216_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 266,
+      "z": 6
+    },
+    "solution_text": "B | W | 260 - 6\n- RUUL DLDD R\n- LURR DLDD DDRR UUUL RDDD LLUU URUL ULD\n- RDDD LD\n- RDDD DDLL UURL DDRR UUUU RULU LD\n- RDDD DLL",
+    "images": [
+      "266_6_1.jpg",
+      "266_6_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 266,
+      "z": 39
+    },
+    "solution_text": "M : B | N | 267 - 46",
+    "images": [
+      "266_39_1.jpg",
+      "266_39_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 266,
+      "z": 117
+    },
+    "solution_text": "M+ : B | N | 269 - 125\n- UR\n- RDDD DRU\n- ULUU URUD\n- LDRR RRUU",
+    "images": [
+      "266_117_1.jpg",
+      "266_117_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 266,
+      "z": 151
+    },
+    "solution_text": "B | W | 259 - 151\n- LLDD\n- DL\nB | W | 262 - 146\n& 259 - 151\n- DDDL LU\n- UL\nW: 259 - 151\n- UULL DDDL R\nE: 266 - 151\n- RUUD RDLL",
+    "images": [
+      "266_151_1.jpg",
+      "266_151_2.jpg",
+      "266_151_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 266,
+      "z": 187
+    },
+    "solution_text": "DE : B | N | 265 - 192\n- RRUR RDDL U\n- RUUU RDDD DRL\n- UULL\n- DDDR UUUR UL",
+    "images": [
+      "266_187_1.jpg",
+      "266_187_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 267,
+      "z": 46
+    },
+    "solution_text": "M : B | N | 264 - 52\n- LLUU LURD RULU R\n- DDRR RUUL\n- UL\n- LL\n- DDDL LLUU U\nR-W | N | 258 - 49\n- LLUU LURD RULU R\n- DDRR RUUL\n- UL\n- LLLD DDLL UU\n- DLUU",
+    "images": [
+      "267_46_1.jpg",
+      "267_46_2.jpg",
+      "267_46_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 268,
+      "z": 222
+    },
+    "solution_text": "M : B | N | 269 - 228\n- RRUU RULD LUUL UURD LDR\n- DDLU UUUL RDDR UUU",
+    "images": [
+      "268_222_1.jpg",
+      "268_222_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 269,
+      "z": 57
+    },
+    "solution_text": "R-E | N | 288 - 67",
+    "images": [
+      "269_57_1.jpg",
+      "269_57_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 269,
+      "z": 125
+    },
+    "solution_text": "M+ : B | W | 262 - 125\n- UUUU LULL DLDR R\n- URRD DDRU UURL DLUR ULL\n- RDLL LULD D\n- UURU RD\n- DDLD L",
+    "images": [
+      "269_125_1.jpg",
+      "269_125_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 269,
+      "z": 140
+    },
+    "solution_text": "R-S | WE | 319 - 133\n- DRRU ULDD LDRU RRDD\n- ULLL DDR\n- UURR RRRD RRUU LDRD DLUL D\n- RRDR DDLL URDR RURR ULLL",
+    "images": [
+      "269_140_1.jpg",
+      "269_140_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 269,
+      "z": 161
+    },
+    "solution_text": "B | S | 265 - 156\n- UUUU LDLL U\n- RUUU LLD\n- DLDR\n- DD\n- RRRU ULUL DLLD DR\n- D\n- UURD RRDD L",
+    "images": [
+      "269_161_1.jpg",
+      "269_161_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 269,
+      "z": 228
+    },
+    "solution_text": "M : B | E | 275 - 226",
+    "images": [
+      "269_228_1.jpg",
+      "269_228_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 270,
+      "z": 200
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "270_200_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 271,
+      "z": 29
+    },
+    "solution_text": "M : B | W | 265 - 33\nM+ : R-E | N | 279 - 28\n- LLLU ULUR UURD LDRD DRRU\n- LLUU R\n- DDRR RU",
+    "images": [
+      "271_29_1.jpg",
+      "271_29_2.jpg",
+      "271_29_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 272,
+      "z": 37
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "272_37_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 272,
+      "z": 93
+    },
+    "solution_text": "M : R-S | W | 273 - 85\n- UUR\n- DRRR RRRD L\n- ULLU ULDL LDRU RD\n- RRDD LL\n- RRUU LDRD LL",
+    "images": [
+      "272_93_1.jpg",
+      "272_93_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 272,
+      "z": 153
+    },
+    "solution_text": "B | W | 266 - 151\n- LLLL DURU LLL",
+    "images": [
+      "272_153_1.jpg",
+      "272_153_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 272,
+      "z": 195
+    },
+    "solution_text": "DE : B | WE | 270 - 200\n- DRU\n- URRR DRU\n- ULLL LLUR DRRR UUDD RUUU L\n- DDDR URLD LUUR UL",
+    "images": [
+      "272_195_1.jpg",
+      "272_195_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 272,
+      "z": 234
+    },
+    "solution_text": "M+ : B | S | 275 - 226",
+    "images": [
+      "272_234_1.jpg",
+      "272_234_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 273,
+      "z": 22
+    },
+    "solution_text": "M : B | N | 271 - 29",
+    "images": [
+      "273_22_1.jpg",
+      "273_22_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 273,
+      "z": 85
+    },
+    "solution_text": "M : R-W | S | 258 - 88\n- DDLU UULD\n- R",
+    "images": [
+      "273_85_1.jpg",
+      "273_85_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 273,
+      "z": 214
+    },
+    "solution_text": "M+ : B | N | 279 - 219\n- RURR DD\n- DDRR DDDD RUUR ULDL LUUL UR",
+    "images": [
+      "273_214_1.jpg",
+      "273_214_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 274,
+      "z": 43
+    },
+    "solution_text": "M+ : B | W | 267 - 46",
+    "images": [
+      "274_43_1.jpg",
+      "274_43_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 274,
+      "z": 73
+    },
+    "solution_text": "B | S | 276 - 65",
+    "images": [
+      "274_73_1.jpg",
+      "274_73_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 275,
+      "z": 226
+    },
+    "solution_text": "M : B | E | 285 - 227",
+    "images": [
+      "275_226_1.jpg",
+      "275_226_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 276,
+      "z": 65
+    },
+    "solution_text": "B | N | 281 - 68\n- DLLL ULLL LDUL URRR\n- DDRR U\n- ULLL UUUR",
+    "images": [
+      "276_65_1.jpg",
+      "276_65_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 276,
+      "z": 147
+    },
+    "solution_text": "B | N | 272 - 153",
+    "images": [
+      "276_147_1.jpg",
+      "276_147_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 276,
+      "z": 159
+    },
+    "solution_text": "B | S | 272 - 153\nB | W | 269 - 161\n285 - 158 → 285 - 150\n285 - 150 → 280 - 144\n280 - 144 → 276 - 147\n276 - 147 → 272 - 153S: 272 - 153\n- RESET\n- LLDD DRRR RDU\n- RESET\n- DDDL LLDU LLUR DRU\nS: 276 - 147\nE: 280 - 144\nN: 285 - 150\nN: 285 - 158\nN: 280 - 163\nS: 276 - 159",
+    "images": [
+      "276_159_1.jpg",
+      "276_159_2.jpg",
+      "276_159_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 278,
+      "z": 38
+    },
+    "solution_text": "M+ : B | W | 274 - 43\n- ULLU ULDD DLRD DRUU\n- RRUL DLLL U\n- DRUR ULL",
+    "images": [
+      "278_38_1.jpg",
+      "278_38_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 279,
+      "z": 28
+    },
+    "solution_text": "M+ : B | N | 281 - 34",
+    "images": [
+      "279_28_1.jpg",
+      "279_28_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 279,
+      "z": 201
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "279_201_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 279,
+      "z": 219
+    },
+    "solution_text": "M+ : B | N | 275 - 226",
+    "images": [
+      "279_219_1.jpg",
+      "279_219_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 280,
+      "z": 76
+    },
+    "solution_text": "B | E | 285 - 80\nR-W | NE | 264 - 91\n- LUUU LUUR\n- RUR\nE: 285 - 80\n- RESET\n- UUUU RDLD DRUR D\n- URDD DRLL\nW: 280 - 76\n- DLDD RLDD RRUU\nR-S | E | 281 - 68\n287 - 73 → 288 - 67S: 281 - 68\nE: 288 - 67\nN: 287 - 73\n- RESET\nS: 288 - 67\nW: 281 - 68\nN: 280 - 76\n- LUUU LUUR\n- RUR\nE: 285 - 80\n- RESET\n- UUUU RD\n- DRRD DDRL ULD\n- UULL DD\n- RRRD LL\nW: 280 - 76\n- RESET\n- LUUU LUUR\n- RRU\n- UDLD DR\n- URRD\n- U\n- RESET\n- LUUL LLUR\n- RRU\n- UDLD DR",
+    "images": [
+      "280_76_1.jpg",
+      "280_76_2.jpg",
+      "280_76_3.jpg",
+      "280_76_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 280,
+      "z": 144
+    },
+    "solution_text": "B | W | 276 - 147\n- DLL\n- LDDD RLDD LU\n- LU\n- RUU",
+    "images": [
+      "280_144_1.jpg",
+      "280_144_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 280,
+      "z": 163
+    },
+    "solution_text": "B | S | 276 - 159\n- ULL\n- LUUL LD\n- RRDD RDDL\n- LUUU UULL LD",
+    "images": [
+      "280_163_1.jpg",
+      "280_163_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 281,
+      "z": 34
+    },
+    "solution_text": "M+ : B | W | 278 - 38\n- RUUL LLUR\n- RRRU URDR DDLD DLUU\n- L\n- RRUU ULDR DL\n- DDLL LURD RRUU URUL\n- DDDD LLUR DRUU URUL\nDE : R-W | N | 272 - 37\nW: 278 - 38\n- RESET\n- ULLU ULDD DLRU RDDL DR\nE: 281 - 34\n- RESET\n- DRRD L\n- DDLL LLU",
+    "images": [
+      "281_34_1.jpg",
+      "281_34_2.jpg",
+      "281_34_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 281,
+      "z": 68
+    },
+    "solution_text": "B | W | 288 - 67\nB | N | 280 - 76\n287 - 73 → 288 - 67- RRRU U\nE: 288 - 67\nN: 287 - 73\n- RESET\n- DDLL LLLL\nS: 288 - 67\nW: 281 - 68\nR-W | N | 274 - 73\nRaft 280 - 76- RESET",
+    "images": [
+      "281_68_1.jpg",
+      "281_68_2.jpg",
+      "281_68_3.jpg",
+      "281_68_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 284,
+      "z": 188
+    },
+    "solution_text": "M : R-S | E | 285 - 179\n- DLUU UULR",
+    "images": [
+      "284_188_1.jpg",
+      "284_188_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 285,
+      "z": 62
+    },
+    "solution_text": "B | WN | 276 - 65\n- LDDL LLU\n- RRUU UL\n- DDLU RUUL",
+    "images": [
+      "285_62_1.jpg",
+      "285_62_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 285,
+      "z": 80
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "285_80_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 285,
+      "z": 150
+    },
+    "solution_text": "B | S | 280 - 144\n- DDRD DLUL DD\n- RRRD L",
+    "images": [
+      "285_150_1.jpg",
+      "285_150_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 285,
+      "z": 158
+    },
+    "solution_text": "B | S | 285 - 150\nB | N | 280 - 163\n- LLDL LLU\n- RRRU RUUL ULLD DDLL DR\n- D\n- DRUU RRUL L",
+    "images": [
+      "285_158_1.jpg",
+      "285_158_2.jpg",
+      "285_158_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 285,
+      "z": 179
+    },
+    "solution_text": "M : R-N | W | 285 - 196\n- LLUU URDD DR L\n- DLLL UULL DRDD LLUR RRRR",
+    "images": [
+      "285_179_1.jpg",
+      "285_179_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 285,
+      "z": 196
+    },
+    "solution_text": "M : R-E | S | 294 - 194\n- ULLL URUR RD\nDE : R-N | E | 290 - 201\nRaft 294 - 194",
+    "images": [
+      "285_196_1.jpg",
+      "285_196_2.jpg",
+      "285_196_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 285,
+      "z": 227
+    },
+    "solution_text": "M : R-S | EW | 288 - 208\n- RRRR RRRL\n- UURR DDRD LULL DDRD L\n- UUL\n- LDDL LUUL URUR DDLD R",
+    "images": [
+      "285_227_1.jpg",
+      "285_227_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 287,
+      "z": 44
+    },
+    "solution_text": "B | E | 294 - 44\n- ULUL LDLD RRRR R\nR-S | E | 294 - 44\n- ULUL LDLD RRRD RURU LULD DRDL\n- ULLL LDDR RU",
+    "images": [
+      "287_44_1.jpg",
+      "287_44_2.jpg",
+      "287_44_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 287,
+      "z": 73
+    },
+    "solution_text": "B | S | 288 - 67\nB | W | 280 - 76\n281 - 68 → 288 - 67- DDLL LLLL\nS: 288 - 67\nW: 281 - 68\n- RESET\n- RRRU U\nE: 288 - 67\nN: 287 - 73",
+    "images": [
+      "287_73_1.jpg",
+      "287_73_2.jpg",
+      "287_73_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 288,
+      "z": 67
+    },
+    "solution_text": "B | E | 297 - 67\nB | S | 285 - 62",
+    "images": [
+      "288_67_1.jpg",
+      "288_67_2.jpg",
+      "288_67_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 288,
+      "z": 208
+    },
+    "solution_text": "M : R-S | WS | 290 - 201\n- RUL",
+    "images": [
+      "288_208_1.jpg",
+      "288_208_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 289,
+      "z": 55
+    },
+    "solution_text": "R-N | E | 288 - 67",
+    "images": [
+      "289_55_1.jpg",
+      "289_55_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 290,
+      "z": 13
+    },
+    "solution_text": "R-N | E | 287 - 44\n- DLLL LLUL UURD RU\n- URDR URRL\n- DDDD RLDL LUUU\n- RRUL\n- LURD",
+    "images": [
+      "290_13_1.jpg",
+      "290_13_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 290,
+      "z": 201
+    },
+    "solution_text": "M : R-S | SW | 291 - 184\n- UUUL D\nDE : R-W | S | 279 - 201\nRaft 285 - 196",
+    "images": [
+      "290_201_1.jpg",
+      "290_201_2.jpg",
+      "290_201_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 291,
+      "z": 36
+    },
+    "solution_text": "B | E | 298 - 35\n- LLLD RDRR ULUR R",
+    "images": [
+      "291_36_1.jpg",
+      "291_36_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 291,
+      "z": 184
+    },
+    "solution_text": "M : R-W | N | 284 - 188\n- DDRD RRUR ULDL UU",
+    "images": [
+      "291_184_1.jpg",
+      "291_184_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 292,
+      "z": 53
+    },
+    "solution_text": "R-N | E | 289 - 55\n299 - 49 → 294 - 44S: 294 - 44\nE: 299 - 49\nN: 299 - 55\n- RESET\n- LUUU ULD\n- RDDD DRUU URLD LULU R\n- URRD DDRL\n- UULD RDLL LL\nS: 299 - 49\nS: 294 - 44\nN: 292 - 53\n- URUU LLUU RDLD R",
+    "images": [
+      "292_53_1.jpg",
+      "292_53_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 292,
+      "z": 143
+    },
+    "solution_text": "R-S | E | 296 - 139",
+    "images": [
+      "292_143_1.jpg",
+      "292_143_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 292,
+      "z": 162
+    },
+    "solution_text": "B | W | 285 - 158",
+    "images": [
+      "292_162_1.jpg",
+      "292_162_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 294,
+      "z": 44
+    },
+    "solution_text": "B | N | 292 - 53\nR-S | W | 291 - 36\nRaft 287 - 44\nR-E | ES | 305 - 46\nRaft 298 - 35",
+    "images": [
+      "294_44_1.jpg",
+      "294_44_2.jpg",
+      "294_44_3.jpg",
+      "294_44_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 294,
+      "z": 157
+    },
+    "solution_text": "B | W | 285 - 158",
+    "images": [
+      "294_157_1.jpg",
+      "294_157_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 294,
+      "z": 194
+    },
+    "solution_text": "M : R-S | W | 300 - 187\n- RDDL UUUL R\n- L\n- RDRU DRRU ULLL\nDE : R-S | W | 285 - 196\nR-S: 300 - 187\n- RESET\n- RRRU RRRU LULL DRDD LLLL L\nM  : 275 - 226\nE  : 285 - 226\n- RESET\nR-S: 288 - 208\nC  : 294 - 194",
+    "images": [
+      "294_194_1.jpg",
+      "294_194_2.jpg",
+      "294_194_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 295,
+      "z": 22
+    },
+    "solution_text": "M : R-W | S | 273 - 22\n- UUL\n- LLLU URDD RDLL DRR\n- UULD\n- RRRD LLUL D",
+    "images": [
+      "295_22_1.jpg",
+      "295_22_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 295,
+      "z": 76
+    },
+    "solution_text": "B | W | 287 - 73\n- LLUU ULUR\n- RDDD RRU\n- RRUU UULL LLLL UDRD DLUL D",
+    "images": [
+      "295_76_1.jpg",
+      "295_76_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 295,
+      "z": 168
+    },
+    "solution_text": "R-E | N | 299 - 173\nRaft 299 - 173\nR-S | E | 296 - 139\nRaft 305 - 165",
+    "images": [
+      "295_168_1.jpg",
+      "295_168_2.jpg",
+      "295_168_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 296,
+      "z": 98
+    },
+    "solution_text": "M : B | E | 303 - 102\n- LLUL UURR URDL DR\n- DDRU\n- UUUL URR",
+    "images": [
+      "296_98_1.jpg",
+      "296_98_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 296,
+      "z": 139
+    },
+    "solution_text": "B | N | 300 - 147\nR-W | N | 292 - 143\nRaft 295 - 168\nDE : B | E | 300 - 140\nR-W: 292 - 143\n- RESET\n- L (292 - 143)\n- LLLD U\n- RUUU LD\n- DDDR DLLR\n- LDDR U\n- RU\n- DLLU RR\n- UUDL DR\n- RRUL (296 - 139)\n- RRRR R",
+    "images": [
+      "296_139_1.jpg",
+      "296_139_2.jpg",
+      "296_139_3.jpg",
+      "296_139_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 297,
+      "z": 14
+    },
+    "solution_text": "M+ : B | N | 295 - 22",
+    "images": [
+      "297_14(North)_1.jpg",
+      "297_14(North)_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 297,
+      "z": 14
+    },
+    "solution_text": "B | W | 290 - 13",
+    "images": [
+      "297_14(South)_1.jpg",
+      "297_14(South)_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 297,
+      "z": 67
+    },
+    "solution_text": "B | NW | 295 - 76\n- DRRR RUUR ULDL URUL\n- RRUL\n- DDDL LLU\n- UU",
+    "images": [
+      "297_67_1.jpg",
+      "297_67_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 298,
+      "z": 35
+    },
+    "solution_text": "R-N | W | 294 - 44\nW: 291 - 36\n- RESET\n- LLLD RDRR ULUU URRD DLDL UULU RR\n- LDDR RUL\n- URR (298 - 35)\n- DDRR RULL ULDR DLL",
+    "images": [
+      "298_35_1.jpg",
+      "298_35_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 298,
+      "z": 223
+    },
+    "solution_text": "M : B | N | 298 - 230\n- LLUL D\n- LDDL LUUU LRDR RRRU UULD RDDL LDLU UUU",
+    "images": [
+      "298_223_1.jpg",
+      "298_223_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 298,
+      "z": 230
+    },
+    "solution_text": "M : B | E | 304 - 235",
+    "images": [
+      "298_230_1.jpg",
+      "298_230_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 299,
+      "z": 49
+    },
+    "solution_text": "B | N | 299 - 55\nB | S | 294 - 44\n- DD\n- UURR UUL\n- LLU\n- UD",
+    "images": [
+      "299_49_1.jpg",
+      "299_49_2.jpg",
+      "299_49_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 299,
+      "z": 55
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "299_55_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 299,
+      "z": 86
+    },
+    "solution_text": "M : B | N | 299 - 93\nM+ : B | E | 308 - 89\n- LLUU URRR UL\n- DLLL DDLL UUUL RDRR URRU LULL DDLD R\n- UUUR DLDR RRR",
+    "images": [
+      "299_86_1.jpg",
+      "299_86_2.jpg",
+      "299_86_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 299,
+      "z": 93
+    },
+    "solution_text": "M : B | N | 296 - 98",
+    "images": [
+      "299_93_1.jpg",
+      "299_93_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 299,
+      "z": 173
+    },
+    "solution_text": "B | E | 306 - 176\n- RUUL LLUR\n- DRRR DDRU UURL RUUU LLDD\n- L\n- RRDD DLUU RUL\n- DLLL UR\n- R\n- DRRU RRR\nR-W | S | 295 - 168\n- RUUL LLUR\n- DRRR DDRU UURL RUUU LLDD DD\nM  : 305 - 145\nW  : 300 - 147\n- RESET\nR-N: 299 - 173\nR-S | S | 305 - 165\nRaft 295 - 168E: 306 - 176\nS: 308 - 171\nS: 305 - 165\n- RESET\n- RD\n- DDLL LULL ULDR DDL\nN: 308 - 171\nN: 306 - 176\nW: 299 - 173\n- RESET\n- LLLD DDRU LUUR\n- LLLL UURD LDDR URRR DD",
+    "images": [
+      "299_173_1.jpg",
+      "299_173_2.jpg",
+      "299_173_3.jpg",
+      "299_173_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 300,
+      "z": 140
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "300_140_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 300,
+      "z": 147
+    },
+    "solution_text": "R-N | W | 299 - 173\n- URUU LLLD DR\n- DDRU UU\n- RRL\n- RUUL LD\n- URRD DLDL DLUU\n- DRRU L\n- UL\n- RDDL URUL",
+    "images": [
+      "300_147_1.jpg",
+      "300_147_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 300,
+      "z": 187
+    },
+    "solution_text": "M : B | E | 305 - 192\n- RRRU URDR RULU R",
+    "images": [
+      "300_187_1.jpg",
+      "300_187_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 301,
+      "z": 20
+    },
+    "solution_text": "M : B | W | 295 - 22",
+    "images": [
+      "301_20_1.jpg",
+      "301_20_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 303,
+      "z": 13
+    },
+    "solution_text": "M+ : B | W | 297 - 14 (North)\n- DLDL LLLD LU\nB | W | 297 - 14 (South)\n319 - 24 → 312 - 23\n312 - 23 → 306 - 20\n306 - 20 → 301 - 20\n301 - 20 → 295 - 22- DLDL LLLD LU\n- UURR RULL ULDR DLUL DD\nW: 297 - 14\nN: 295 - 22\nE: 301 - 20\nE: 306 - 20\nE: 312 - 23\nE: 319 - 24\nS: 320 - 17\nW: 311 - 14\t\nW: 303 - 13\n- DLDL LLLL",
+    "images": [
+      "303_13_1.jpg",
+      "303_13_2.jpg",
+      "303_13_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 303,
+      "z": 102
+    },
+    "solution_text": "M : B | E | 309 - 101\n- RUUR UULL DRUR RD\n- LDDD RU\n- UU\n- LUUR U\n- LDDD RULU URUR DLDR R",
+    "images": [
+      "303_102_1.jpg",
+      "303_102_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 303,
+      "z": 228
+    },
+    "solution_text": "M+ : R-E | SN | 312 - 225\n- RDDD LR\n- UURR RD\n- DDDL LULU RRUR D",
+    "images": [
+      "303_228_1.jpg",
+      "303_228_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 304,
+      "z": 235
+    },
+    "solution_text": "M : R-E | SN | 309 - 233\n- RDRR ULUR DRU\n- UULL LD\n- RRRU RUUL DRDD LULD RDDD DLLL UUUR RLLD DDRR RUUU LUUR RDLU LDRD DDDL LLUU URRU RD\nM+ : B | S | 303 - 228\nW: 298 - 230\n- RESET\n- UURD RRU\n- UR\n- LUR\n- LUR\n- RRDL DDR\nE: 304 - 235",
+    "images": [
+      "304_235_1.jpg",
+      "304_235_2.jpg",
+      "304_235_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 305,
+      "z": 46
+    },
+    "solution_text": "R-W | SW | 294 - 44\n- LDD\n- UURR RRLU LD\nR-W | SW | 299 - 49\n- LDD\n- RRRR RDDL LDLU RUUL LL\n- ULUR RRRL ULD",
+    "images": [
+      "305_46_1.jpg",
+      "305_46_2.jpg",
+      "305_46_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 305,
+      "z": 145
+    },
+    "solution_text": "B | W | 300 - 147\nSC : R-N | E | 305 - 152\nRaft 319 - 149\nSC : R-N | E | 312 - 151\nRaft 319 - 149R-N: 305 - 152\n- RESET\n- ULUL D\n- RDRU\n- DL (305 - 145)\n- LUUU (305 - 152)\n- UUUR RDLU LLDL DRUR D\nS: 305 - 145",
+    "images": [
+      "305_145_1.jpg",
+      "305_145_2.jpg",
+      "305_145_3.jpg",
+      "305_145_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 305,
+      "z": 152
+    },
+    "solution_text": "SC: B | S | 305 - 145",
+    "images": [
+      "305_152_1.jpg",
+      "305_152_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 305,
+      "z": 165
+    },
+    "solution_text": "R-S | WE | 292 - 162\n- RD\n- DRDR DL\n- LLLU LLUL LULD DLDR URDL DRR\n- RRDR RRUU LLLD LLLU URRD\n- RDDR URRU LL\nR-W | W | 295 - 168\nRaft 299 - 173- RESET\n- RD\n- DDLL LULL L",
+    "images": [
+      "305_165_1.jpg",
+      "305_165_2.jpg",
+      "305_165_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 305,
+      "z": 192
+    },
+    "solution_text": "M : R-E | S | 312 - 193\n- RU\n- UUUU RD\n- DLLL URRU RDLD RURD",
+    "images": [
+      "305_192_1.jpg",
+      "305_192_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 305,
+      "z": 214
+    },
+    "solution_text": "M : B | N | 305 - 220\n- LLLL LURR RUDL DR\n- LDR\n- RRUR ULUU",
+    "images": [
+      "305_214_1.jpg",
+      "305_214_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 305,
+      "z": 220
+    },
+    "solution_text": "M : B | W | 298 - 223\n- RUUU RULL ULDR DDL\n- ULLL DLDR\n- RRUL URRR UULL DLU",
+    "images": [
+      "305_220_1.jpg",
+      "305_220_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 306,
+      "z": 20
+    },
+    "solution_text": "M : B | W | 301 - 20\n- LLUL DRDD LULL DDRU LURL UURR DDUR DDLU LLDD RURU LLL",
+    "images": [
+      "306_20_1.jpg",
+      "306_20_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 306,
+      "z": 176
+    },
+    "solution_text": "B | E | 313 - 176\nB | S | 308 - 171\n- RR\n- RUUU ULRU RDLD R\n- UR\n- RD\n- LLDD RRLU LD",
+    "images": [
+      "306_176_1.jpg",
+      "306_176_2.jpg",
+      "306_176_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 308,
+      "z": 89
+    },
+    "solution_text": "M+ : B | E | 315 - 87\n- URRR UUUR RDDR DLLL DDLU\n- LLUU R\n- RR\n- LDDR RRUU R\n- DDLL LLUU RR\n- DDRR RRUU L\n- ULDD\n- LLUR URDL DRRR R",
+    "images": [
+      "308_89_1.jpg",
+      "308_89_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 308,
+      "z": 171
+    },
+    "solution_text": "B | S | 305 - 165\n- DRRR UD\nN: 306 - 176\nE: 313 - 176\nS: 308 - 171\n- DLDL LLUL DD",
+    "images": [
+      "308_171_1.jpg",
+      "308_171_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 309,
+      "z": 101
+    },
+    "solution_text": "M : B | E | 317 - 102\nB | N | 312 - 107\nW: 303 - 102\n- RESET\n- LULL LDRU RRD\n- LDDD RU\n- UU\n- LUUR URUL ULDR DDLL UR\n- DDDR UULU R\n- LUUR D\n- RDUL LDDR RR\n- LUUL DLDR\nE: 309 - 101\n- RESET\n- DRRU LUR\n- DDRU\n- LUUR",
+    "images": [
+      "309_101_1.jpg",
+      "309_101_2.jpg",
+      "309_101_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 309,
+      "z": 140
+    },
+    "solution_text": "SC : R-N | WN | 312 - 151\n- DR\n- RDDD LLUR DRRU LURD RUU\n- RUUR RDL",
+    "images": [
+      "309_140_1.jpg",
+      "309_140_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 309,
+      "z": 233
+    },
+    "solution_text": "M : B | E | 314 - 236",
+    "images": [
+      "309_233_1.jpg",
+      "309_233_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 310,
+      "z": 199
+    },
+    "solution_text": "M : R-E | SE | 330 - 203\n- LUUR\n- ULDL DDRD RULU RR\n- RD\n- UULD",
+    "images": [
+      "310_199_1.jpg",
+      "310_199_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 311,
+      "z": 14
+    },
+    "solution_text": "M+ : B | W | 303 - 13\n- LL\n- LLLD DDRL\n- UURR URDR DLUL LLDD RRUR ULDD LLUU UDD\n- DDLU\n- R\n- ULLL",
+    "images": [
+      "311_14_1.jpg",
+      "311_14_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 311,
+      "z": 188
+    },
+    "solution_text": "M : R-N | EW | 312 - 193\n- DRRU RUUL DLLL LLUU RRDU LLDD RR",
+    "images": [
+      "311_188_1.jpg",
+      "311_188_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 312,
+      "z": 23
+    },
+    "solution_text": "M : B | W | 306 - 20\n- DLLU UULD DLDR URDL DDRR ULDL URUU LLDR URDD RDLL",
+    "images": [
+      "312_23_1.jpg",
+      "312_23_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 312,
+      "z": 32
+    },
+    "solution_text": "M+ : B | E | 318 - 31",
+    "images": [
+      "312_32_1.jpg",
+      "312_32_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 312,
+      "z": 107
+    },
+    "solution_text": "B | S | 317 - 102",
+    "images": [
+      "312_107_1.jpg",
+      "312_107_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 312,
+      "z": 151
+    },
+    "solution_text": "SC : B | W | 305 - 152\nSC : R-W | S | 309 - 140\n& 305 - 145\nRaft 305 - 145W: 305 - 152\n- RESET\n- LLUL LDLD RURD\n- LD\n- DR\nE: 312 - 151\nSC : R-W | S | 319 - 149\nRaft 309 - 140W: 305 - 152\n- RESET\n- LLUL LDLD RURD\n- LD\n- DR\nE: 312 - 151\nR-W | S | 305 - 152\nRaft 309 - 140W: 305 - 152\n- RESET\nE: 312 - 151\n- DD",
+    "images": [
+      "312_151_1.jpg",
+      "312_151_2.jpg",
+      "312_151_3.jpg",
+      "312_151_4.jpg",
+      "312_151_5.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 312,
+      "z": 193
+    },
+    "solution_text": "M : R-S | W | 311 - 188\n- RRUU RULD LLLU URRD RDLL\nM : B | N | 310 - 199\nRaft 311 - 188: SP- UUU",
+    "images": [
+      "312_193_1.jpg",
+      "312_193_2.jpg",
+      "312_193_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 312,
+      "z": 225
+    },
+    "solution_text": "M+ : B | N | 316 - 230\n- LURR RUD\n- LDLL UULU RURD LDRR DRUL URU",
+    "images": [
+      "312_225_1.jpg",
+      "312_225_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 313,
+      "z": 176
+    },
+    "solution_text": "B | S | 308 - 171\n- URRR DDDR LULD RDDL LURD RURU LDLU\n- RUUL LLDR\n- URRD DDRD LULD\n- RUUU URDD RLUL DRDD LLUR DRUR ULUL DDRD LULD",
+    "images": [
+      "313_176_1.jpg",
+      "313_176_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 313,
+      "z": 208
+    },
+    "solution_text": "M : B | N | 314 - 214",
+    "images": [
+      "313_208_1.jpg",
+      "313_208_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 314,
+      "z": 214
+    },
+    "solution_text": "M : B | W | 305 - 214\nM+ : B | N | 315 - 220\n- LUUL\n- RRRR RULU LLDR DLLU LLLD DRUL URDR U\n- LLUR DRRR RUUL LDRR DDDL LULL DDRU LURD RRRU UU\nR-E | E | 323 - 214\nRaft 315 - 220: SP- RESET\n- LLUL LDRD LL\n- ULLL D\n- DDRU LURD RU\n- LLUR DRRR RUUL LDRR DDDL LULL DDRU LURR RDRR UULD RDLL LULL DDRU LURR RDRR UULD RDLL LULL DDRU LURR RRR\nSC : R-S | E | 319 - 149\nRaft 323 - 214: SP- RESET\n- LLLU R",
+    "images": [
+      "314_214_1.jpg",
+      "314_214_2.jpg",
+      "314_214_3.jpg",
+      "314_214_4.jpg",
+      "314_214_5.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 314,
+      "z": 236
+    },
+    "solution_text": "M : B | E | 321 - 235",
+    "images": [
+      "314_236_1.jpg",
+      "314_236_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 315,
+      "z": 87
+    },
+    "solution_text": "M+ : B | N | 317 - 93",
+    "images": [
+      "315_87_1.jpg",
+      "315_87_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 315,
+      "z": 220
+    },
+    "solution_text": "M+ : B | N | 312 - 225\nSC : R-S | E | 319 - 149\n- RUUL LLLR\n- U\n- URD\n- LDDD LR\n- URUR RDLD R\nR-S | E | 314 - 214\nN: 312 - 225\nN: 316 - 230\nN: 314 - 236\nM: 313 - 208\nN: 314 - 214\n- RESET\n- LUUR RRRR ULUL LDLL DRRR\nS: 313 - 208\nM: 314 - 236\nS: 316 - 230\nS: 312 - 225\nS: 315 - 220\n- RESET\n- RUUL LLLR\n- U\n- URD\n- LDDD LR\n- URUR RDLD R",
+    "images": [
+      "315_220_1.jpg",
+      "315_220_2.jpg",
+      "315_220_3.jpg",
+      "315_220_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 316,
+      "z": 37
+    },
+    "solution_text": "M+ : B | S | 312 - 32\n- DLLU URDD RDLD LURU LLUL DDD\n- LLLL RR\n- RRDL",
+    "images": [
+      "316_37_1.jpg",
+      "316_37_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 316,
+      "z": 230
+    },
+    "solution_text": "M+ : B | N | 314 - 236\n- UULU URDR UU\nR-E | N | 328 - 231\nN: 314 - 236\nE: 321 - 235\nE: 328 - 231\n- RESET\n- RRRU RDRD DDL\n- LLLU RDRR URUU LDLU RUL\nW: 321 - 235\n- RESET\n- ULLL UULL LDD\nW: 314 - 236\nS: 316 - 230\n- RESET\n- DLLD RDRR ULUR RDRU",
+    "images": [
+      "316_230_1.jpg",
+      "316_230_2.jpg",
+      "316_230_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 317,
+      "z": 93
+    },
+    "solution_text": "M+ : B | E | 322 - 96\n- RUUU LUUR RDLU LLDL DRUR D\n- LLDR\n- DRRU LUR\n- DRDR U",
+    "images": [
+      "317_93_1.jpg",
+      "317_93_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 317,
+      "z": 102
+    },
+    "solution_text": "M : B | N | 322 - 105\n- RDDR RUUU RDDR DLDL UURU L\n- DDDL LULU UR\n- RR\n- DDDR RUUU R\n- LDDD LLUU UR",
+    "images": [
+      "317_102_1.jpg",
+      "317_102_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 318,
+      "z": 31
+    },
+    "solution_text": "M : B | S | 319 - 24\n- LLDD LDDR RU\n- ULDL LULU RDRR UULD DD",
+    "images": [
+      "318_31_1.jpg",
+      "318_31_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 319,
+      "z": 24
+    },
+    "solution_text": "M : B | W | 312 - 23\nM+ : B | S | 320 - 17\n325 - 32 → 318 - 31\n318 - 31 → 319 - 24- DDRD RDDL LURD RRU\nN: 318 - 31\nE: 325 - 32\nS: 327 - 26\nW: 319 - 24\n- DLL\nE: 327 - 26\nN: 325 - 32\nW: 318 - 31\nS: 319 - 24\n- DDRD DD",
+    "images": [
+      "319_24_1.jpg",
+      "319_24_2.jpg",
+      "319_24_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 319,
+      "z": 133
+    },
+    "solution_text": "B | E | 326 - 135",
+    "images": [
+      "319_133_1.jpg",
+      "319_133_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 319,
+      "z": 149
+    },
+    "solution_text": "SC : R-W | S | 305 - 145\n- RDDR DDLU LLD\n- RRRR RDDL URUU LUUL DRDL ULLL D\nSC : R-S | W | 321 - 138\nRaft 312 - 151",
+    "images": [
+      "319_149_1.jpg",
+      "319_149_2.jpg",
+      "319_149_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 320,
+      "z": 17
+    },
+    "solution_text": "M+ : B | W | 311 - 14\n- RDDD DRRU RUUL DLLL LUUU RRDD\n- LLUR URRD RDLL\n- DRUR RDDD LURU L\n- UULL LDUR DDDD LL",
+    "images": [
+      "320_17_1.jpg",
+      "320_17_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 321,
+      "z": 138
+    },
+    "solution_text": "SC : B | E | 326 - 135\nDE : B | N | 324 - 143\nRaft 319 - 149- LD\n- RESET\n- R (319 - 149)\n- URRU ULDR DDL\n- UUUU LLD\n- DDDD DLU\n- R",
+    "images": [
+      "321_138_1.jpg",
+      "321_138_2.jpg",
+      "321_138_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 321,
+      "z": 235
+    },
+    "solution_text": "M : B | E | 328 - 231\n- DDRR RDRU LUUR RR\n- LLUR\n- RRRD",
+    "images": [
+      "321_235_1.jpg",
+      "321_235_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 322,
+      "z": 96
+    },
+    "solution_text": "M+ : B | N | 317 - 102\n- RUUU LURU UL",
+    "images": [
+      "322_96_1.jpg",
+      "322_96_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 322,
+      "z": 105
+    },
+    "solution_text": "M : B | N | 322 - 111\n- URR\n- RRRD DLUR URUU ULLL DDRU U",
+    "images": [
+      "322_105_1.jpg",
+      "322_105_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 322,
+      "z": 111
+    },
+    "solution_text": "M : R-E | S | 354 - 112\n- LUUU LDLD DRDR U\n- LUUR RRUL LULD LDRR URD\n- LLLD DDRU LURR URD",
+    "images": [
+      "322_111_1.jpg",
+      "322_111_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 322,
+      "z": 170
+    },
+    "solution_text": "M+ : B | E | 325 - 164\n- LDDD DDDU LURR RLL\n- UULD\n- RDDL LR\n- D\n- URRR LLUL DLDR URD\n- LLDR R",
+    "images": [
+      "322_170_1.jpg",
+      "322_170_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 322,
+      "z": 205
+    },
+    "solution_text": "M : R-W | N | 313 - 208\n- LDLU ULUR DRUU\n- LDLL U\n- RRRU ULDR DLLD LU",
+    "images": [
+      "322_205_1.jpg",
+      "322_205_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 323,
+      "z": 214
+    },
+    "solution_text": "R-W | N | 314 - 214",
+    "images": [
+      "323_214_1.jpg",
+      "323_214_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 324,
+      "z": 38
+    },
+    "solution_text": "M+ : B | W | 316 - 37\nM+ : T | E | 324 - 38 (South)\n- DDDL\n- ULLL URRR UDLD RULD",
+    "images": [
+      "324_38(North)_1.jpg",
+      "324_38(North)_2.jpg",
+      "324_38(North)_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 324,
+      "z": 38
+    },
+    "solution_text": "M : B | S | 325 - 32",
+    "images": [
+      "324_38(South)_1.jpg",
+      "324_38(South)_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 324,
+      "z": 143
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "324_143_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 325,
+      "z": 32
+    },
+    "solution_text": "M : B | W | 318 - 31\n- RRDL\n- LLLL L\nM+ : B | S | 327 - 26\n- RRDL\n- LLLD DD\nB | E | 333 - 32\n- RDDR\nR-E | S | 337 - 28\n327 - 26 → 319 - 24- RESET\nW: 318 - 31\nS: 319 - 24\nE: 327 - 26\n- RESET\n- RDRR UURU LDLU UU\n- UU (325 - 32)\n- L\n- LUUL LLDR URRD D\n- DRRD D (327 - 26)\n- RESET\nW: 319 - 24\nN: 318 - 31\nE: 325 - 32",
+    "images": [
+      "325_32_1.jpg",
+      "325_32_2.jpg",
+      "325_32_3.jpg",
+      "325_32_4.jpg",
+      "325_32_5.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 325,
+      "z": 126
+    },
+    "solution_text": "SC : B | E | 330 - 129",
+    "images": [
+      "325_126_1.jpg",
+      "325_126_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 325,
+      "z": 157
+    },
+    "solution_text": "M+ : B | E | 334 - 157\nR-W | S | 294 - 157\n- RDRD RRR\n- LDDL U\n- ULLU R\n- RRUR DD\n- RRRU LUDR DLLL LLUL D\n- RRDR DRUL UURR DLLL LULD",
+    "images": [
+      "325_157_1.jpg",
+      "325_157_2.jpg",
+      "325_157_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 325,
+      "z": 164
+    },
+    "solution_text": "M+ : B | S | 325 - 157\n- RD\n- RDRD L\n- LLDL U\n- DDLL UU\n- RRRU LULD RDLU LDRD LDD",
+    "images": [
+      "325_164_1.jpg",
+      "325_164_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 325,
+      "z": 221
+    },
+    "solution_text": "R-S | WEN | 335 - 228\n& 328 - 231\n- DLLD  LLUR RURD LDRR\n- RRRR RUUU LULL DRDD DLLL LURU RURD RRDD LL",
+    "images": [
+      "325_221_1.jpg",
+      "325_221_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 326,
+      "z": 75
+    },
+    "solution_text": "M : R-N | W | 326 - 81\n- RU\n- DDLU RUUL\n- DDLL LLUU UDDL DRDR RRRU\nM : R-N | E | 326 - 81\nRaft 326 - 81 → 326 - 75: SP- D (326 - 75)\n- DRUL UR\n- DRRU RURD DRDL LLLD LU",
+    "images": [
+      "326_75_1.jpg",
+      "326_75_2.jpg",
+      "326_75_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 326,
+      "z": 81
+    },
+    "solution_text": "M : R-S | E | 326 - 75\nM : R-E | S | 329 - 41\nR-S: 326 - 75\nR-N: 326 - 81",
+    "images": [
+      "326_81_1.jpg",
+      "326_81_2.jpg",
+      "326_81_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 326,
+      "z": 135
+    },
+    "solution_text": "SC : B | E | 332 - 136\n- RRDD LDDL U\n- DRRD RRUR ULLL ULDL DRDR UUUL URDR URRR",
+    "images": [
+      "326_135_1.jpg",
+      "326_135_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 327,
+      "z": 26
+    },
+    "solution_text": "M+ : B | W | 319 - 24\n- RDDD DRUU RUL\n- RRRU L\n- LLLL DRDL LL",
+    "images": [
+      "327_26_1.jpg",
+      "327_26_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 327,
+      "z": 174
+    },
+    "solution_text": "M : B | E | 334 - 173\n- LDDR DLDD RRDR ULUR RR\nM+ : B | W | 322 - 170\n- LDDR DLDD R\n- URRR RDL\n- LL\n- ULLD LL",
+    "images": [
+      "327_174_1.jpg",
+      "327_174_2.jpg",
+      "327_174_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 327,
+      "z": 181
+    },
+    "solution_text": "M : B | S | 327 - 174",
+    "images": [
+      "327_181_1.jpg",
+      "327_181_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 328,
+      "z": 231
+    },
+    "solution_text": "M : B | E | 335 - 228\n- RRRU RDRD DDL\n- LLLU RDRR ULUU RURD DLLD RRRR\nR-S | E | 325 - 221\nRaft 316 - 230: SP- RESET\n- RDDR ULUU R\n- LL\n- RRRR UULD DLDR",
+    "images": [
+      "328_231_1.jpg",
+      "328_231_2.jpg",
+      "328_231_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 329,
+      "z": 41
+    },
+    "solution_text": "M : B | S | 324 - 38 (South)\n- DDLL DLU\n- RUUL LULL DD\nALternative:\n- DDL\n- LLLU UULL DD\nM+ : B | W | 324 - 38 (North)\n- DDL\n- LLLU LL",
+    "images": [
+      "329_41_1.jpg",
+      "329_41_2.jpg",
+      "329_41_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 330,
+      "z": 120
+    },
+    "solution_text": "SC : B | N | 325 - 126\nSC : R-S | S | 346 - 113\nRaft 340 - 118 (North)\nRaft 340 - 118 (South): SP- RESET\n- U (330 - 120)\n- LUUR D\n- DRRR RLLL ULDD D",
+    "images": [
+      "330_120_1.jpg",
+      "330_120_2.jpg",
+      "330_120_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 330,
+      "z": 129
+    },
+    "solution_text": "SC : B | E | 335 - 125\nSC : B | E | 336 - 131\n325 - 126 → 330 - 129W: 325 - 126\n- RESET\n- URUL DLLU\n- RUUR U\n- ULLU R\n- DLDD RDRU UULU RR\nE: 330 - 129",
+    "images": [
+      "330_129_1.jpg",
+      "330_129_2.jpg",
+      "330_129_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 330,
+      "z": 203
+    },
+    "solution_text": "M : B | W | 322 - 205\nM : B | S | 331 - 195\nM : R-E | NE | 350 - 206\nRaft 341 - 213\nRaft 357 - 204",
+    "images": [
+      "330_203_1.jpg",
+      "330_203_2.jpg",
+      "330_203_3.jpg",
+      "330_203_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 331,
+      "z": 195
+    },
+    "solution_text": "M : R-E | S | 357 - 191\n- LLDD DLRU RDDD\n- LLDL LUUR DLDD RDRU LURR URD",
+    "images": [
+      "331_195_1.jpg",
+      "331_195_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 332,
+      "z": 136
+    },
+    "solution_text": "SC : B | S | 330 - 129\nR-N | W | 334 - 157\n- RUU\n- RURU ULL",
+    "images": [
+      "332_136_1.jpg",
+      "332_136_2.jpg",
+      "332_136_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 332,
+      "z": 164
+    },
+    "solution_text": "M : B | S | 334 - 157\n- LULL DLDR URDD",
+    "images": [
+      "332_164_1.jpg",
+      "332_164_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 332,
+      "z": 211
+    },
+    "solution_text": "M : R-E | EN | 341 - 213\nR-N | E | 339 - 222\n& 335 - 228\nDiverted Raft 335 - 228- RESET",
+    "images": [
+      "332_211_1.jpg",
+      "332_211_2.jpg",
+      "332_211_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 333,
+      "z": 32
+    },
+    "solution_text": "B | N | 336 - 38\n- RR\n- RRRR UU",
+    "images": [
+      "333_32_1.jpg",
+      "333_32_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 334,
+      "z": 157
+    },
+    "solution_text": "M : B | S | 337 - 151\n- DLDR\n- RUUR DLDD DRLU RRRD DLDR",
+    "images": [
+      "334_157_1.jpg",
+      "334_157_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 334,
+      "z": 173
+    },
+    "solution_text": "M : B | S | 338 - 166\n- DRRU RD\n- LDLD RURR RDD",
+    "images": [
+      "334_173_1.jpg",
+      "334_173_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 335,
+      "z": 125
+    },
+    "solution_text": "SC : R-S | E | 337 - 105\n- DDLD R\n- DR\n- UURD LDR",
+    "images": [
+      "335_125_1.jpg",
+      "335_125_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 335,
+      "z": 228
+    },
+    "solution_text": "M : R-S | W | 332 - 211\n- RRRU RD\n- DDDD DLUU UUUR DLUL D\n- URRR DLLU LDRD L\nR-S | W | 332 - 211\nR-S: 332 - 211\nC  : 330 - 203\nM  : 314 - 236\nE  : 321 - 235\nC  : 335 - 228\n- RESET\n- RRRU RD\n- DDDD DLUU UUUR DLUL D\n- URRR DLLU LDRD L",
+    "images": [
+      "335_228_1.jpg",
+      "335_228_2.jpg",
+      "335_228_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 336,
+      "z": 38
+    },
+    "solution_text": "B | W | 329 - 41",
+    "images": [
+      "336_38_1.jpg",
+      "336_38_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 336,
+      "z": 91
+    },
+    "solution_text": "M : B | E | 343 - 88\n- LLDD DDDL UULU RDRU ULUR\n- DRRR RUDL DR",
+    "images": [
+      "336_91_1.jpg",
+      "336_91_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 336,
+      "z": 131
+    },
+    "solution_text": "SC : B | E | 343 - 132",
+    "images": [
+      "336_131_1.jpg",
+      "336_131_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 337,
+      "z": 28
+    },
+    "solution_text": "R-N | W | 325 - 32",
+    "images": [
+      "337_28_1.jpg",
+      "337_28_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 337,
+      "z": 105
+    },
+    "solution_text": "SC : R-N | W | 340 - 118 (North)\n- DDRU LUUR\n- DRRR RUUU UL\n- RDDR DDL\n- DLLL U\n- RRUU URUL L",
+    "images": [
+      "337_105_1.jpg",
+      "337_105_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 337,
+      "z": 151
+    },
+    "solution_text": "M : B | E | 345 - 151",
+    "images": [
+      "337_151_1.jpg",
+      "337_151_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 338,
+      "z": 166
+    },
+    "solution_text": "M : B | W | 332 - 164\n- RDRR RURD RDLU LD\n- RRDL\n- LDLU\n- LLUL D",
+    "images": [
+      "338_166_1.jpg",
+      "338_166_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 339,
+      "z": 222
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "339_222_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 340,
+      "z": 118
+    },
+    "solution_text": "SC : R-W | S | 330 - 120",
+    "images": [
+      "340_118(North)_1.jpg",
+      "340_118(North)_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 340,
+      "z": 118
+    },
+    "solution_text": "SC : R-W | S | 330 - 120\n- LUL\n- LUUU LRUR RRRD DLLU LUUR RDLU LDRD LLLL ULD\n- RRRD DLLR DRUU URUU LDRD LLLU LD",
+    "images": [
+      "340_118(South)_1.jpg",
+      "340_118(South)_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 341,
+      "z": 98
+    },
+    "solution_text": "M : B | S | 336 - 91\n- ULLU LD\n- LLDD DRL",
+    "images": [
+      "341_98_1.jpg",
+      "341_98_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 341,
+      "z": 213
+    },
+    "solution_text": "M : R-S | W | 332 - 211\n- RRDD L\nM : R-W | W | 330 - 203\nR-S: 332 - 211\n- RESET\n- LLUL UR\n- DRDR RDL\n- D",
+    "images": [
+      "341_213_1.jpg",
+      "341_213_2.jpg",
+      "341_213_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 342,
+      "z": 200
+    },
+    "solution_text": "M : R-E | N | 349 - 201\n- L\n- LDLL LLUU UULR\n- DDDD RRDR UU",
+    "images": [
+      "342_200_1.jpg",
+      "342_200_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 343,
+      "z": 88
+    },
+    "solution_text": "M : B | E | 348 - 88\n- DDRR DDDL LURD RRUL UURD RUUU\n- DDLL LUUR RRRU DDDL DRR",
+    "images": [
+      "343_88_1.jpg",
+      "343_88_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 343,
+      "z": 132
+    },
+    "solution_text": "SC : R-E | S | 351 - 131\n- URUR RDLD R\n- D\n- DRD\n- LUUR DDD",
+    "images": [
+      "343_132_1.jpg",
+      "343_132_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 345,
+      "z": 151
+    },
+    "solution_text": "M : B | N | 345 - 159\nM+ : B | E | 351 - 150\n- RUUU UUD\n- URRD L\n- LLDD DUU\n- UU\n- RUU\n- UL\n- LDRR RR",
+    "images": [
+      "345_151_1.jpg",
+      "345_151_2.jpg",
+      "345_151_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 345,
+      "z": 159
+    },
+    "solution_text": "M : B | E | 352 - 158\n- RUUL UUUR DDDD RL\n- UULL DLDR\n- RR\n- UURR DDRR\nDE : B | E | 349 - 165\nE: 352 - 158\n- RESET\n- RD\n- DRRD L\n- LLL\n- LLL (345 - 159)\n- RESET\n- LLUU UULU UR\n- LLDD DDDD UULU RDRR UULU R",
+    "images": [
+      "345_159_1.jpg",
+      "345_159_2.jpg",
+      "345_159_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 346,
+      "z": 113
+    },
+    "solution_text": "SC : R-E | N | 354 - 112\n- DDRU LUUR DRUL URR\n- RU",
+    "images": [
+      "346_113_1.jpg",
+      "346_113_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 348,
+      "z": 88
+    },
+    "solution_text": "M : B | E | 353 - 92",
+    "images": [
+      "348_88_1.jpg",
+      "348_88_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 348,
+      "z": 95
+    },
+    "solution_text": "M : B | W | 341 - 98\nM+ : B | E | 355 - 98\n- LDDD DDLR URDD\n- ULLD RRRD ULUU URRR",
+    "images": [
+      "348_95_1.jpg",
+      "348_95_2.jpg",
+      "348_95_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 348,
+      "z": 103
+    },
+    "solution_text": "M : B | S | 348 - 95\n- DDLL UUUL DRDD L\n- DDLL LURR RUDL DRUR DDD",
+    "images": [
+      "348_103_1.jpg",
+      "348_103_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 349,
+      "z": 79
+    },
+    "solution_text": "M : R-W | S | 326 - 75\n- ULL\n- ULUL LDD",
+    "images": [
+      "349_79_1.jpg",
+      "349_79_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 349,
+      "z": 165
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "349_165_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 349,
+      "z": 201
+    },
+    "solution_text": "M : B | W | 342 - 200\nM : R-N | NW | 327 - 181\nRaft 342 - 200",
+    "images": [
+      "349_201_1.jpg",
+      "349_201_2.jpg",
+      "349_201_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 350,
+      "z": 18
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "350_18_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 350,
+      "z": 68
+    },
+    "solution_text": "M : B | N | 352 - 75",
+    "images": [
+      "350_68_1.jpg",
+      "350_68_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 350,
+      "z": 121
+    },
+    "solution_text": "SC : R-W | W | 340 - 118 (South)\n- DL\n- RUUU LD",
+    "images": [
+      "350_121_1.jpg",
+      "350_121_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 350,
+      "z": 206
+    },
+    "solution_text": "M : R-S | W | 349 - 201",
+    "images": [
+      "350_206_1.jpg",
+      "350_206_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 351,
+      "z": 131
+    },
+    "solution_text": "SC : R-S | W | 350 - 121\n- R\n- RDL\n- RULU UURR DDL\n- RUUL LLUR URRD\n- LDDD DRDL L\n- RRUU RUUL ULDD DDRD LLUL D",
+    "images": [
+      "351_131_1.jpg",
+      "351_131_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 351,
+      "z": 150
+    },
+    "solution_text": "M+ : B | E | 358 - 151\n- RRDD DDDL LURD RRU\n- LUUR URD\n- DD\n- LLDD RRD\n- LLUU URDL DDRD RULU RRDR U",
+    "images": [
+      "351_150_1.jpg",
+      "351_150_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 352,
+      "z": 75
+    },
+    "solution_text": "M : B | S | 356 - 69\nM : B | N | 349 - 79\nS: 356 - 69\nS: 353 - 63\nN: 350 - 68\nN: 352 - 75\n- RUUU URL\n- DRRR RLLL\n- LLLD RRRD U",
+    "images": [
+      "352_75_1.jpg",
+      "352_75_2.jpg",
+      "352_75_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 352,
+      "z": 85
+    },
+    "solution_text": "M : R-W | N | 299 - 86\n- DLDL U\n- URRU ULU\n- UL\n- URLU LDRD L\n- LU",
+    "images": [
+      "352_85_1.jpg",
+      "352_85_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 352,
+      "z": 158
+    },
+    "solution_text": "M : B | E | 359 - 157\n- DDRD RU\n- LULU RDRR RU\n- DLLU RDRU\n- URR",
+    "images": [
+      "352_158_1.jpg",
+      "352_158_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 353,
+      "z": 63
+    },
+    "solution_text": "M : B | N | 350 - 68\n- LDDD DULU R\n- DDDL LUUL URDR U \n- RURR LL\n- L",
+    "images": [
+      "353_63_1.jpg",
+      "353_63_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 353,
+      "z": 92
+    },
+    "solution_text": "M : R-E | S | 359 - 84\n- UURR R\n- UURD DD\nM : R-E | S | 355 - 79\n(through 368 - 78 or 368 - 92)\nRaft 368 - 78 → 359 - 84 or\nRaft 368 - 92 → 359 - 84See above\nB | S | 352 - 85\nR-E | S | 360 - 75\n(through 368 - 92 and 368 - 78)\n368 - 78: RESET\n368 - 92: RESET- URD\nR-E: 359 - 84\nM:   368 - 99\nS:   368 - 92\nR-S: 359 - 84\nM:   373 - 75\nN:   368 - 78\nR-W: 359 - 84\nW:   352 - 85\nN:   353 - 92\n- RESET\n- URD\nR-E: 355 - 79\nC:   350 - 68 (Mail)\nM:   368 - 99\nS:   368 - 92\nR-S: \n- LLD\n- U (359 - 84)\nW:   352 - 85\nN:   353 - 92\n- RESET\n- UURR R\n- UURD DD",
+    "images": [
+      "353_92_1.jpg",
+      "353_92_2.jpg",
+      "353_92_3.jpg",
+      "353_92_4.jpg",
+      "353_92_5.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 354,
+      "z": 112
+    },
+    "solution_text": "M : B | S | 355 - 105",
+    "images": [
+      "354_112_1.jpg",
+      "354_112_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 355,
+      "z": 79
+    },
+    "solution_text": "M : B | S | 352 - 75",
+    "images": [
+      "355_79_1.jpg",
+      "355_79_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 355,
+      "z": 98
+    },
+    "solution_text": "M+ : B | S | 353 - 92\n- RRRR LULD\nB | S | 353 - 92\n355 - 105 → 355 - 98- RRRR L\n- UURU UUUU DDDL RURD URRD DLLL ULDD D\nSC : R-E | N | 365 - 110\n355 - 105 → 355 - 98- RRRR L\n- UURU UUUU DDDL RURD URRD DLLL ULDD D\n- LLLR RRDU LUUU RDRU UU",
+    "images": [
+      "355_98_1.jpg",
+      "355_98_2.jpg",
+      "355_98_3.jpg",
+      "355_98_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 355,
+      "z": 105
+    },
+    "solution_text": "M : B | W | 348 - 103\nM+ : B | S | 355 - 98\n- DDDR DRUU RULU LLDR DLL\n- RUUL DDDL RURR DD",
+    "images": [
+      "355_105_1.jpg",
+      "355_105_2.jpg",
+      "355_105_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 356,
+      "z": 69
+    },
+    "solution_text": "M : B | S | 353 - 63\n- DDDR RRRD LLDL URUU ULDL LUUR DDDL DRUR RDDL URUL LULD DD",
+    "images": [
+      "356_69_1.jpg",
+      "356_69_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 357,
+      "z": 38
+    },
+    "solution_text": "M : B | S | 358 - 32\n- LDDL LLUL UR\n- RRRD RDDL ULLD DD",
+    "images": [
+      "357_38_1.jpg",
+      "357_38_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 357,
+      "z": 88
+    },
+    "solution_text": "M : R-N | E | 376 - 139\n- URU\n- LUUU LRR",
+    "images": [
+      "357_88_1.jpg",
+      "357_88_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 357,
+      "z": 191
+    },
+    "solution_text": "M : B | E | 364 - 189",
+    "images": [
+      "357_191_1.jpg",
+      "357_191_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 357,
+      "z": 204
+    },
+    "solution_text": "M : R-W | N | 330 - 203\n- RU\n- D (357 - 204)\n- DLU\n- RUUL\n- DDLL LUUU DDDD ULUR DRU",
+    "images": [
+      "357_204_1.jpg",
+      "357_204_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 358,
+      "z": 32
+    },
+    "solution_text": "M : B | E | 364 - 33\n- DRRR DRDD LULD RDL\n- LURU LULR DRUL URRR R",
+    "images": [
+      "358_32_1.jpg",
+      "358_32_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 358,
+      "z": 151
+    },
+    "solution_text": "M+ : B | N | 359 - 157\nM : R-S | E | 359 - 84\nRaft 365 - 156",
+    "images": [
+      "358_151_1.jpg",
+      "358_151_2.jpg",
+      "358_151_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 359,
+      "z": 84
+    },
+    "solution_text": "M : B | E | 364 - 86\nM : B | N | 357 - 88\nM : B | W | 352 - 85",
+    "images": [
+      "359_84_1.jpg",
+      "359_84_2.jpg",
+      "359_84_3.jpg",
+      "359_84_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 359,
+      "z": 157
+    },
+    "solution_text": "M : B | E | 365 - 156\nM+ : B | N | 360 - 163\n358 - 151 → 359 - 157: SP- UUUR LDLU U\nDE : R-E | N | 372 - 161\n358 - 151 → 359 - 157\n365 - 164 → 365 - 156N: 360 - 163\n- RESET\nS: 359 - 157\nE: 365 - 156\nN: 365 - 164\n- RESET\n- RRDD DL\n- LLLL (360 - 163)\n- LLDL U\n- RUUU ULD\n- DDLD R\n- DDRD L\n- UUUU RDDL DRRR LL\n- LLDD D (359 - 157)\n- LLDD RRUR DDDU URUL DLUU",
+    "images": [
+      "359_157_1.jpg",
+      "359_157_2.jpg",
+      "359_157_3.jpg",
+      "359_157_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 360,
+      "z": 11
+    },
+    "solution_text": "M+ : B | E | 368 - 12\n- DDDL LUUL URRU RD\n- LDDR RRDR DLLD LURU ULUL LLDR RR\n- LLUU URDL DRR\n- RDLD DRR",
+    "images": [
+      "360_11_1.jpg",
+      "360_11_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 360,
+      "z": 75
+    },
+    "solution_text": "B | W | 352 - 75",
+    "images": [
+      "360_75_1.jpg",
+      "360_75_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 360,
+      "z": 163
+    },
+    "solution_text": "M+: B | E | 365 - 164\n- RUUL UURR URD\n- LDDD DRU\n- UUU\n- LUUR\n- RDLD LULU R",
+    "images": [
+      "360_163_1.jpg",
+      "360_163_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 363,
+      "z": 19
+    },
+    "solution_text": "M+ : B | S | 360 - 11\n- DDDL LDRD DLDL URUU LLDR RDRU URUL DLLU URDR DLDL UURU L\n- LDRD LDLR URDD DRDL\nDE : R-W | N | 350 - 18\n368 - 12 → 376 - 15\n376 - 15 → 371 - 22S: 360 - 11\n- RESET\n- DDDL LUUL URRU RDLD RR\n- DDRR DLLD LU\nN: 363 - 19\nN: 364 - 25\nN: 369 - 29\nS: 371 - 22\nS: 376 - 15\nW: 368 - 12\n- RESET\n- LLLL LUR\n- DRRR RDLL DLUL URRD RULU RDRU\n- ULDL LLLU URDL DRRR DDLL LLL\n- LLLL (360 - 11)\n- DLU\nN: 363 - 19\n- RESET\n- UURR UL\n- DDRD RRUR UULL L",
+    "images": [
+      "363_19_1.jpg",
+      "363_19_2.jpg",
+      "363_19_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 364,
+      "z": 25
+    },
+    "solution_text": "M+ : B | S | 363 - 19\n- DDLL LLLR URD\n- LLLU URDL DDRU RD\n- DRUR RD",
+    "images": [
+      "364_25_1.jpg",
+      "364_25_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 364,
+      "z": 33
+    },
+    "solution_text": "M : B | S | 369 - 29\n- URRD LDDR",
+    "images": [
+      "364_33_1.jpg",
+      "364_33_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 364,
+      "z": 40
+    },
+    "solution_text": "M : B | W | 357 - 38\nM+ : B | E | 372 - 41\n- RDDD DDLU\n- UUL\n- LRDR ULUR RURD\n- DLUL DLDU LLUR RRR",
+    "images": [
+      "364_40_1.jpg",
+      "364_40_2.jpg",
+      "364_40_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 364,
+      "z": 86
+    },
+    "solution_text": "M : R-S | W | 364 - 40\n- RUUL DRDD L",
+    "images": [
+      "364_86_1.jpg",
+      "364_86_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 364,
+      "z": 189
+    },
+    "solution_text": "M : B | S | 367 - 181\nM+ : B | E | 371 - 192\n- RUUR RRUR DDDR RDL\n- D\n- DLUR UULU LLLD RRRR",
+    "images": [
+      "364_189_1.jpg",
+      "364_189_2.jpg",
+      "364_189_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 365,
+      "z": 110
+    },
+    "solution_text": "SC : B | N | 366 - 118\n- RUU\n- ULLL LURR URDL DRRR DRU\n- ULDL LLUU",
+    "images": [
+      "365_110_1.jpg",
+      "365_110_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 365,
+      "z": 156
+    },
+    "solution_text": "M : R-W | S | 359 - 84\n- DDRR DRU\n- LUUU URD\n- DD\n- LDDR DD\n- LUUU URD\nR-W | S | 358 - 151\n358 - 151 → 359 - 157See above",
+    "images": [
+      "365_156_1.jpg",
+      "365_156_2.jpg",
+      "365_156_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 365,
+      "z": 164
+    },
+    "solution_text": "M+ : B | S | 365 - 156\nB | W | 360 - 163",
+    "images": [
+      "365_164_1.jpg",
+      "365_164_2.jpg",
+      "365_164_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 366,
+      "z": 118
+    },
+    "solution_text": "SC : B | E | 372 - 121\n- RRUU UUUD DRDL\n- DLLL UR\n- RRRD RULU R\n- RRDL\n- RULL\n- LDDR UU\n- LLRD RU\n- UURL\n- DDRD LDLU U\n- UUUR RDRU",
+    "images": [
+      "366_118_1.jpg",
+      "366_118_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 367,
+      "z": 181
+    },
+    "solution_text": "M : B | E | 376 - 183\n- LDLD R\n- DRRD RRDR U\n- LULL URRU DLLD RRRR R",
+    "images": [
+      "367_181_1.jpg",
+      "367_181_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 368,
+      "z": 12
+    },
+    "solution_text": "M+ : B | E | 376 - 15\n- UUUR\n- DRRR RDLL DLUL URRD RULU RDRU\n- ULDL LLLU URDL DDDR RRR",
+    "images": [
+      "368_12_1.jpg",
+      "368_12_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 368,
+      "z": 78
+    },
+    "solution_text": "M : R-W | N | 359 - 84\n- LLLL LUR\n- RU\n- DRUD RRUU LLDL U\nM : R-W | N | 355 - 79\nRaft 353 - 92 → 359 - 84 or\nRaft 368 - 92 → 359 - 84See above",
+    "images": [
+      "368_78_1.jpg",
+      "368_78_2.jpg",
+      "368_78_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 368,
+      "z": 92
+    },
+    "solution_text": "M : R-S | W | 359 - 84\n- RDDR DL\n- DL\n- UULD RDL\nM : R-S | W | 355 - 79\nRaft 353 - 92 → 359 - 84 or\nRaft 368 - 78 → 359 - 84See above",
+    "images": [
+      "368_92_1.jpg",
+      "368_92_2.jpg",
+      "368_92_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 368,
+      "z": 99
+    },
+    "solution_text": "M : B | S | 368 - 92",
+    "images": [
+      "368_99_1.jpg",
+      "368_99_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 369,
+      "z": 29
+    },
+    "solution_text": "M : B | S | 371 - 22\nM+ : B | S | 364 - 25\n- RDDR RUL\n- RRRU LLUL DRDL LDLU\n- LLRU RDRD DL",
+    "images": [
+      "369_29_1.jpg",
+      "369_29_2.jpg",
+      "369_29_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 370,
+      "z": 206
+    },
+    "solution_text": "M : R-W | NS | 357 - 204\n- LLD\n- DDDD DLU\n- RDRR ULDL LURU LDLU",
+    "images": [
+      "370_206_1.jpg",
+      "370_206_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 371,
+      "z": 22
+    },
+    "solution_text": "M : B | E | 378 - 26",
+    "images": [
+      "371_22_1.jpg",
+      "371_22_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 371,
+      "z": 192
+    },
+    "solution_text": "M+ : B | E | 379 - 195\n- UURR RRDL LDLU LLUU R\n- DRRR RURU ULDR DDLU LDRD LLLL\n- URDR RRUU LDRD LDLL LURR DRU\n- LLUL LLDR DRUL URR\n- RRRR",
+    "images": [
+      "371_192_1.jpg",
+      "371_192_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 372,
+      "z": 35
+    },
+    "solution_text": "M+ : B | S | 369 - 29",
+    "images": [
+      "372_35_1.jpg",
+      "372_35_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 372,
+      "z": 41
+    },
+    "solution_text": "M+ : B | S | 372 - 35\n- RULU URUR DLDR\n- LDDR RURR RDDL URUU LDLU\n- UULD DDLL LUUU URD\n- RD\n- LRDD LLUU LURU RDLD RURD",
+    "images": [
+      "372_41_1.jpg",
+      "372_41_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 372,
+      "z": 84
+    },
+    "solution_text": "M : R-S | W | 368 - 78\n& 373 - 75\n- DLLL LULD\n- URUL ULLD LDRU RDD\n- RRRR RDLL DLUR ULLL ULDU LLDD RR\n- LUUR RRDR DDRU RULL\nDE : R-N | E | 377 - 90\n- DRDL LDLU LUR\n- LLLU LD\n- ULUU RDLD DRUR DLDR RRLL ULLL DDRR ULLU URRU RDLD RRR\n- DRRU\n- ULDR DLDL ULUR R",
+    "images": [
+      "372_84_1.jpg",
+      "372_84_2.jpg",
+      "372_84_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 372,
+      "z": 106
+    },
+    "solution_text": "M : B | S | 368 - 99\n- RDRD DLUL DD\n- RRRD L\n- ULLL LDD",
+    "images": [
+      "372_106_1.jpg",
+      "372_106_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 372,
+      "z": 113
+    },
+    "solution_text": "M : B | S | 372 - 106\n- DDLL LLUR RRRU D\n- LLDD DRRU\n- LLUU UUUR RDRD DL\n- RULL RUUL LDD\n- LDR\n- DD",
+    "images": [
+      "372_113_1.jpg",
+      "372_113_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 372,
+      "z": 121
+    },
+    "solution_text": "SC : B | S | 372 - 113",
+    "images": [
+      "372_121_1.jpg",
+      "372_121_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 372,
+      "z": 161
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "372_161_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 373,
+      "z": 75
+    },
+    "solution_text": "M : B | E | 380 - 78",
+    "images": [
+      "373_75_1.jpg",
+      "373_75_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 375,
+      "z": 97
+    },
+    "solution_text": "M+ : B | W | 368 - 99\nSC : B | E | 383 - 96\n- LLDD RDD\n- RRDD L\n- LDLU\n- DLU\n- URDR RULU RRR",
+    "images": [
+      "375_97_1.jpg",
+      "375_97_2.jpg",
+      "375_97_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 375,
+      "z": 175
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "375_175_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 376,
+      "z": 15
+    },
+    "solution_text": "M+ : B | N | 371 - 22",
+    "images": [
+      "376_15_1.jpg",
+      "376_15_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 376,
+      "z": 139
+    },
+    "solution_text": "M : B | N | 378 - 145\nM : R-E | S | 381 - 116\nRaft 377 - 132",
+    "images": [
+      "376_139_1.jpg",
+      "376_139_2.jpg",
+      "376_139_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 376,
+      "z": 183
+    },
+    "solution_text": "M : B | E | 383 - 186\n- RRDR RULU UURR RDDL RUUL LLLD DDRU LUUR RRRD RU\nDE : B | S | 375 - 175\nE: 383 - 186\n- RESET\n- UURD\n- RRRR DDL\n- LLLL\n- W: 376 - 183\n- LULD DD\n- RESET\n- LLDD DDDL ULUU RUUR DDDD",
+    "images": [
+      "376_183_1.jpg",
+      "376_183_2.jpg",
+      "376_183_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 377,
+      "z": 90
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "377_90_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 377,
+      "z": 132
+    },
+    "solution_text": "M : R-E | SN | 376 - 139\n- RDDD LLDL ULUR DRUU RULL\n- DDLL LLLU UURR DDLD RRRD RUUR UL\nB | N | 376 - 139",
+    "images": [
+      "377_132_1.jpg",
+      "377_132_2.jpg",
+      "377_132_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 377,
+      "z": 209
+    },
+    "solution_text": "M : B | W | 370 - 206\n- UULL LLUR URRD LDRD DRRU ULUU RRUL LULD RDLL LULD RDL",
+    "images": [
+      "377_209_1.jpg",
+      "377_209_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 378,
+      "z": 26
+    },
+    "solution_text": "M : B | N | 380 - 33\n- RUUU ULD\n- RDRR RRDL LLDU RULL LDDL UUUL RDRR UU",
+    "images": [
+      "378_26_1.jpg",
+      "378_26_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 378,
+      "z": 145
+    },
+    "solution_text": "M : B | E | 388 - 147\n- ULUU ULUR\n- RUUR DLDD R\n- DRRR DDLU RUUL DLLU DLLU URRR\n- DRRR UULD RDDL LURR R\nM : R-S | E | 377 - 132\nRaft 396 - 138\nDE : R-N | E | 380 - 166\n- RUUU RRRD DLUR UUL\n- DLLL LU\n- UURR D\n- ULUU RD\n- DDDD DD\n- DD (376 - 139)\n- RESET\n- LLLL RRDR U\n- UU (378 - 145)\n- RESET\n- ULLU UULU R\n- RUUR DLDD R\n- RDRR DDLU RUUL",
+    "images": [
+      "378_145_1.jpg",
+      "378_145_2.jpg",
+      "378_145_3.jpg",
+      "378_145_4.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 379,
+      "z": 84
+    },
+    "solution_text": "M : B | W | 372 - 84\nB | S | 380 - 78",
+    "images": [
+      "379_84_1.jpg",
+      "379_84_2.jpg",
+      "379_84_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 379,
+      "z": 102
+    },
+    "solution_text": "M+ : B | W | 375 - 97",
+    "images": [
+      "379_102_1.jpg",
+      "379_102_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 379,
+      "z": 195
+    },
+    "solution_text": "M+ : B | E | 386 - 198",
+    "images": [
+      "379_195_1.jpg",
+      "379_195_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 380,
+      "z": 33
+    },
+    "solution_text": "M : R-N | W | 373 - 75\n- RRU\n- URRU LULL LD\n- URRD L\n- DDLU RUL",
+    "images": [
+      "380_33_1.jpg",
+      "380_33_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 380,
+      "z": 78
+    },
+    "solution_text": "M : R-E | S | 387 - 77\n- RRDR ULUU R\n- UURD\n- LLLD DLDD RURR DDLU LUR",
+    "images": [
+      "380_78_1.jpg",
+      "380_78_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 380,
+      "z": 166
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "380_166_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 381,
+      "z": 116
+    },
+    "solution_text": "M : B | W | 372 - 113\nM+ : B | S | 382 - 109\n- RRDR DDLU RUUL ULDR DLLR UULL DD\n- LLDL\n- URRR RRDL\n- ULLL LLLD RURD D",
+    "images": [
+      "381_116_1.jpg",
+      "381_116_2.jpg",
+      "381_116_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 382,
+      "z": 109
+    },
+    "solution_text": "M+ : B | S | 379 - 102\n- DDDR DRR\n- DDRR UURU UL\n- RDLU LDRD L\n- ULLU LUUR RDDD DRDL",
+    "images": [
+      "382_109_1.jpg",
+      "382_109_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 383,
+      "z": 96
+    },
+    "solution_text": "SC : B | S | 390 - 93",
+    "images": [
+      "383_96_1.jpg",
+      "383_96_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 383,
+      "z": 186
+    },
+    "solution_text": "M : B | N | 383 - 191\n- UR\n- RRRR RDL\n- LLLU RULD LUU",
+    "images": [
+      "383_186_1.jpg",
+      "383_186_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 383,
+      "z": 191
+    },
+    "solution_text": "M : B | N | 386 - 198",
+    "images": [
+      "383_191_1.jpg",
+      "383_191_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 383,
+      "z": 205
+    },
+    "solution_text": "M : B | W | 377 - 209",
+    "images": [
+      "383_205_1.jpg",
+      "383_205_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 384,
+      "z": 87
+    },
+    "solution_text": "M : R-W | S | 379 - 84\n- RUUU URDD RDLU LDD",
+    "images": [
+      "384_87_1.jpg",
+      "384_87_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 385,
+      "z": 67
+    },
+    "solution_text": "M : R-N | E | 384 - 87\n- DDLU RUUL",
+    "images": [
+      "385_67_1.jpg",
+      "385_67_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 386,
+      "z": 198
+    },
+    "solution_text": "M : B | N | 383 - 205\nM+ : B | E | 393 - 197\n- RRUU\n- ULUL ULLD RRRR DU\n- DRRU L\n- DDDL LLUU UUUU RDLD R\n- LDR\n- RRRU ULDR DDDL DLLL UUUR RRRD RU",
+    "images": [
+      "386_198_1.jpg",
+      "386_198_2.jpg",
+      "386_198_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 386,
+      "z": 206
+    },
+    "solution_text": "M+ : T | W | 383 - 205",
+    "images": [
+      "386_206_1.jpg",
+      "386_206_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 387,
+      "z": 77
+    },
+    "solution_text": "M : B | E | 393 - 76\n- RRDD DRUR UULD LURU LLUL DD\n- RRDD DDLL LUUR RDRR UULD LDRR R",
+    "images": [
+      "387_77_1.jpg",
+      "387_77_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 388,
+      "z": 138
+    },
+    "solution_text": "M : R-N | E | 396 - 144\n- DDLL ULUU RDRR UDRR UULL\n- RDDL LLLL UUUR DLDR",
+    "images": [
+      "388_138_1.jpg",
+      "388_138_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 388,
+      "z": 147
+    },
+    "solution_text": "M : R-S | W | 388 - 138\n- UUUU RURD LDDR\n- URRR RRRD DDL\n- UULL L\n- LLLU LDD\n- UULL DRUR DD\n- DL",
+    "images": [
+      "388_147_1.jpg",
+      "388_147_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 390,
+      "z": 93
+    },
+    "solution_text": "SC : B | S | 394 - 87\n- DDRR RURR UURD DDDR L\n- UULL LLDD DDUL UR\n- R\n- URRD R\n- ULLL DRUR RDDD\nR-E | N | 390 - 103\n- DDRR RUUR RURD DDDR L\n- UULL LLDD DDUL UR\n- RDDR UU\n- RRDR ULUU RRDL\n- DLLL U\n- RDRR UULD RDLL LLLD LU",
+    "images": [
+      "390_93_1.jpg",
+      "390_93_2.jpg",
+      "390_93_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 390,
+      "z": 103
+    },
+    "solution_text": "R-W | S | 379 - 102",
+    "images": [
+      "390_103_1.jpg",
+      "390_103_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 393,
+      "z": 76
+    },
+    "solution_text": "M : B | E | 399 - 73",
+    "images": [
+      "393_76_1.jpg",
+      "393_76_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 393,
+      "z": 186
+    },
+    "solution_text": "DE : B | S | 394 - 180\n&\n400 - 181\n- DDLL LURR URD\n- LLDD LDLU ULUR DRRR U\n- RURD\n- LLLU RURD LDRU RDDD",
+    "images": [
+      "393_186_1.jpg",
+      "393_186_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 393,
+      "z": 197
+    },
+    "solution_text": "M+ : B | E | 400 - 200",
+    "images": [
+      "393_197_1.jpg",
+      "393_197_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 394,
+      "z": 87
+    },
+    "solution_text": "SC : B | S | 399 - 82\n- DRRR DDLU UULR\n- DRRR U\n- UULD LDRR\n- UUUD DDRL ULLD RDLL\n- LURU LULR RRDR RUUU LDDL DR",
+    "images": [
+      "394_87_1.jpg",
+      "394_87_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 394,
+      "z": 174
+    },
+    "solution_text": "DE : B | E | 400 - 173\n400 - 173: SP- RESET\n- DL\nN: 400 - 181\nW: 394 - 180\nS: 394 - 174\n- RESET\n- DRR\nDE : B | E | 396 - 168\n394 - 174 → 400 - 173- DDLD DR\nE: 400 - 173\n- RD\n- DRDD DRUU RULD LLUU RDRD LLLL\nW: 394 - 174\n- DDRD",
+    "images": [
+      "394_174_1.jpg",
+      "394_174_2.jpg",
+      "394_174_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 394,
+      "z": 180
+    },
+    "solution_text": "DE : B | S | 394 - 174",
+    "images": [
+      "394_180_1.jpg",
+      "394_180_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 394,
+      "z": 206
+    },
+    "solution_text": "M+ : B | W | 386 - 206\n- LUUU LLUL LD\n- RDDD L\n- ULUL D\n- RDDD L\n- ULLU R\n- LDDD RUU\n- RRRU LDLL U\n- L",
+    "images": [
+      "394_206_1.jpg",
+      "394_206_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 396,
+      "z": 138
+    },
+    "solution_text": "M : B | N | 396 - 144\nM : R-N | W | 378 - 145\nN: 396 - 144\n- UUUL LD\nS: 396 - 138",
+    "images": [
+      "396_138_1.jpg",
+      "396_138_2.jpg",
+      "396_138_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 396,
+      "z": 144
+    },
+    "solution_text": "M : R-S | W | 396 - 138",
+    "images": [
+      "396_144_1.jpg",
+      "396_144_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 396,
+      "z": 168
+    },
+    "solution_text": "Dead end",
+    "images": [
+      "396_168_1.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 397,
+      "z": 191
+    },
+    "solution_text": "DE : B | S | 393 - 186\n- DDDD RL",
+    "images": [
+      "397_191_1.jpg",
+      "397_191_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 399,
+      "z": 73
+    },
+    "solution_text": "M : R-W | S | 385 - 67\n- RDDR RDDD RLDD LU\n- LU\n- RURU LL\n- RUUL LLUD",
+    "images": [
+      "399_73_1.jpg",
+      "399_73_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 399,
+      "z": 82
+    },
+    "solution_text": "SC : B | S | 399 - 73",
+    "images": [
+      "399_82_1.jpg",
+      "399_82_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 400,
+      "z": 173
+    },
+    "solution_text": "DE : B | W | 394 - 174\n394 - 174: SP- RESET\n- DRR\nN: 394 - 180\nN: 400 - 181\nS: 400 - 173\n- RESET\n- DL\nDE : B | W | 396 - 168\nSee 394 - 174",
+    "images": [
+      "400_173_1.jpg",
+      "400_173_2.jpg",
+      "400_173_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 400,
+      "z": 181
+    },
+    "solution_text": "DE : B | E | 407 - 181\nDE : B | S | 400 - 173\nE: 407 - 181\nC: 400 - 181\n- DLLD DDDR RRDU RULD LLUU RDLD R\nE: 403 - 186\nE: 407 - 181\nW: 400 - 181\n- LULD D",
+    "images": [
+      "400_181_1.jpg",
+      "400_181_2.jpg",
+      "400_181_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 400,
+      "z": 200
+    },
+    "solution_text": "M+ : B | N | 394 - 206\n- ULUR DRRU URUU ULLD DR\n- DRRR DDRU UURL DLLU U\n- LUUL LDDR DRUU\n- DRRU L\n- DLLU ULRD DLLU U\nDE : R-S | W | 397 - 191\n- ULUR DRRU URUU ULLD DRR\n- DRRD DRUU URL\n- DLLU LUUR D\n- URDD DRDL\nW: 393 - 197\n- RESET\n- RRDD DDRR ULUU R\nW: 400 - 200",
+    "images": [
+      "400_200_1.jpg",
+      "400_200_2.jpg",
+      "400_200_3.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 403,
+      "z": 186
+    },
+    "solution_text": "DE : B | W | 400 - 181",
+    "images": [
+      "403_186_1.jpg",
+      "403_186_2.jpg"
+    ]
+  },
+  {
+    "coordinates": {
+      "x": 407,
+      "z": 181
+    },
+    "solution_text": "DE : B | W | 403 - 186\n- R\n- URRU RRRD L\n- LLDD LUUR ULDL U\n- RRRU LUUL LDDU URRD DDLD LU",
+    "images": [
+      "407_181_1.jpg",
+      "407_181_2.jpg"
+    ]
+  }
+]
