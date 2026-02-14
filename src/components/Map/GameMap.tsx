@@ -101,6 +101,7 @@ function MouseCoordinates() {
 export default function GameMap() {
   const [showExhibits, setShowExhibits] = useState(true);
   const [showFriends, setShowFriends] = useState(true);
+  const [showMailboxes, setShowMailboxes] = useState(true);
   const [showSolutions, setShowSolutions] = useState(false);
   const [lightboxImage, setLightboxImage] = useState<string | null>(null);
   const [showHelp, setShowHelp] = useState(false);
@@ -109,6 +110,7 @@ export default function GameMap() {
   const visibleMarkers = initialMarkers.filter((marker) => {
     if (marker.type === "friend") return showFriends;
     if (marker.type === "exhibit") return showExhibits;
+    if (marker.type === "mailbox") return showMailboxes;
     if (marker.type === "solution") return showSolutions;
     return true; // Show other types by default
   });
@@ -136,6 +138,15 @@ export default function GameMap() {
               className="rounded border-stone-400 text-stone-600 focus:ring-stone-500"
             />
             <span>Friends</span>
+          </label>
+          <label className="flex items-center gap-2 text-sm cursor-pointer text-stone-700 hover:text-stone-900">
+            <input
+              type="checkbox"
+              checked={showMailboxes}
+              onChange={(e) => setShowMailboxes(e.target.checked)}
+              className="rounded border-stone-400 text-stone-600 focus:ring-stone-500"
+            />
+            <span>Mailboxes</span>
           </label>
           <label className="flex items-center gap-2 text-sm cursor-pointer text-stone-700 hover:text-stone-900">
             <input
@@ -172,6 +183,7 @@ export default function GameMap() {
         {visibleMarkers.map((marker) => {
           const getIcon = () => {
             if (marker.type === "friend") return friendIcon;
+            if (marker.type === "mailbox") return mailboxIcon;
             if (marker.type === "solution") return solutionIcon;
             return artifactIcon;
           };
@@ -193,6 +205,16 @@ export default function GameMap() {
                     <p className="text-sm text-gray-700">
                       {marker.description}
                     </p>
+                  </div>
+                </Popup>
+              )}
+
+              {marker.type === "mailbox" && (
+                <Popup minWidth={500} maxWidth={800}>
+                  <div className="max-w-sm">
+                    <h3 className="font-bold font-mono text-sm mb-2">
+                      {marker.position[1]}, {marker.position[0]}
+                    </h3>
                   </div>
                 </Popup>
               )}
