@@ -157,6 +157,7 @@ export default function GameMap() {
             />
             <span>Solutions</span>
           </label>
+
         </div>
       </div>
 
