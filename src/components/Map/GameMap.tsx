@@ -209,16 +209,6 @@ export default function GameMap() {
                 </Popup>
               )}
 
-              {marker.type === "mailbox" && (
-                <Popup minWidth={500} maxWidth={800}>
-                  <div className="max-w-sm">
-                    <h3 className="font-bold font-mono text-sm mb-2">
-                      {marker.position[1]}, {marker.position[0]}
-                    </h3>
-                  </div>
-                </Popup>
-              )}
-
               {marker.type === "solution" && (
                 <Popup minWidth={500} maxWidth={800}>
                   <div className="max-w-sm">
