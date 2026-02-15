@@ -8,10 +8,11 @@ export interface MapMarker {
     images?: string[];
 }
 
-// Import landmark coordinates
+// Import coordinates
 import landmarkData from './LM_coordinates.json';
 import friendData from './friend_coordinates.json';
 import solutionData from './solutions.json';
+import mailboxData from './mailbox_coordinates.json';
 
 // Transform landmarks to MapMarker format
 // Map coordinates: position is [lat, lng] where lat = z + 200 (offset), lng = x + 200 (offset)
@@ -42,4 +43,11 @@ const solutions: MapMarker[] = solutionData.map((sol, idx) => ({
     images: sol.images,
 }));
 
-export const initialMarkers: MapMarker[] = [...landmarks, ...friends, ...solutions];
+const mailboxes: MapMarker[] = mailboxData.mailboxes
+    .map((mailbox) => ({
+        id: mailbox.name,
+        type: 'mailbox' as const,
+        position: [mailbox.z, mailbox.x] as [number, number],
+    }));
+
+export const initialMarkers: MapMarker[] = [...landmarks, ...friends, ...solutions, ...mailboxes];

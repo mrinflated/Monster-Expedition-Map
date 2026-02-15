@@ -101,6 +101,7 @@ function MouseCoordinates() {
 export default function GameMap() {
   const [showExhibits, setShowExhibits] = useState(true);
   const [showFriends, setShowFriends] = useState(true);
+  const [showMailboxes, setShowMailboxes] = useState(true);
   const [showSolutions, setShowSolutions] = useState(false);
   const [lightboxImage, setLightboxImage] = useState<string | null>(null);
   const [showHelp, setShowHelp] = useState(false);
@@ -109,6 +110,7 @@ export default function GameMap() {
   const visibleMarkers = initialMarkers.filter((marker) => {
     if (marker.type === "friend") return showFriends;
     if (marker.type === "exhibit") return showExhibits;
+    if (marker.type === "mailbox") return showMailboxes;
     if (marker.type === "solution") return showSolutions;
     return true; // Show other types by default
   });
@@ -140,12 +142,22 @@ export default function GameMap() {
           <label className="flex items-center gap-2 text-sm cursor-pointer text-stone-700 hover:text-stone-900">
             <input
               type="checkbox"
+              checked={showMailboxes}
+              onChange={(e) => setShowMailboxes(e.target.checked)}
+              className="rounded border-stone-400 text-stone-600 focus:ring-stone-500"
+            />
+            <span>Mailboxes</span>
+          </label>
+          <label className="flex items-center gap-2 text-sm cursor-pointer text-stone-700 hover:text-stone-900">
+            <input
+              type="checkbox"
               checked={showSolutions}
               onChange={(e) => setShowSolutions(e.target.checked)}
               className="rounded border-stone-400 text-stone-600 focus:ring-stone-500"
             />
             <span>Solutions</span>
           </label>
+
         </div>
       </div>
 
@@ -172,6 +184,7 @@ export default function GameMap() {
         {visibleMarkers.map((marker) => {
           const getIcon = () => {
             if (marker.type === "friend") return friendIcon;
+            if (marker.type === "mailbox") return mailboxIcon;
             if (marker.type === "solution") return solutionIcon;
             return artifactIcon;
           };
