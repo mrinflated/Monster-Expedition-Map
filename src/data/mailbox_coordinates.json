@@ -1,5 +1,5 @@
 {
-  "total": 71,
+  "total": 69,
   "mailboxes": [
     {
       "name": "mailbox_01",
@@ -193,166 +193,156 @@
     },
     {
       "name": "mailbox_39",
-      "x": 278,
-      "z": 201
+      "x": 283,
+      "z": 156
     },
     {
       "name": "mailbox_40",
-      "x": 283,
-      "z": 156
-    },
-    {
-      "name": "mailbox_41",
-      "x": 283,
-      "z": 156
-    },
-    {
-      "name": "mailbox_42",
       "x": 236,
       "z": 141
     },
     {
-      "name": "mailbox_43",
+      "name": "mailbox_41",
       "x": 249,
       "z": 127
     },
     {
-      "name": "mailbox_44",
+      "name": "mailbox_42",
       "x": 263,
       "z": 92
     },
     {
-      "name": "mailbox_45",
+      "name": "mailbox_43",
       "x": 265,
       "z": 68
     },
     {
-      "name": "mailbox_46",
+      "name": "mailbox_44",
       "x": 246,
       "z": 34
     },
     {
-      "name": "mailbox_47",
+      "name": "mailbox_45",
       "x": 272,
       "z": 21
     },
     {
-      "name": "mailbox_48",
+      "name": "mailbox_46",
       "x": 294,
       "z": 45
     },
     {
-      "name": "mailbox_49",
+      "name": "mailbox_47",
       "x": 314,
       "z": 236
     },
     {
-      "name": "mailbox_50",
+      "name": "mailbox_48",
       "x": 313,
       "z": 207
     },
     {
-      "name": "mailbox_51",
+      "name": "mailbox_49",
       "x": 301,
       "z": 186
     },
     {
-      "name": "mailbox_52",
+      "name": "mailbox_50",
       "x": 299,
       "z": 173
     },
     {
-      "name": "mailbox_53",
+      "name": "mailbox_51",
       "x": 304,
       "z": 145
     },
     {
-      "name": "mailbox_54",
+      "name": "mailbox_52",
       "x": 326,
       "z": 136
     },
     {
-      "name": "mailbox_55",
+      "name": "mailbox_53",
       "x": 300,
       "z": 86
     },
     {
-      "name": "mailbox_56",
+      "name": "mailbox_54",
       "x": 328,
       "z": 40
     },
     {
-      "name": "mailbox_57",
+      "name": "mailbox_55",
       "x": 317,
       "z": 24
     },
     {
-      "name": "mailbox_58",
+      "name": "mailbox_56",
       "x": 330,
       "z": 201
     },
     {
-      "name": "mailbox_59",
+      "name": "mailbox_57",
       "x": 328,
       "z": 181
     },
     {
-      "name": "mailbox_60",
+      "name": "mailbox_58",
       "x": 336,
       "z": 150
     },
     {
-      "name": "mailbox_61",
+      "name": "mailbox_59",
       "x": 378,
       "z": 207
     },
     {
-      "name": "mailbox_62",
+      "name": "mailbox_60",
       "x": 356,
       "z": 191
     },
     {
-      "name": "mailbox_63",
+      "name": "mailbox_61",
       "x": 398,
       "z": 190
     },
     {
-      "name": "mailbox_64",
+      "name": "mailbox_62",
       "x": 376,
       "z": 138
     },
     {
-      "name": "mailbox_65",
+      "name": "mailbox_63",
       "x": 368,
       "z": 100
     },
     {
-      "name": "mailbox_66",
+      "name": "mailbox_64",
       "x": 353,
       "z": 112
     },
     {
-      "name": "mailbox_67",
+      "name": "mailbox_65",
       "x": 360,
       "z": 84
     },
     {
-      "name": "mailbox_68",
+      "name": "mailbox_66",
       "x": 350,
       "z": 68
     },
     {
-      "name": "mailbox_69",
+      "name": "mailbox_67",
       "x": 373,
       "z": 74
     },
     {
-      "name": "mailbox_70",
+      "name": "mailbox_68",
       "x": 399,
       "z": 81
     },
     {
-      "name": "mailbox_71",
+      "name": "mailbox_69",
       "x": 372,
       "z": 22
     }
