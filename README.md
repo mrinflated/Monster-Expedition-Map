@@ -13,7 +13,7 @@
   [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 </div>
 
-![Monster Expedition Map Screenshot](public/screenshot.png)
+![Monster Expedition Map Screenshot](docs/screenshot.png)
 
 ---
 
@@ -42,13 +42,13 @@ Open [http://localhost:3000](http://localhost:3000) to view the map.
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|------------|---------|
-| [Next.js 16](https://nextjs.org/) | React framework |
-| [React 19](https://react.dev/) | UI library |
-| [Tailwind CSS 4](https://tailwindcss.com/) | Styling |
-| [Leaflet](https://leafletjs.com/) | Interactive maps |
-| [Lucide React](https://lucide.dev/) | Icons |
+| Technology                                 | Purpose          |
+| ------------------------------------------ | ---------------- |
+| [Next.js 16](https://nextjs.org/)          | React framework  |
+| [React 19](https://react.dev/)             | UI library       |
+| [Tailwind CSS 4](https://tailwindcss.com/) | Styling          |
+| [Leaflet](https://leafletjs.com/)          | Interactive maps |
+| [Lucide React](https://lucide.dev/)        | Icons            |
 
 ## 📁 Project Structure
 
