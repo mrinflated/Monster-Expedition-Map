@@ -14,8 +14,8 @@ export default function AboutPage() {
           </p>
           
           <p className="mb-6">
-            Use this map to track your progress, find hidden friends, and locate exhibits.
-            Your progress is saved locally in your browser.
+            Use this map to find hidden friends and locate exhibits. Import your game save on the map page to view your progress statistics.
+            Imported progress is saved locally in this browser and restored when you return. Your save file stays on your device.
           </p>
           
           <h2 className="text-2xl font-bold mt-8 mb-4 text-primary-green">Credits</h2>

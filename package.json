@@ -2,12 +2,15 @@
   "name": "monster-expedition-map",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "homepage": "https://mrinflated.github.io/Monster-Expedition-Map",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test tests/*.test.mjs"
   },
   "dependencies": {
     "clsx": "^2.1.1",
