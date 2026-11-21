@@ -23,6 +23,7 @@
 - 🎯 **Exhibit Tracker** — Mark exhibits as you discover them
 - ⛄ **Friend Locator** — Find all hidden friends on the islands
 - 💡 **Puzzle Solutions** — Step-by-step guides with images
+- 💾 **Save Import** — View progress statistics, retained locally across visits
 
 ## 🚀 Getting Started
 
@@ -39,6 +40,27 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view the map.
+
+Use Node.js 22.18 or later and pnpm 9, matching the CI environment.
+
+## Save progress
+
+Choose **Import save** and select the extensionless file named `save` from your game's save slot folder. Files up to 10 MiB are supported. Imports validate progress IDs and count duplicate IDs once. An invalid import leaves your previous progress intact.
+
+Your file is processed on your device. Only the exhibit, friend, and island progress IDs are retained in this browser's local storage, and they are restored after refresh or a return visit. Import again after making more progress in the game. Clearing site data removes the stored progress. If browser storage is unavailable, the statistics remain available for the current visit and a message explains that they could not be saved.
+
+Progress statistics do not currently mark completed items on the map.
+
+## Development checks
+
+```bash
+pnpm lint
+pnpm test
+pnpm build
+pnpm typecheck
+```
+
+Pull requests run all four checks. The deployment workflow also checks changes before publishing to GitHub Pages. Tests use Node's built-in test runner and need no additional testing dependencies.
 
 ## 🛠️ Tech Stack
 

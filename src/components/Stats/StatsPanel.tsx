@@ -1,33 +1,25 @@
 'use client';
 
-import { useState, useRef } from 'react';
-
-interface SaveData {
-  profile?: {
-    islandsVisited?: number[];
-    exhibitsViewed?: number[];
-    huggedFriends?: number[];
-  };
-}
-
-interface Stats {
-  exhibitsViewed: number;
-  huggedFriends: number;
-  islandsVisited: number;
-}
+import { useState, useRef, useMemo, useSyncExternalStore, useEffect } from 'react';
+import { getStats, MAX_SAVE_BYTES, parseProgress, readProgress, saveBrowserProgress, getProgressSnapshot, getServerProgressSnapshot, subscribeProgress } from '@/utils/progress';
 
 const TOTAL_EXHIBITS = 162;
 const TOTAL_FRIENDS = 60;
 
 export default function StatsPanel() {
-  const [stats, setStats] = useState<Stats>({
-    exhibitsViewed: 0,
-    huggedFriends: 0,
-    islandsVisited: 0,
-  });
+  const snapshot = useSyncExternalStore(subscribeProgress, getProgressSnapshot, getServerProgressSnapshot);
+  const progress = useMemo(() => readProgress({ getItem: () => snapshot.text }), [snapshot.text]);
+  const stats = getStats(progress);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const fileInputRef = useRef<HTMLInputElement>(null);
+  const importing = useRef(false);
+  const mounted = useRef(true);
+
+  useEffect(() => {
+    mounted.current = true;
+    return () => { mounted.current = false; };
+  }, []);
 
   const handleUploadClick = () => {
     fileInputRef.current?.click();
@@ -35,34 +27,26 @@ export default function StatsPanel() {
 
   const handleFileChange = async (event: React.ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0];
-    if (!file) return;
+    if (!file || importing.current) return;
 
+    importing.current = true;
     setIsLoading(true);
     setError(null);
 
     try {
-      const text = await file.text();
-      const saveData: SaveData = JSON.parse(text);
-
-      if (!saveData.profile) {
-        throw new Error('Invalid save file: missing profile data');
+      if (file.size > MAX_SAVE_BYTES) {
+        throw new Error('This file is too large. Choose a save file up to 10 MiB.');
       }
-
-      const exhibitsViewed = saveData.profile.exhibitsViewed?.length ?? 0;
-      const huggedFriends = saveData.profile.huggedFriends?.length ?? 0;
-      // Get unique islands visited
-      const uniqueIslands = new Set(saveData.profile.islandsVisited ?? []);
-      const islandsVisited = uniqueIslands.size;
-
-      setStats({
-        exhibitsViewed,
-        huggedFriends,
-        islandsVisited,
-      });
+      const imported = parseProgress(await file.text());
+      if (!mounted.current) return;
+      saveBrowserProgress(imported);
     } catch (err) {
-      setError(err instanceof Error ? err.message : 'Failed to parse save file');
+      if (mounted.current) {
+        setError(err instanceof Error ? err.message : 'Could not read this file. Choose the game file named save and try again.');
+      }
     } finally {
-      setIsLoading(false);
+      importing.current = false;
+      if (mounted.current) setIsLoading(false);
       // Reset file input so the same file can be uploaded again
       if (fileInputRef.current) {
         fileInputRef.current.value = '';
@@ -72,6 +56,11 @@ export default function StatsPanel() {
 
   const exhibitPercentage = Math.round((stats.exhibitsViewed / TOTAL_EXHIBITS) * 100);
   const friendPercentage = Math.round((stats.huggedFriends / TOTAL_FRIENDS) * 100);
+  const warning = snapshot.temporary
+    ? 'Progress loaded for this visit. Browser storage is unavailable, so import your save again after reloading.'
+    : snapshot.text !== null && !progress
+      ? 'Saved progress could not be restored. Import your game save again.'
+      : null;
 
   return (
     <div className="flex-1 bg-white relative z-10 overflow-y-auto w-full">
@@ -82,22 +71,31 @@ export default function StatsPanel() {
             type="file"
             ref={fileInputRef}
             onChange={handleFileChange}
-            accept="*"
+            aria-label="Import game save"
+            aria-invalid={Boolean(error)}
+            aria-describedby="save-import-feedback save-import-help"
+            disabled={isLoading}
             className="hidden"
           />
           <button
             onClick={handleUploadClick}
             disabled={isLoading}
-            className="px-6 py-3 bg-primary-green text-white rounded-lg font-semibold 
-                       hover:bg-opacity-90 transition-all duration-200 
-                       disabled:opacity-50 disabled:cursor-not-allowed
+            aria-busy={isLoading}
+            aria-describedby="save-import-feedback save-import-help"
+            className="min-w-36 px-6 py-3 bg-primary-green text-white rounded-lg font-semibold cursor-pointer
+                       hover:brightness-90 active:brightness-75 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-green transition-all duration-200
+                       disabled:opacity-50 disabled:cursor-not-allowed motion-reduce:transition-none
                        shadow-md hover:shadow-lg"
           >
-            {isLoading ? 'Loading...' : 'Upload Save'}
+            {isLoading ? 'Importing…' : 'Import save'}
           </button>
-          {error && (
-            <p className="mt-2 text-red-500 text-sm">{error}</p>
-          )}
+          <div id="save-import-feedback" className="mt-2 min-h-12 text-sm">
+            {error && <p role="alert" className="text-red-700">{error}</p>}
+            {warning && <p role="status" className="text-amber-800">{warning}</p>}
+            {!warning && <p role="status" className="text-gray-600">
+              {progress ? 'Progress saved in this browser.' : 'Choose your game save to view your progress.'}
+            </p>}
+          </div>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
@@ -109,7 +107,7 @@ export default function StatsPanel() {
               {stats.exhibitsViewed} / {TOTAL_EXHIBITS}
             </div>
             <div className="w-full bg-gray-200 rounded-full h-2 mt-3">
-              <div className="bg-primary-green h-2 rounded-full transition-all duration-500" style={{ width: `${exhibitPercentage}%` }}></div>
+              <div className="bg-primary-green h-2 rounded-full transition-all duration-500 motion-reduce:transition-none" style={{ width: `${Math.min(exhibitPercentage, 100)}%` }}></div>
             </div>
             <div className="text-xs text-gray-400 mt-1">({exhibitPercentage}%)</div>
           </div>
@@ -121,7 +119,7 @@ export default function StatsPanel() {
               {stats.huggedFriends} / {TOTAL_FRIENDS}
             </div>
              <div className="w-full bg-gray-200 rounded-full h-2 mt-3">
-              <div className="bg-primary-green h-2 rounded-full transition-all duration-500" style={{ width: `${friendPercentage}%` }}></div>
+              <div className="bg-primary-green h-2 rounded-full transition-all duration-500 motion-reduce:transition-none" style={{ width: `${Math.min(friendPercentage, 100)}%` }}></div>
             </div>
             <div className="text-xs text-gray-400 mt-1">({friendPercentage}%)</div>
           </div>
@@ -140,7 +138,7 @@ export default function StatsPanel() {
         </div>
 
         <div className="mt-12 text-center text-sm text-gray-500 space-y-3">
-          <p>Load your save file to see which exhibits and friends you&apos;ve found!</p>
+          <p id="save-import-help">Import your save file (up to 10 MiB) to see which exhibits and friends you&apos;ve found. The file stays on your device; only progress IDs are saved in this browser.</p>
           <p>
             Select the latest file named <code className="bg-gray-100 px-1.5 py-0.5 rounded font-mono">save</code> (not an image!) under the numbered save slot folder.
           </p>
